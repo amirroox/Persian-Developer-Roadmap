@@ -1,0 +1,75 @@
+@import "Constant.css";
+body {
+    overflow-x: hidden;
+}
+/* Style index.php */
+#Top-Sec {
+    background-color: var(--background-main);
+    color: var(--color-main);
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.Header {
+    padding: 3rem 0 .5rem;
+}
+.Header h1 {
+    font-size: 3.2rem;
+    background: linear-gradient(
+            180deg,
+            white, red
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+hr.between {
+    border: rgba(253, 62, 62, 0.18) solid 1px;
+}
+section.between {
+    margin: 3rem 0 1rem;
+}
+section.between h2 {
+    position: relative;
+    top: -1.2rem;
+    background-color: var(--background-main);
+    display: inline;
+    color: var(--color-main);
+    border: rgba(255, 255, 255, 0.47) 1px solid;
+    padding: .2rem .5rem;
+    border-radius: 10px;
+    font-size: 16px;
+}
+div#role {
+    /*padding: 1rem;*/
+}
+div#role a{
+    padding: .7rem ;
+    width: 100%;
+    display: inline-table;
+    background-color: var(--background-role);
+    border-radius: .3rem;
+    border: transparent solid 1px;
+}
+div#role a:hover{
+    border: white solid 1px;
+    cursor: pointer;
+}
+section div#Guide {
+    padding: 2rem;
+}
+section div#Guide h3 {
+    font-size: 1.7rem;
+    margin-bottom: 1.3rem;
+}
+section div#Guide div a {
+    display: block;
+    margin-right:30px ;
+    line-height: 2rem;
+    padding: 5px 0;
+    border-bottom: rgba(0, 0, 0, 0.4) solid 1px;
+    transition: all 1s;
+}
+section div#Guide div a:hover {
+    margin-right:50px ;
+    color: red;
+}
