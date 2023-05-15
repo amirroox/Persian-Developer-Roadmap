@@ -1,36 +1,13 @@
-/* Variable */
-:root {
-    --background-main: rgb(20, 15, 42);
-    --background-role: rgba(136, 142, 174, 0.4);
-    --color-main: white;
-}
+@import "Constant.css";
 body {
     overflow-x: hidden;
 }
-/* Style HEAD */
-#Head-Sec {
-    background-color: var(--background-main);
-    color: var(--color-main);
-    padding: 3rem 0;
-    text-align: center;
-}
-#Head-Sec li {
-    display: inline;
-    padding: 0 2rem;
-    color: pink;
-}
-#Head-Sec li:hover {
-    color: white;
-    font-weight: 500;
-}
-
-
 /* Style index.php */
 #Top-Sec {
     background-color: var(--background-main);
     color: var(--color-main);
     text-align: center;
-    margin-bottom: 0;
+    padding-bottom: 2rem;
 }
 .Header {
     padding: 3rem 0 .5rem;
@@ -66,7 +43,7 @@ div#role {
     /*padding: 1rem;*/
 }
 div#role a{
-    padding: .3rem 0 ;
+    padding: .7rem ;
     width: 100%;
     display: inline-table;
     background-color: var(--background-role);
@@ -76,4 +53,23 @@ div#role a{
 div#role a:hover{
     border: white solid 1px;
     cursor: pointer;
+}
+section div#Guide {
+    padding: 2rem;
+}
+section div#Guide h3 {
+    font-size: 1.7rem;
+    margin-bottom: 1.3rem;
+}
+section div#Guide div a {
+    display: block;
+    margin-right:30px ;
+    line-height: 2rem;
+    padding: 5px 0;
+    border-bottom: rgba(0, 0, 0, 0.4) solid 1px;
+    transition: all 1s;
+}
+section div#Guide div a:hover {
+    margin-right:50px ;
+    color: red;
 }

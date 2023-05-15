@@ -1,0 +1,26 @@
+@import "Constant.css";
+
+/* Style Header & Footer */
+#Head-Sec , #Foot-Sec {
+    background-color: var(--background-main);
+    color: var(--color-main);
+    padding: 3rem 0 1rem;
+    text-align: center;
+}
+#Head-Sec li , #Foot-Sec li {
+    display: inline;
+    padding: 0 2rem;
+    color: pink;
+}
+#Head-Sec li:hover , #Foot-Sec li:hover {
+    color: white;
+    font-weight: 500;
+}
+
+#Foot-Sec div:first-child {
+    margin-bottom: 1.5rem;
+}
+div.menu li{
+    font-size: .8rem;
+    padding: 1px !important;
+}
