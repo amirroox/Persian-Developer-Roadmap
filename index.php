@@ -12,12 +12,78 @@
 <body>
 <?php require "public/Header.php" ?>
 
-<section id="Head-Sec">
-    <br>
+<section id="Top-Sec">
     <div class="Header">
         <h1>Developer Roadmap</h1>
         <p>نقشه راه شما آماده است</p>
     </div>
+    <section class="between">
+        <hr class="between">
+        <h2>نقشه راه مبتنی بر رشته</h2>
+    </section>
+    <div id="role" class="row container">
+        <div class="col-l-4">
+            <a href="#">Frontend (سمت کاربر) </a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">Backend (سمت سرور)</a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">DevOps (توسعه عملیات)</a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">Frontend (سمت کاربر) </a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">Backend (سمت سرور)</a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">DevOps (توسعه عملیات)</a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">Frontend (سمت کاربر) </a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">Backend (سمت سرور)</a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">DevOps (توسعه عملیات)</a>
+        </div>
+    </div>
+    <section class="between">
+        <hr class="between">
+        <h2>نقشه راه مبتنی بر رشته</h2>
+    </section>
+    <div id="role" class="row container">
+        <div class="col-l-4">
+            <a href="#">Frontend (سمت کاربر) </a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">Backend (سمت سرور)</a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">DevOps (توسعه عملیات)</a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">Frontend (سمت کاربر) </a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">Backend (سمت سرور)</a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">DevOps (توسعه عملیات)</a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">Frontend (سمت کاربر) </a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">Backend (سمت سرور)</a>
+        </div>
+        <div class="col-l-4">
+            <a href="#">DevOps (توسعه عملیات)</a>
+        </div>
+    </div>
+    <br><br><br><br><br><br><br><br><br><br>
 </section>
 
 </body>

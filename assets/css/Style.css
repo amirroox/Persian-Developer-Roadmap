@@ -1,9 +1,12 @@
 /* Variable */
 :root {
     --background-main: rgb(20, 15, 42);
+    --background-role: rgba(136, 142, 174, 0.4);
     --color-main: white;
 }
-
+body {
+    overflow-x: hidden;
+}
 /* Style HEAD */
 #Head-Sec {
     background-color: var(--background-main);
@@ -23,28 +26,54 @@
 
 
 /* Style index.php */
+#Top-Sec {
+    background-color: var(--background-main);
+    color: var(--color-main);
+    text-align: center;
+    margin-bottom: 0;
+}
+.Header {
+    padding: 3rem 0 .5rem;
+}
 .Header h1 {
-    font-size: 3.8rem;
+    font-size: 3.2rem;
     background: linear-gradient(
-            25deg,
-            white 19%,
-            transparent 20%,
-            transparent 20%,
-            blue 30%,
-            red 39%,
-            transparent 39%,
-            transparent 40%,
-            red 40%,
-            blue 69%,
-            transparent 59%,
-            transparent 60%,
-            blue 69%,
-            red 89%,
-            transparent 79%,
-            transparent 80%,
-            white 80%
+            180deg,
+            white, red
     );
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
+}
+hr.between {
+    border: rgba(253, 62, 62, 0.18) solid 1px;
+}
+section.between {
+    margin: 3rem 0 1rem;
+}
+section.between h2 {
+    position: relative;
+    top: -1.2rem;
+    background-color: var(--background-main);
+    display: inline;
+    color: var(--color-main);
+    border: rgba(255, 255, 255, 0.47) 1px solid;
+    padding: .2rem .5rem;
+    border-radius: 10px;
+    font-size: 16px;
+}
+div#role {
+    /*padding: 1rem;*/
+}
+div#role a{
+    padding: .3rem 0 ;
+    width: 100%;
+    display: inline-table;
+    background-color: var(--background-role);
+    border-radius: .3rem;
+    border: transparent solid 1px;
+}
+div#role a:hover{
+    border: white solid 1px;
+    cursor: pointer;
 }
