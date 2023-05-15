@@ -1,0 +1,50 @@
+/* Variable */
+:root {
+    --background-main: rgb(20, 15, 42);
+    --color-main: white;
+}
+
+/* Style HEAD */
+#Head-Sec {
+    background-color: var(--background-main);
+    color: var(--color-main);
+    padding: 3rem 0;
+    text-align: center;
+}
+#Head-Sec li {
+    display: inline;
+    padding: 0 2rem;
+    color: pink;
+}
+#Head-Sec li:hover {
+    color: white;
+    font-weight: 500;
+}
+
+
+/* Style index.php */
+.Header h1 {
+    font-size: 3.8rem;
+    background: linear-gradient(
+            25deg,
+            white 19%,
+            transparent 20%,
+            transparent 20%,
+            blue 30%,
+            red 39%,
+            transparent 39%,
+            transparent 40%,
+            red 40%,
+            blue 69%,
+            transparent 59%,
+            transparent 60%,
+            blue 69%,
+            red 89%,
+            transparent 79%,
+            transparent 80%,
+            white 80%
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
