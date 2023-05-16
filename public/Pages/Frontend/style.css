@@ -1,0 +1,9 @@
+section.subject {
+    padding: 2rem 0;
+}
+section.subject div.options a {
+    background-color: gray;
+    padding: .5rem;
+    border-radius: .6rem;
+    font-size: .9rem;
+}
