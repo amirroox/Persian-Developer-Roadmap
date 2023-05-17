@@ -22,7 +22,7 @@
     <div class="row options">
         <div class="col-l-6">
             <a href="../../../index.php">تمامی نقشه راه ها</a>
-            <a href="#">دانلود به صروت PDF</a>
+            <a href="#">دانلود به صورت PDF</a>
         </div>
         <div class="col-l-6">
             <a href="#" style="float: left">پیشنهاد تغییر - نقشه راه بهتر</a>
