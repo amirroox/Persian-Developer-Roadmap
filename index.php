@@ -1,3 +1,4 @@
+<?php include "Constants.php"?>
 <!doctype html>
 <html lang="fa" dir="rtl">
 <head>
@@ -6,13 +7,12 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Developer RoadMap</title>
-    <link rel="stylesheet" href="assets/css/SeedStyle.css">
+    <link rel="stylesheet" href="assets/css/FullStyle.css">
     <link rel="stylesheet" href="assets/css/Style.css">
-    <link rel="stylesheet" href="assets/css/Head_Footer.css">
 </head>
 <body>
 <!-- HEADER -->
-<?php require "public/Header.php" ?>
+<?php require "public/Main/Header.php" ?>
 
 <!-- TOP SECTION HEAD -->
 <section id="Top-Sec">
@@ -26,7 +26,7 @@
     </section>
     <div id="role" class="row container">
         <div class="col-l-4">
-            <a href="#">Frontend (سمت کاربر) </a>
+            <a href="public/Pages/Frontend/Frontend.php">Frontend (سمت کاربر) </a>
         </div>
         <div class="col-l-4">
             <a href="#">Backend (سمت سرور)</a>
@@ -137,7 +137,7 @@
 </section>
 
 <!-- FOOTER -->
-<?php require "public/Footer.php" ?>
+<?php require "public/Main/Footer.php" ?>
 </body>
 </html>
 

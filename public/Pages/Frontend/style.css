@@ -1,0 +1,37 @@
+body {
+    overflow-x: hidden;
+}
+section.subject {
+    padding: 2rem 2rem;
+}
+section.subject div.options a {
+    background-color: gray;
+    padding: .5rem;
+    border-radius: .6rem;
+    font-size: .9rem;
+}
+svg text tspan{
+    font-family: Lalezar , serif;
+}
+g.clickable-group {
+    cursor: pointer;
+}
+g.clickable-group:hover :not(circle) {
+    filter: hue-rotate(216deg);;
+}
+
+dialog {
+    max-width: 85%;
+    max-height: 65%;
+    position: fixed;
+    top: 20%;
+    margin: auto;
+    text-align: center;
+    overflow-x: hidden;
+    overflow-y: auto;
+    border: gray solid 1px;
+    display: none;
+    border-radius: 1.3rem;
+    box-shadow: 0 0 7px black;
+    padding: 5rem;
+}

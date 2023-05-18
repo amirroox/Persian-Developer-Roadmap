@@ -3,8 +3,8 @@
             <div class="col-l-3">&nbsp;</div>
             <div class="col-l-6">
                 <ul>
-                    <li><a href="#">نقشه راه</a></li>
-                    <li><a href="#">گیت هاب</a></li>
+                    <li><a href="<?=MAIN_SERVER?>">نقشه راه</a></li>
+                    <li><a href="">گیت هاب</a></li>
                     <li><a href="#">راهنما</a></li>
                 </ul>
             </div>

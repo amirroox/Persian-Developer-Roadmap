@@ -22,23 +22,6 @@ body {
     -webkit-background-clip: text;
     color: transparent;
 }
-hr.between {
-    border: rgba(253, 62, 62, 0.18) solid 1px;
-}
-section.between {
-    margin: 3rem 0 1rem;
-}
-section.between h2 {
-    position: relative;
-    top: -1.2rem;
-    background-color: var(--background-main);
-    display: inline;
-    color: var(--color-main);
-    border: rgba(255, 255, 255, 0.47) 1px solid;
-    padding: .2rem .5rem;
-    border-radius: 10px;
-    font-size: 16px;
-}
 div#role {
     /*padding: 1rem;*/
 }
