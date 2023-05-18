@@ -4,7 +4,7 @@
 #Head-Sec , #Foot-Sec {
     background-color: var(--background-main);
     color: var(--color-main);
-    padding: 3rem 0 1rem;
+    padding: 1.3rem 0 1.3rem;
     text-align: center;
 }
 #Head-Sec li , #Foot-Sec li {

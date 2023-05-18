@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="149 166 1182 3446" style="font-family: balsamiq">
+<svg viewBox="149 166 1182 3446" style="font-family: lalezar">
     <path d="M852 2279Q704.7435145454107 2283.393066382596 543.2535303826006 2282.4362035980903" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
     <path d="M536.7854956475016 2259.438746762183Q675.7870539018563 2260.605060846091 716 2136" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
     <path d="M1156 2631Q1186.7359467455622 2633.610946745562 1220 2632" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
@@ -249,12 +249,14 @@
     <text x="1113" y="205" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
         <tspan>بقیه منابع در لینک زیر</tspan>
     </text>
-    <g class="clickable-group" data-group-id="ext_link:roadmap.sh">
+    <g>
+        <a href="https://ro-ox.com" target="_blank">
         <text x="1050" y="244.5" fill="rgba(254,0,38,255)" font-style="normal" font-weight="normal" font-size="23px">
             <tspan>https://ro-ox.com</tspan>
         </text>
+        </a>
     </g>
-    <g class="clickable-group" data-group-id="json:jsons/roadmaps/frontend-beginner.json">
+    <g class="clickable-group" data-group-id="json:Beginner">
         <rect x="992.35" y="299.35" width="279.3" height="44.3" rx="2" fill="rgb(65,53,214)" fill-opacity="1" stroke="rgb(65,53,214)" stroke-width="2.7"></rect>
         <text x="1050" y="327" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>مشاهده نسخه مبتدی</tspan>
@@ -834,7 +836,7 @@
     </g>
     <g class="clickable-group" data-group-id="101-testing-your-apps:react-testing-library">
         <rect x="1105.35" y="1943.35" width="192.3" height="37.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
-        <text x="1126" y="1967.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+        <text x="1110" y="1967.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
             <tspan>react-testing-library</tspan>
         </text>
         <circle cx="1297" cy="1960" r="10" fill="rgb(255,255,255)"></circle>

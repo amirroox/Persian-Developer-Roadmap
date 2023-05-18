@@ -1,3 +1,4 @@
+<?php include "Constants.php"?>
 <!doctype html>
 <html lang="fa" dir="rtl">
 <head>

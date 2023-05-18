@@ -498,6 +498,7 @@
 [class ^= 'col-'] {
     float: right;
     padding: .3rem;
+    margin: .3rem 0;
 }
 .img-responsive {
     width: 100%;
