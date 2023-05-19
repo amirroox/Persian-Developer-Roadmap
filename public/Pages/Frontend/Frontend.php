@@ -31,7 +31,7 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
     <div class="row options">
         <div class="col-xs-12 col-s-12 col-l-6">
             <a href="<?=MAIN_SERVER?>">تمامی نقشه راه ها</a>
-            <a href="<?=$Name_Page.'.pdf'?>">دانلود به صورت PDF</a>
+            <a id="DownloadFile" href="bin/<?=$Name_Page.'.pdf'?>">دانلود به صورت PDF</a>
         </div>
         <div class="col-xs-12 col-s-12 col-l-6" style="text-align: left">
             <a href='<?=MAIN_GITHUB . "/issues/new?title=[Suggestion] $Name_Page Developer"?>' target="_blank">پیشنهاد تغییر - نقشه راه بهتر</a>
@@ -51,12 +51,12 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
 
     <!-- Main RoadMap -->
 <section class="container RoadMap" style="direction: ltr">
-    <?php include "$Name_Page.svg" ?>
+    <?php include "bin/$Name_Page.svg" ?>
 </section>
 
     <!-- Simple RoadMap -->
 <section class="container RoadMapBeginner" style="direction: ltr; display: none">
-    <?php include "$Name_Page"."Beginner.svg" ?>
+    <?php include "bin/$Name_Page"."Beginner.svg" ?>
 </section>
 
 <!-- END MAIN -->
@@ -73,14 +73,16 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
 <script>
     $('.clickable-group').on('click',function (){
         let data = $(this).attr('data-group-id');
+        let name_page = "<?=$Name_Page?>" ;
         $.ajax({
             method: "POST",
             url: "../../AjaxHandler.php",
-            data: { name:"<?=$Name_Page?>" , data_result: data } ,
+            data: { name: name_page , data_result: data } ,
             success : function(result) {
                 if (result === "Beginner") {
                     $('.RoadMap').fadeOut();
                     $('.RoadMapBeginner').fadeIn();
+                    $('#DownloadFile').attr('href' , 'bin/' + name_page + "Beginner.pdf")
                 }
                 else if (result === "Pro") {
                     $('.RoadMapBeginner').fadeOut();
