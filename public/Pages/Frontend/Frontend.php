@@ -1,4 +1,7 @@
-<?php include "../../../Constants.php" ?>
+<?php
+include "../../../Constants.php" ;
+$Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
+?>
 <!doctype html>
 <html lang="fa" dir="rtl">
 <head>
@@ -6,9 +9,9 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="../../../assets/css/FullStyle.css">
-    <link rel="stylesheet" href="style.css">
-    <title>Frontend</title>
+    <link rel="stylesheet" href="<?=MAIN_SERVER . 'assets/css/FullStyle.css'?>">
+    <link rel="stylesheet" href="<?=MAIN_SERVER . 'Public/Pages/style.css'?>">
+    <title> <?=$Name_Page?> </title>
 </head>
 <body>
 
@@ -27,11 +30,11 @@
     <br>
     <div class="row options">
         <div class="col-xs-12 col-s-12 col-l-6">
-            <a href="../../../index.php">تمامی نقشه راه ها</a>
+            <a href="<?=MAIN_SERVER?>">تمامی نقشه راه ها</a>
             <a href="#">دانلود به صورت PDF</a>
         </div>
         <div class="col-xs-12 col-s-12 col-l-6" style="text-align: left">
-            <a href="#">پیشنهاد تغییر - نقشه راه بهتر</a>
+            <a href='<?=MAIN_GITHUB . "/issues/new?title=[Suggestion] $Name_Page Developer"?>' target="_blank">پیشنهاد تغییر - نقشه راه بهتر</a>
         </div>
     </div>
     <section class="between">
@@ -41,16 +44,19 @@
 </section>
 
     <!-- Summery DATA - Data Content -->
-<dialog id="Data_Content" open></dialog>
+<dialog id="Data_Content" open>
+    <button>X</button>
+    <div></div>
+</dialog>
 
     <!-- Main RoadMap -->
 <section class="container RoadMap" style="direction: ltr">
-    <?php include "Frontend.svg" ?>
+    <?php include "$Name_Page.svg" ?>
 </section>
 
     <!-- Simple RoadMap -->
 <section class="container RoadMapBeginner" style="direction: ltr; display: none">
-    <?php include "FrontendBeginner.svg" ?>
+    <?php include "$Name_Page"."Beginner.svg" ?>
 </section>
 
 <!-- END MAIN -->
@@ -63,15 +69,14 @@
 
 
 <!-- MAIN SCRIPT -->
-<script src="../../../assets/js/jquery-3.7.0.min.js"></script>
+<script src="<?=MAIN_SERVER . 'assets/js/jquery-3.7.0.min.js'?>"></script>
 <script>
     $('.clickable-group').on('click',function (){
         let data = $(this).attr('data-group-id');
-        $('#Data_Content').val('');
         $.ajax({
             method: "POST",
             url: "../../AjaxHandler.php",
-            data: { name:"Frontend" , data_result: data } ,
+            data: { name:"<?=$Name_Page?>" , data_result: data } ,
             success : function(result) {
                 if (result === "Beginner") {
                     $('.RoadMap').fadeOut();
@@ -82,16 +87,15 @@
                     $('.RoadMap').fadeIn();
                 }
                 else {
-                    $('#Data_Content').fadeIn().html(result);
-                    $("body").css("overflow","hidden");
+                    $('#Data_Content').fadeIn();
+                    $('#Data_Content div').html(result)
                 }
             }
         })
     });
-    $("body").on('click' , function (){
+    $("body > :not(#Data_Content) , #Data_Content button").on('click' , function (){
         $('#Data_Content').fadeOut();
-        $("body").css("overflow","unset");
-    })
+    });
 </script>
 <!-- END MAIN SCRIPT -->
 </body>
