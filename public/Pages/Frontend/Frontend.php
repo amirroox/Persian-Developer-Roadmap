@@ -31,7 +31,7 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
     <div class="row options">
         <div class="col-xs-12 col-s-12 col-l-6">
             <a href="<?=MAIN_SERVER?>">تمامی نقشه راه ها</a>
-            <a href="#">دانلود به صورت PDF</a>
+            <a href="<?=$Name_Page.'.pdf'?>">دانلود به صورت PDF</a>
         </div>
         <div class="col-xs-12 col-s-12 col-l-6" style="text-align: left">
             <a href='<?=MAIN_GITHUB . "/issues/new?title=[Suggestion] $Name_Page Developer"?>' target="_blank">پیشنهاد تغییر - نقشه راه بهتر</a>
