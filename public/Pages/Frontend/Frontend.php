@@ -10,7 +10,7 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="<?=MAIN_SERVER . 'assets/css/FullStyle.css'?>">
-    <link rel="stylesheet" href="<?=MAIN_SERVER . 'Public/Pages/style.css'?>">
+    <link rel="stylesheet" href="<?=MAIN_SERVER . 'public/Pages/style.css'?>">
     <title> <?=$Name_Page?> </title>
 </head>
 <body>
@@ -65,7 +65,7 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
 
 
 <!-- FOOTER -->
-<?php require MAIN_DIR . "Public/Main/Footer.php" ?>
+<?php require MAIN_DIR . "public/Main/Footer.php" ?>
 <!-- END FOOTER -->
 
 

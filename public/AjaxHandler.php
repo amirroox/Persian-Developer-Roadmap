@@ -11,6 +11,5 @@ else {
     $path_folder = $folder . $name_folder . '/' . $name_data . '.php';
     if(file_exists($path_folder)) include $path_folder;
     else echo 'File Not Found';
-
 }
 
