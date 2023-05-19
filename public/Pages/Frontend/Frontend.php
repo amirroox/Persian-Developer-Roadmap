@@ -39,6 +39,7 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
     </div>
     <section class="between">
         <hr class="between">
+        <h2><a href="<?=MAIN_SITE?>" target="_blank">Subscribe</a></h2>
         <h2>Road Map</h2>
     </section>
 </section>
@@ -74,19 +75,27 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
     $('.clickable-group').on('click',function (){
         let data = $(this).attr('data-group-id');
         let name_page = "<?=$Name_Page?>" ;
+        let DownloadBtn = $('#DownloadFile');
         $.ajax({
             method: "POST",
-            url: "../../AjaxHandler.php",
+            url: "<?=MAIN_SERVER . 'public/AjaxHandler.php' ?>",
             data: { name: name_page , data_result: data } ,
             success : function(result) {
                 if (result === "Beginner") {
                     $('.RoadMap').fadeOut();
                     $('.RoadMapBeginner').fadeIn();
-                    $('#DownloadFile').attr('href' , 'bin/' + name_page + "Beginner.pdf")
+                    <?php
+                    $check = 'bin/' . $Name_Page . "Beginner.pdf" ;
+                    # Check Existed File
+                    if(file_exists($check)) :
+                    ?>
+                    DownloadBtn.attr('href' , 'bin/' + name_page + "Beginner.pdf");
+                    <?php endif; ?>
                 }
                 else if (result === "Pro") {
                     $('.RoadMapBeginner').fadeOut();
                     $('.RoadMap').fadeIn();
+                    DownloadBtn.attr('href' , 'bin/' + name_page + ".pdf");
                 }
                 else {
                     $('#Data_Content').fadeIn();
@@ -95,7 +104,7 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
             }
         })
     });
-    $("body > :not(#Data_Content) , #Data_Content button").on('click' , function (){
+    $("#Data_Content button").on('click' , function (){
         $('#Data_Content').fadeOut();
     });
 </script>
