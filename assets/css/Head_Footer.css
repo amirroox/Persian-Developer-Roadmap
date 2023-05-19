@@ -1,6 +1,7 @@
 @import "Constant.css";
 
 /* Style Header & Footer */
+
 #Head-Sec , #Foot-Sec {
     background-color: var(--background-main);
     color: var(--color-main);
@@ -11,6 +12,32 @@
     display: inline;
     padding: 0 2rem;
     color: pink;
+    font-weight: 300;
+}
+
+#Head-Sec div#Wrapper-Phone {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#Wrapper-Phone #list-phone {
+    width: 100vw;
+    height: 100vh;
+    background: var(--background-main);
+    position: fixed;
+    top: -50rem;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 999 !important;
+    transition: all 1.2s;
+}
+#Wrapper-Phone #list-phone ul {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    justify-content: space-evenly;
 }
 #Head-Sec li:hover , #Foot-Sec li:hover {
     color: white;

@@ -70,7 +70,8 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
 
 
 <!-- MAIN SCRIPT -->
-<script src="<?=MAIN_SERVER . 'assets/js/jquery-3.7.0.min.js'?>"></script>
+<script src="<?=MAIN_SERVER . 'assets/vendor/jquery-3.7.0.min.js'?>"></script>
+    <!-- Script For Click -->
 <script>
     $('.clickable-group').on('click',function (){
         let data = $(this).attr('data-group-id');
@@ -108,6 +109,8 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
         $('#Data_Content').fadeOut();
     });
 </script>
-<!-- END MAIN SCRIPT -->
+    <!-- Script For Response Menu -->
+<script src="<?=MAIN_SERVER . 'assets/js/Response-Menu.js'?>"></script>
+ END MAIN SCRIPT
 </body>
 </html>
