@@ -25,7 +25,7 @@
 
         <!-- Phone Response -->
         <div id="Wrapper-Phone" class="s-hidden">
-            <span class="s-hidden" id="list_btn"><?php include MAIN_DIR . 'assets/img/menu-bar.svg' ?></span>
+            <span class="s-hidden" id="list_btn" style="cursor: pointer"><?php include MAIN_DIR . 'assets/img/menu-bar.svg' ?></span>
             <div id="list-phone" class="s-hidden">
                 <ul>
                     <li id="smile" class="s-hidden" style="display: none ; z-index: 1000;cursor: pointer"> &#10149;</li>

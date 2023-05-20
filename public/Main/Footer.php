@@ -1,36 +1,55 @@
 <Footer id="Foot-Sec" class="container-flut">
     <div class="container row">
-        <div class="col-l-12">
+        <div class="col-xs-12 col-md-12">
             <ul>
-                <li><a href="#">نقشه راه</a></li>
-                <li><a href="#">گیت هاب</a></li>
+                <li><a href="<?= MAIN_SERVER ?>">نقشه راه</a></li>
+                <li><a href="<?= MAIN_GITHUB ?>" target="_blank">گیت هاب</a></li>
                 <li><a href="#">راهنما</a></li>
             </ul>
         </div>
     </div>
-    <div class="container row">
-        <div class="col-l-6 menu">
-            <h4>Ro-ox.com</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Dolorem dolores laudantium minus,
-                quaerat velit voluptate?</p>
+    <div class="container row text-footer">
+        <div class="col-md-5 menu">
+            <h4>
+                <span></span>
+                <span><a href="<?= MAIN_SITE ?>" target="_blank"><?php include MAIN_DIR . 'assets/img/MyLogo.svg' ?></a></span>
+            </h4>
+            <p>
+                اگر این نقشه راه به شما کمک کرده و توان مالی دارید خوشحال میشم
+                مارو حمایت کنید تا بروز باشیم
+            </p>
             <ul>
-                <li><a href="#">نقشه راه</a></li> .
-                <li><a href="#">گیت هاب</a></li> .
-                <li><a href="#">راهنما</a></li>
+                <li><a href="https://zarinp.al/roox">حمایت مالی</a></li>
+                .
+                <li><a href="https://daramet.com/amirroox">دونیت</a></li>
+                .
+                <li><a href="https://github.com/amirroox">گیت هاب من</a></li>
             </ul>
         </div>
-        <div class="col-l-6 menu">
-            <h4>Persian RoadMap</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Dolorem dolores laudantium minus,
-                quaerat velit voluptate?</p>
+        <div class="col-md-2"></div>
+        <div class="col-md-5 menu">
+            <h4>
+                <span>Persian RoadMap By
+                    <span>Amir Roox</span>
+                </span>
+                <span><a href="<?= MAIN_SERVER ?>"><?php include MAIN_DIR . 'assets/img/Logo.svg' ?></a></span>
+            </h4>
+            <p>
+                ما سعی میکنیم با استفاده از این نقشه راه ها ، راهی برای موفقیت شما باز کنیم
+                یا در کار خود حرفه ایی تر عمل کنید.
+            </p>
             <ul>
-                <li><a href="#">نقشه راه</a></li> .
-                <li><a href="#">گیت هاب</a></li> .
-                <li><a href="#">راهنما</a></li>
+                <li><a href="<?=MAIN_SITE?>">Roox Team</a></li>
+                .
+                <li><a href="https://roadmap.sh/">Based On roadmap.sh</a></li>
             </ul>
         </div>
     </div>
+    <script>
+        let links = document.querySelectorAll('.text-footer a');
+        for (let i = 0; i < links.length; i++) {
+            links[i].setAttribute('target', '_blank');
+        }
+    </script>
 </Footer>
 

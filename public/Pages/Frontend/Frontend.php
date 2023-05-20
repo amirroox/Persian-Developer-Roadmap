@@ -111,6 +111,6 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
 </script>
     <!-- Script For Response Menu -->
 <script src="<?=MAIN_SERVER . 'assets/js/Response-Menu.js'?>"></script>
- END MAIN SCRIPT
+<!-- END MAIN SCRIPT-->
 </body>
 </html>

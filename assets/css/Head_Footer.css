@@ -50,6 +50,14 @@ div#Wrapper {
 #Foot-Sec div:first-child {
     margin-bottom: 1.5rem;
 }
+#Foot-Sec h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Foot-Sec h4 > span:first-child {
+    margin-left: .8rem;
+}
 div.menu li{
     font-size: .8rem;
     padding: 1px !important;
