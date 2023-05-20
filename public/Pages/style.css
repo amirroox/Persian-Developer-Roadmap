@@ -51,10 +51,9 @@ dialog {
     display: none;
     border-radius: 0 1.3rem 1.3rem 0;
     box-shadow: 0 0 7px black;
-    padding: 5%;
+    padding: 5% 5% 2%;
 }
 dialog button {
-    position: absolute;
     border-radius: 50%;
     padding: .7rem;
     background-color: var(--color-red);
@@ -64,14 +63,15 @@ dialog button {
     transition: all .5s;
 }
 dialog button.close_up_btn {
+    position: absolute;
+    padding: 1rem;
     top: 5%;
     right: 5%;
+    font-weight: 900;
 }
 dialog button.close_down_btn {
-    bottom: -3rem;
-    left: 40%;
-    right: 40%;
     background-color: var(--background-main);
+    margin: 2rem auto 0;
 }
 dialog button:hover {
     background-color: black;
@@ -86,6 +86,11 @@ ul.links-reference {
 }
 ul.links-reference.right-link li::before {
     content: "\21AB";  /* ↫ */
+}
+ul.links-reference.left-link li::before {
+    content: "\21AC";  /* ↬ */
+}
+ul.links-reference.right-link li::before , ul.links-reference.left-link li::before {
     color: var(--color-red);
     font-size: 1.3rem;
     font-weight: bold;
@@ -94,23 +99,23 @@ ul.links-reference.right-link li::before {
 }
 ul.links-reference.left-link {
     text-align: left;
+    direction: ltr;
 }
-ul.links-reference.left-link li::after {
-    content: "\21AC";  /* ↬ */
-    color: var(--color-red);
-    font-size: 1.3rem;
-    font-weight: bold;
-    display: inline-block;
-    width: 2em;
+ul.links-reference li {
+    padding: 0.2rem 0;
 }
 @media screen and (max-width: 456px) {
-    ul.links-reference.right-link li::before , ul.links-reference.left-link li::after {
+    ul.links-reference.right-link li::before , ul.links-reference.left-link li::before {
         content: "";
         font-weight: unset;
         display: unset;
         width: unset;
     }
+    ul.links-reference li {
+        border-bottom: 1px solid gray;
+    }
 }
+
 ul.links-reference li a {
     color: blue;
 }
