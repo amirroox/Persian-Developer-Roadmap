@@ -256,7 +256,7 @@
         </text>
         </a>
     </g>
-    <g class="clickable-group" data-group-id="json:Beginner">
+    <g class="clickable-group" data-group-id="json:beginner">
         <rect x="992.35" y="299.35" width="279.3" height="44.3" rx="2" fill="rgb(65,53,214)" fill-opacity="1" stroke="rgb(65,53,214)" stroke-width="2.7"></rect>
         <text x="1050" y="327" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>مشاهده نسخه مبتدی</tspan>

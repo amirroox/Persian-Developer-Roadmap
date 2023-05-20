@@ -1,0 +1,217 @@
+<svg viewBox="164 276 1169 1548" style="font-family: lalezar">
+    <path d="M783 1118Q783 1190.9635104274455 783 1263.9270208548908" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M779 1509.947896691003Q779 1545.4739483455016 779 1581" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M536 1160.6666666666665Q492.33333333333337 1160.6666666666665 448.6666666666667 1160.6666666666665" fill="none" stroke="rgb(204,0,0)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M781.6 1159.6969696969697Q737.6333333333333 1159.6969696969697 693.6666666666666 1159.6969696969697" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M782.6 987.6969696969697Q738.6333333333333 987.6969696969697 694.6666666666666 987.6969696969697" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M665.6 992.6969696969697Q665.6 1029.1818181818182 665.6 1065.6666666666667" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M1123.6 1078.6969696969697Q1074.5727272727272 1078.6969696969697 1025.5454545454545 1078.6969696969697" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M881.6 1078.6969696969697Q832.5727272727272 1078.6969696969697 783.5454545454545 1078.6969696969697" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M665.6 830.6969696969697Q665.6 867.1818181818182 665.6 903.6666666666667" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M783 713.7878787878788Q717.6515151515151 713.7878787878788 652.3030303030303 713.7878787878788" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M783 584Q709.3500874125874 583.7267164653529 636 584" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M880.6 823.6969696969697Q831.5727272727272 823.6969696969697 782.5454545454545 823.6969696969697" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M782 650Q738.2843512043512 649.8377898003872 694.7466666666667 650" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="ext_link:roadmap.sh/frontend">
+        <text x="716" y="425" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="32px">
+            <tspan>فرانت - اند</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="102-css">
+        <rect x="608.35" y="625.35" width="121.3" height="46.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="652" y="654.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>CSS</tspan>
+        </text>
+    </g>
+    <rect x="984.35" y="282.35" width="321.3" height="192.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1150" y="319.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>بقیه منابع در لینک زیر</tspan>
+    </text>
+    <g>
+        <a href="https://ro-ox.com" target="_blank">
+            <text x="1050" y="354.5" fill="rgb(153,0,255)" font-style="normal" font-weight="normal" font-size="20px">
+                <tspan>https://ro-ox.com</tspan>
+            </text>
+        </a>
+    </g>
+    <g class="clickable-group" data-group-id="json:pro">
+        <rect x="1002.35" y="409.35" width="279.3" height="44.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(51,51,51)" stroke-width="2.7"></rect>
+        <text x="1070" y="438.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>مشاهده نسخه کامل</tspan>
+        </text>
+    </g>
+    <text x="1001" y="392.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>صفر صفر نیستی؟</tspan>
+    </text>
+    <g class="clickable-group" data-group-id="103-javascript">
+        <rect x="606.35" y="689.35" width="124.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="628" y="719.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>JavaScript</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-version-control-systems:basic-usage-of-git">
+        <rect x="831.35" y="800.35" width="92.3" height="46.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="867" y="830" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>Git</tspan>
+        </text>
+    </g>
+    <rect x="223.35" y="311.35" width="377.3" height="147.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="250" y="360" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="24px">
+        <tspan>نسخه مبتدی</tspan>
+    </text>
+    <g class="clickable-group" data-group-id="111-pick-a-framework">
+        <rect x="520.35" y="961.35" width="210.3" height="50.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="542" y="992.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>Frontend Frameworks</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-pick-a-framework:react-js">
+        <rect x="625.35" y="1047.35" width="95.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="649" y="1076.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>React</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="114-css-frameworks">
+        <rect x="840.35" y="1054.35" width="209.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="879" y="1084.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>CSS Frameworks</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-testing-your-apps:jest">
+        <rect x="384.35" y="1137.35" width="96.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="413" y="1166.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>Jest</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="115-testing-your-apps">
+        <rect x="518.35" y="1137.35" width="211.3" height="46.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="552" y="1166.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Testing your Apps</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-css-frameworks:js-first:tailwind-css">
+        <rect x="1080.35" y="1056.35" width="97.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1098" y="1085.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>Tailwind</tspan>
+        </text>
+    </g>
+    <text x="250" y="397.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>این نسخه کوتاه شده است</tspan>
+    </text>
+    <text x="250" y="428.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>برای افرادی که صفر صفر هستند</tspan>
+    </text>
+    <path d="M783 329.6969696969697Q783 359.24242424242425 783 388.78787878787875" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M783 451.93939393939394Q783 618.3030303030305 783 784.6666666666666" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="101-html">
+        <rect x="607.35" y="560.35" width="122.3" height="46.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="645" y="589.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>HTML</tspan>
+        </text>
+    </g>
+    <text x="1150" y="596.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>شما در این مرحله به کارمند داخلی و یا جونیور </tspan>
+    </text>
+    <text x="1150" y="628.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>نیاز دارید تا بتوانید موقعیت خود را توسعه دهید.</tspan>
+    </text>
+    <text x="1150" y="671.5" fill="rgb(0,158,15)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>باید دنبال شغل های فریلنسری آسون و یا کارآموزی</tspan>
+    </text>
+    <text x="1150" y="704.5" fill="rgb(0,158,15)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>برید تا موقعیت شغلی مناسب خود را پیدا کنید.</tspan>
+    </text>
+    <text x="550" y="622" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>وقتی این مسیر را دنبال میکنید ، حتما حتما</tspan>
+    </text>
+    <text x="550" y="654.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>برای خود تمرین و پروژه انجام دهید تا به سعادت برسید !</tspan>
+    </text>
+    <text x="550" y="720" fill="rgb(207,42,39)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>برای اطلاعات بیشتر روی هر خانه که دوست داشتید کلیک کنید</tspan>
+    </text>
+    <text x="550" y="582.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="24px" direction="rtl">
+        <tspan>نکته مهم</tspan>
+    </text>
+    <text x="960" y="779" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>در گیت هاب پروفایل بسازید</tspan>
+    </text>
+    <text x="960" y="808.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>پروژه های خود را در آن منتشر کنید</tspan>
+    </text>
+    <text x="960" y="838.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>و با بقیه برنامه نویسان در ارتباط باشید</tspan>
+    </text>
+    <text x="960" y="878.5" fill="rgb(153,0,255)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>از گیت برای تمامی پروژه های خود استفاده کنید</tspan>
+    </text>
+    <path d="M779.6 922.6969696969697Q737.8 922.6969696969697 696 922.6969696969697" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="107-package-managers">
+        <rect x="521.35" y="897.35" width="208.3" height="50.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="551" y="929" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>Package Managers</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-package-managers:npm">
+        <rect x="616.35" y="808.35" width="100.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="649" y="836.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>npm</tspan>
+        </text>
+    </g>
+    <path d="M783 793.939393939394Q783 822.3030303030304 783 850.6666666666666" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M783 864Q783 956.0000000000001 783 1048" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M783 1060.3333333333333Q783 1082.1666666666667 783 1104" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <text x="450" y="915.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>حتما حتما npm رو یاد بگیرید</tspan>
+    </text>
+    <text x="450" y="946.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>و بعد از آن دنبال ری اکت برید !</tspan>
+    </text>
+    <text x="250" y="1075" fill="rgb(0,158,15)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>حتما با استفاده از ری اکت چند پروژه برای خود بسازید</tspan>
+    </text>
+
+
+    <text x="1200" y="998.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>چندین فریمورک مختلف برای سی اس اس وجود دارد</tspan>
+    </text>
+    <text x="1200" y="1028.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>ولی توصیه ما Tailwind است</tspan>
+    </text>
+    <text x="841" y="1166.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>اگر وقت کافی داشتید یاد بگیرید</tspan>
+    </text>
+    <path d="M779 1751Q777.7695282555643 1715.1626389386877 779 1663" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <rect x="530.35" y="1577.35" width="496.3" height="115.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="700" y="1614.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+        <tspan>برای نقشه راه کامل تر حتما روی لینک زیر کلیک کنید</tspan>
+    </text>
+    <g class="clickable-group" data-group-id="json:pro">
+        <rect x="565.35" y="1631.35" width="427.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="704" y="1657.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
+            <tspan>Frontend Roadmap</tspan>
+        </text>
+    </g>
+    <path d="M822 1818Q820.7695282555643 1782.1626389386877 822 1730" fill="none" stroke="rgb(255,255,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M170 1343Q168.76952825556427 1307.1626389386877 170 1255" fill="none" stroke="rgb(255,255,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M1327 1399Q1325.7695282555642 1363.1626389386877 1327 1311" fill="none" stroke="rgb(255,255,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <rect x="477.35" y="1264.35" width="610.3" height="243.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1040" y="1348.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>تا به این لحظه شما از یک مبتدی به یک برنامه نویس جونیور تبدیل شده اید</tspan>
+    </text>
+    <text x="1040" y="1378.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>البته ممکن است با تمرین بیشتر و بالا بردن دانش خود یک میدلول به حساب بیایید</tspan>
+    </text>
+    <text x="1040" y="1408.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>حالا میتوانید راحت تر کار پیدا کنید</tspan>
+    </text>
+    <text x="508" y="1309.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="24px">
+        <tspan>تازه شروع یادگیریه !</tspan>
+    </text>
+    <text x="508" y="1450.5" fill="rgb(153,0,255)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>هرروز به دانش خود اضافه کنید و پروژه های مختلفی را حتی برای خود بسازید</tspan>
+    </text>
+    <text x="508" y="1479.5" fill="rgb(153,0,255)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>حتما در جایی کار کنید تا علاوه بر تمرین ، دانش و تجربه خود را افزایش دهید</tspan>
+    </text>
+</svg>
