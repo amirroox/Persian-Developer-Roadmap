@@ -14,8 +14,15 @@
     color: pink;
     font-weight: 300;
 }
+#Foot-Sec li {
+    padding: 0 1rem;
+}
 
-#Head-Sec div#Wrapper-Phone {
+#Head-Sec li:hover , #Foot-Sec li:hover {
+    color: white;
+    font-weight: 500;
+}
+#Wrapper-Phone {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -29,7 +36,7 @@
     bottom: 0;
     right: 0;
     left: 0;
-    z-index: 999 !important;
+    z-index: 999;
     transition: all 1.2s;
 }
 #Wrapper-Phone #list-phone ul {
@@ -39,11 +46,8 @@
     width: 100%;
     justify-content: space-evenly;
 }
-#Head-Sec li:hover , #Foot-Sec li:hover {
-    color: white;
-    font-weight: 500;
-}
-div#Wrapper {
+
+#Wrapper {
     display: flex;
     align-items: center;
 }
@@ -63,7 +67,7 @@ div.menu li{
     padding: 1px !important;
 }
 
-/* Between Part */
+/* Between Part (Separator Parting) */
 hr.between {
     border: rgba(253, 62, 62, 0.18) solid 1px;
 }

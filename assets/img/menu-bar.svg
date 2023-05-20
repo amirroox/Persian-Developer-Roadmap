@@ -1,13 +1,6 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="30" height="30"
+<svg version="1.1" width="30" height="30" xmlns="http://www.w3.org/2000/svg"
      viewBox="0 0 941.76 792.22">
-    <defs>
-        <style>
-            .cls-1 {
-            fill: #C4005B;
-            }
-        </style>
-    </defs>
-    <rect class="cls-1" width="941.76" height="149.19" rx="69.12"/>
-    <rect class="cls-1" x="301.49" y="321.52" width="640.27" height="149.19" rx="69.12"/>
-    <rect class="cls-1" y="643.04" width="941.76" height="149.19" rx="69.12"/>
+    <rect fill="#C4005B" width="941.76" height="149.19" rx="69.12"/>
+    <rect fill="#C4005B" x="301.49" y="321.52" width="640.27" height="149.19" rx="69.12"/>
+    <rect fill="#C4005B" y="643.04" width="941.76" height="149.19" rx="69.12"/>
 </svg>

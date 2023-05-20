@@ -1,12 +1,10 @@
 <Footer id="Foot-Sec" class="container-flut">
     <div class="container row">
-        <div class="col-xs-12 col-md-12">
             <ul>
-                <li><a href="<?= MAIN_SERVER ?>">نقشه راه</a></li>
-                <li><a href="<?= MAIN_GITHUB ?>" target="_blank">گیت هاب</a></li>
-                <li><a href="#">راهنما</a></li>
+                <li class="col-xs-4 col-md-4"><a href="<?= MAIN_SERVER ?>">نقشه راه</a></li>
+                <li class="col-xs-4 col-md-4"><a href="<?= MAIN_GITHUB ?>" target="_blank">گیت هاب</a></li>
+                <li class="col-xs-4 col-md-4"><a href="#">راهنما</a></li>
             </ul>
-        </div>
     </div>
     <div class="container row text-footer">
         <div class="col-md-5 menu">

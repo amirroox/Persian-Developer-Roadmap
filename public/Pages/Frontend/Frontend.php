@@ -5,10 +5,7 @@ $Name_Page = str_replace('.php' , '' ,basename(__FILE__)) ;
 <!doctype html>
 <html lang="fa" dir="rtl">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <?php include MAIN_DIR . "public/Main/meta-main.php"?>
     <link rel="stylesheet" href="<?=MAIN_SERVER . 'assets/css/FullStyle.css'?>">
     <link rel="stylesheet" href="<?=MAIN_SERVER . 'public/Pages/style.css'?>">
     <title> <?=$Name_Page?> </title>
