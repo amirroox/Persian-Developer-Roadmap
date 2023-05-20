@@ -69,16 +69,28 @@ dialog button:hover {
     background-color: black;
 }
 
+div.content-dialog p{
+    text-align: justify;
+}
+
 ul.links-reference {
     text-align: right;
 }
 ul.links-reference li::before {
-    content: "\1F894";
+    content: "🢔";  /* \1F894 */
     color: red;
     font-size: 1.3rem;
     font-weight: bold;
     display: inline-block;
     width: 2em;
+}
+@media screen and (max-width: 456px) {
+    ul.links-reference li::before {
+        content: "";  /* \1F894 */
+        font-weight: unset;
+        display: unset;
+        width: unset;
+    }
 }
 ul.links-reference li a {
     color: blue;

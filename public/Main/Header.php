@@ -7,7 +7,13 @@
                 <ul>
                     <li><a href="<?= MAIN_SERVER ?>">نقشه راه</a></li>
                     <li><a href="<?= MAIN_GITHUB ?>" target="_blank">گیت هاب</a></li>
-                    <li><a href="#">راهنما</a></li>
+                    <li><a href="
+                    <?php
+                        # Redirect Guide (Main and etc)
+                        if( strpos($_SERVER['PHP_SELF'] , "index.php") ) echo "#Guide";
+                        else echo "#";
+                        ?>
+                    " id="Guide-Btn-Down">راهنما</a></li>
                 </ul>
             </div>
 
@@ -25,7 +31,8 @@
 
         <!-- Phone Response -->
         <div id="Wrapper-Phone" class="s-hidden">
-            <span class="s-hidden" id="list_btn" style="cursor: pointer"><?php include MAIN_DIR . 'assets/img/menu-bar.svg' ?></span>
+            <span class="s-hidden" id="list_btn"
+                  style="cursor: pointer"><?php include MAIN_DIR . 'assets/img/menu-bar.svg' ?></span>
             <div id="list-phone" class="s-hidden">
                 <ul>
                     <li id="smile" class="s-hidden" style="display: none ; z-index: 1000;cursor: pointer"> &#10149;</li>

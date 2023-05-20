@@ -6,6 +6,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="<?= MAIN_SERVER . 'assets/img/LogoWh.svg'?>" rel="icon" type="image/svg" sizes="32x32">
     <title>Developer RoadMap</title>
     <link rel="stylesheet" href="assets/css/FullStyle.css">
     <link rel="stylesheet" href="assets/css/Style.css">
@@ -134,7 +135,7 @@
         </div>
     </div>
 
-</section>
+    </section>
 
 <!-- FOOTER -->
 <?php require "public/Main/Footer.php" ?>
@@ -144,6 +145,18 @@
 <script src="<?= MAIN_SERVER . 'assets/vendor/jquery-3.7.0.min.js' ?>"></script>
     <!-- Script For Response Menu -->
 <script src="<?= MAIN_SERVER . 'assets/js/Response-Menu.js' ?>"></script>
+
+<script>
+    //Scroll To Guide (Up - Down)
+             $("#Guide-Btn-Down , #Guide-Btn-Up").on("click", function (event) {
+                event.preventDefault();
+                console.log(event)
+                $("html, body").animate({
+                    scrollTop: $("#Guide").offset().top
+                }, 1000);
+                return false;
+            });
+</script>
 </body>
 </html>
 
