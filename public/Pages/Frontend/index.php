@@ -1,6 +1,6 @@
 <?php
 include "../../../Constants.php";
-$Name_Page = str_replace('.php', '', basename(__FILE__));
+$Name_Page = basename(__DIR__);
 ?>
 <!doctype html>
 <html lang="fa" dir="rtl">
