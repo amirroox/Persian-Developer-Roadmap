@@ -55,15 +55,23 @@ dialog {
 }
 dialog button {
     position: absolute;
-    top: 5%;
-    right: 5%;
     border-radius: 50%;
     padding: .7rem;
-    background-color: #ff1313;
-    color: white;
+    background-color: var(--color-red);
+    color: var(--color-main);
     border: none;
     cursor: pointer;
     transition: all .5s;
+}
+dialog button.close_up_btn {
+    top: 5%;
+    right: 5%;
+}
+dialog button.close_down_btn {
+    bottom: -3rem;
+    left: 40%;
+    right: 40%;
+    background-color: var(--background-main);
 }
 dialog button:hover {
     background-color: black;
@@ -76,17 +84,28 @@ div.content-dialog p{
 ul.links-reference {
     text-align: right;
 }
-ul.links-reference li::before {
-    content: "🢔";  /* \1F894 */
-    color: red;
+ul.links-reference.right-link li::before {
+    content: "\21AB";  /* ↫ */
+    color: var(--color-red);
+    font-size: 1.3rem;
+    font-weight: bold;
+    display: inline-block;
+    width: 2em;
+}
+ul.links-reference.left-link {
+    text-align: left;
+}
+ul.links-reference.left-link li::after {
+    content: "\21AC";  /* ↬ */
+    color: var(--color-red);
     font-size: 1.3rem;
     font-weight: bold;
     display: inline-block;
     width: 2em;
 }
 @media screen and (max-width: 456px) {
-    ul.links-reference li::before {
-        content: "";  /* \1F894 */
+    ul.links-reference.right-link li::before , ul.links-reference.left-link li::after {
+        content: "";
         font-weight: unset;
         display: unset;
         width: unset;

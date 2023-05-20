@@ -6,9 +6,16 @@
         با آرایه‌ای عظیم از فناوری‌های شبکه‌بندی الکترونیکی، وایرلس و نوری به هم متصل شده‌اند. به عبارت دقیق‌تر، اینترنت
         مجموعه‌ای از سامانه‌های خودگردان است که با روتر به هم متصل شده‌اند.</p>
     <br>
-    <ul class="links-reference">
-        <li><a href="#">link</a></li>
-        <li><a href="#">link</a></li>
-        <li><a href="#">link</a></li>
-    </ul>
+    <div class="row">
+        <ul class="col-xs-12 col-md-6 links-reference right-link">
+            <li><a href="#">link</a></li>
+            <li><a href="#">link</a></li>
+            <li><a href="#">link</a></li>
+        </ul>
+        <ul class="col-xs-12 col-md-6 links-reference left-link">
+            <li><a href="#">link</a></li>
+            <li><a href="#">link</a></li>
+            <li><a href="#">link</a></li>
+        </ul>
+    </div>
 </div>

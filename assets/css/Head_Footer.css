@@ -11,7 +11,7 @@
 #Head-Sec li , #Foot-Sec li {
     display: inline;
     padding: 0 2rem;
-    color: pink;
+    color: var(--color-pink);
     font-weight: 300;
 }
 #Foot-Sec li {
@@ -19,7 +19,7 @@
 }
 
 #Head-Sec li a:hover , #Foot-Sec li a:hover {
-    color: white;
+    color: var(--color-main);
     font-weight: 500;
 }
 #Wrapper-Phone {
