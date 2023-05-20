@@ -29,7 +29,7 @@
         <path d="M951.5 3011L955.5 3015 962 3008.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="123-bonus-content">
-        <rect x="456.35" y="3228.35" width="207.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="456.35" y="3228.35" width="207.3" height="47.3" rx="2" fill="rgb(0,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="502" y="3257.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>آموزش تکمیلی</tspan>
         </text>

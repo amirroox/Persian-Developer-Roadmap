@@ -5,7 +5,7 @@ const MAIN_SERVER = "http://localhost:63342/Persian-developer-Roadmap" . '/';  #
 const MAIN_GITHUB = "https://github.com/amirroox/Persian-Developer-Roadmap"; # Github Page
 const MAIN_SITE = "https://ro-ox.com";
 const MAIN_COLOR_CHECK = [
-    "ok" => "rgba(254,0,38,255)" ,   # Recommend
+    "ok" => "rgb(254,0,38,255)" ,   # Recommend
     "replace" => "rgb(255, 153, 145)" ,  # Alternative
     "no" =>  "rgb(153,153,153)" ,  # Other Or Not Recommend
 ];

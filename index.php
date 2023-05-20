@@ -27,7 +27,7 @@
     </section>
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/Frontend/Frontend.php">Frontend (سمت کاربر) </a>
+            <a href="public/Pages/Frontend/">Frontend (سمت کاربر) </a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Backend (سمت سرور)</a>
