@@ -3,7 +3,7 @@
 
 $folder = __DIR__ . "/Topics/" ;
 $name_folder = $_POST['name'];
-$name_data = str_replace(":" , "_",$_POST['data_result']);
+$name_data = str_replace(":" , "__",$_POST['data_result']);
 
 if($name_data == 'json_beginner') echo "Beginner";
 else if($name_data == 'json_pro') echo "Pro";

@@ -7,7 +7,6 @@ $Name_Page = basename(__DIR__);
 <head>
     <?php include MAIN_DIR . "public/Main/meta-main.php" ?>
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/css/FullStyle.css' ?>">  <!-- Style Main -->
-    <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Pages/style.css' ?>">    <!-- Style Page -->
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Topics/style.css' ?>">   <!-- Style Topic -->
     <title> <?= $Name_Page ?> Topic </title>
 </head>
@@ -46,11 +45,16 @@ $Name_Page = basename(__DIR__);
         <hr class="between">
         <form id="search_topic">
             <label>
-                <input type="text" onkeyup="showResult(this.value)" placeholder="دنبال چی میگردی ؟">
+                <input id="search_input" type="text" onkeyup="showResult(this.value)" placeholder="دنبال چی میگردی ؟">
             </label>
             <div id="live_search"></div>
         </form>
     </section>
+    <dialog id="Data_Content" open>
+        <button class="close_up_btn">X</button>
+        <div></div>
+        <button class="close_down_btn">بازگشت</button>
+    </dialog>
 </section>
 <!-- END SUBJECT -->
 
@@ -72,21 +76,46 @@ $Name_Page = basename(__DIR__);
 <script src="<?= MAIN_SERVER . 'assets/js/Response-Menu.js' ?>"></script>
 
 <script>
-    function showResult(str) { //Search Box Ajax
-        if (str.length===0) {
-            document.getElementById("live_search").innerHTML="";
-            document.getElementById("live_search").style.border="0px";
+    //Search Box Ajax
+    function ajax_box() {
+        $('.clickable-group').on('click', function () {
+            let data = $(this).attr('data-group-id');
+            let name_page = "<?=$Name_Page?>";
+            //Open Modal
+            $.ajax({
+                method: "POST",
+                url: "<?=MAIN_SERVER . 'public/AjaxHandler.php' ?>",
+                data: {name: name_page, data_result: data},
+                success: function (result) {
+                    $('#Data_Content').fadeIn();
+                    $('#Data_Content div').html(result)
+                }
+            })
+        });
+    }
+
+    function showResult(str) {
+        if (str.length === 0) {
+            document.getElementById("live_search").innerHTML = "";
+            document.getElementById("live_search").style.border = "0px";
             return;
         }
         $.ajax({
             method: "POST",
             url: "livesearch.php",
-            data: {data: str},
+            data: {data: $("#search_input").val()},
             success: function (result) {
-                document.getElementById("live_search").innerHTML=result;
+                document.getElementById("live_search").innerHTML = result;
+                ajax_box();
+                $("#Data_Content button").on('click', function () {
+                    $('#Data_Content').fadeOut();
+                });
             }
         });
 
     }
+
+    ajax_box();
+
 </script>
 </body>

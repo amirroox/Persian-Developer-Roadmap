@@ -6,9 +6,9 @@ $Name_Page = basename(__DIR__);
 <html lang="fa" dir="rtl">
 <head>
     <?php include MAIN_DIR . "public/Main/meta-main.php" ?>
-    <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/css/FullStyle.css' ?>">  <!-- Style Main -->
-    <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Pages/style.css' ?>">    <!-- Style Page -->
-    <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Topics/style.css' ?>">   <!-- Style Topic -->
+    <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/css/FullStyle.css' ?>">  <!-- Style Main seed -->
+    <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Pages/style.css' ?>">    <!-- Style Page Clickable -->
+    <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Topics/style.css' ?>">   <!-- Style Topic popup -->
     <title> <?= $Name_Page ?> Road Map </title>
 </head>
 <body>
