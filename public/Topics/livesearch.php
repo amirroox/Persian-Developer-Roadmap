@@ -2,7 +2,7 @@
 
 include "../../Constants.php";
 
-$name = preg_replace('/[\/\\\\?*^()<>&{}\[\]!@#$%]/',"",$_POST['data']);
+$name = strtolower(preg_replace('/[\/\\\\?*^()<>&{}\[\]!@#$%]/',"",$_POST['data']));
 $name_page = $_POST['name'];
 $excited_file_dir = glob("$name_page/bin/*.*");
 #Delete File bin And .php
