@@ -102,8 +102,8 @@ $Name_Page = basename(__DIR__);
         }
         $.ajax({
             method: "POST",
-            url: "livesearch.php",
-            data: {data: $("#search_input").val()},
+            url: "<?=MAIN_SERVER . 'public/Topics/livesearch.php' ?>",
+            data: {data: $("#search_input").val() , name : "<?=$Name_Page?>" },
             success: function (result) {
                 document.getElementById("live_search").innerHTML = result;
                 ajax_box();

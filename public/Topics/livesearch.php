@@ -1,16 +1,18 @@
 <?php
 
-include "../../../Constants.php";
+include "../../Constants.php";
 
 $name = preg_replace('/[\/\\\\?*^()<>&{}\[\]!@#$%]/',"",$_POST['data']);
-$excited_file_dir = glob("bin/*.*");
+$name_page = $_POST['name'];
+$excited_file_dir = glob("$name_page/bin/*.*");
 #Delete File bin And .php
 $excited_file_dir = str_replace("bin/" , "" , $excited_file_dir);
 $excited_file_dir = str_replace(".php" , "" , $excited_file_dir);
+$excited_file_dir = str_replace("$name_page/" , "" , $excited_file_dir);
 
 if ($preg = preg_grep("/$name/" , $excited_file_dir)) {
     foreach ($preg as $value) {
-        $href = "bin/$value.php";
+        $href = "$name_page/bin/$value.php";
         $data_group =  $value ;
         $pattern = '/[0-9]{1,5}(-)/';  #Delete Number First  (103-)
         $value = preg_replace($pattern,"",$value , 1);
