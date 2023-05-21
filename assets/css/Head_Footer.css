@@ -71,6 +71,11 @@ div.menu li{
 hr.between {
     border: rgba(253, 62, 62, 0.18) solid 1px;
 }
+@media screen and (max-width: 456px) {
+    section.between {
+        text-align: center;
+    }
+}
 section.between {
     margin: 3rem 0 1rem;
 }
@@ -84,4 +89,17 @@ section.between h2 {
     padding: .2rem .5rem;
     border-radius: 10px;
     font-size: 16px;
+}
+section.between form#search_topic {
+    position: relative;
+    top: -1.3rem;
+    text-align: center;
+    width: 100%;
+}
+section.between form#search_topic input[type="text"] {
+    padding: .4rem;
+    width: 70%;
+    font-size: 1rem;
+    border: 1px solid rgba(253, 62, 62, 0.35);
+    border-radius: .5rem;
 }

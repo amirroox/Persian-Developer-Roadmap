@@ -1,5 +1,5 @@
 <?php
-include "../../../Constants.php";
+include_once "../../../Constants.php";
 $Name_Page = basename(__DIR__);
 ?>
 <!doctype html>
@@ -9,7 +9,7 @@ $Name_Page = basename(__DIR__);
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/css/FullStyle.css' ?>">  <!-- Style Main -->
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Pages/style.css' ?>">    <!-- Style Page -->
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Topics/style.css' ?>">   <!-- Style Topic -->
-    <title> <?= $Name_Page ?> </title>
+    <title> <?= $Name_Page ?> Road Map </title>
 </head>
 <body>
 
@@ -22,7 +22,7 @@ $Name_Page = basename(__DIR__);
 
 <!-- Subject -->
 <section class="container subject">
-    <h1>Frontend Developer (توسعه دهنده سمت کاربر)</h1>
+    <h1><?= "$Name_Page Developer" ?> (توسعه دهنده سمت کاربر) </h1>
     <p>راهنمای قدم به قدم برای تبدیل شدن به توسعه دهنده سمت کاربر در سال 1402</p>
     <br>
     <div class="row options">
@@ -38,7 +38,8 @@ $Name_Page = basename(__DIR__);
     <section class="between">
         <hr class="between">
         <h2><a href="<?= MAIN_SITE ?>" target="_blank">Subscribe</a></h2>
-        <h2>Road Map</h2>
+        <h2><?=$Name_Page?></h2>
+        <h2><a href="<?= MAIN_SERVER . 'public/Topics/' . $Name_Page ?>">Topics</a></h2>
     </section>
 </section>
 

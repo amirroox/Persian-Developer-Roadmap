@@ -8,10 +8,9 @@ $name_data = str_replace(":" , "_",$_POST['data_result']);
 if($name_data == 'json_beginner') echo "Beginner";
 else if($name_data == 'json_pro') echo "Pro";
 else {
-    $path_folder = $folder . $name_folder . '/' . $name_data . '.php';
+    $path_folder = $folder . $name_folder . '/bin/' . $name_data . '.php';
     if(file_exists($path_folder)) {
-        include_once "../Constants.php";   # For Internal Link
-        include_once $path_folder;
+        readfile($path_folder);
     }
     else echo "<p style='direction: ltr'>File Not Found '$name_data'</p>";
 }

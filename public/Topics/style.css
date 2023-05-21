@@ -1,3 +1,7 @@
+/* Style for All Topics */
+div.content-dialog h1 {
+    direction: ltr;
+}
 div.content-dialog p{
     text-align: justify;
 }

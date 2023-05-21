@@ -66,11 +66,6 @@
                 </a>
             </li>
             <li>
-                <a href="<?=MAIN_SERVER . 'guides/what-is-internet'?>">
-                    Introduction to Internet
-                </a>
-            </li>
-            <li>
                 <a href="https://internetfundamentals.com" >
                     Learn How the Web Works
                 </a>
