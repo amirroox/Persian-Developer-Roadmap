@@ -47,7 +47,7 @@ $Name_Page = basename(__DIR__);
             <label>
                 <input id="search_input" type="text" onkeyup="showResult(this.value)" placeholder="دنبال چی میگردی ؟">
             </label>
-            <div id="live_search"></div>
+            <div id="live_search"><p> انگلیسی سرچ کن لطفا :) </p></div>
         </form>
     </section>
     <dialog id="Data_Content" open>
@@ -55,6 +55,25 @@ $Name_Page = basename(__DIR__);
         <div></div>
         <button class="close_down_btn">بازگشت</button>
     </dialog>
+    <section id="all_category">
+        <?php
+        $excited_file_dir = glob("bin/*.*");
+        $excited_file_dir = str_replace(array("bin/" , ".php" ) , "" , $excited_file_dir);
+        foreach ($excited_file_dir as $value) {
+            $data_group =  $value ;
+
+            $pattern = '/[0-9]{1,5}(-)/';  #Delete Number First  (103-)
+            $value = preg_replace($pattern,"",$value , 1);
+
+            $value = str_replace("-" , " " , $value);
+
+            $pattern = '/[A-Za-z]*(__)/';  #Delete Subject (internet__)
+            $value = preg_replace($pattern,"",$value );
+
+            echo "<p class='clickable-group' data-group-id='$data_group'> $value </p>";
+        }
+        ?>
+    </section>
 </section>
 <!-- END SUBJECT -->
 
@@ -76,8 +95,9 @@ $Name_Page = basename(__DIR__);
 <script src="<?= MAIN_SERVER . 'assets/js/Response-Menu.js' ?>"></script>
 
 <script>
+
     //Search Box Ajax
-    function ajax_box() {
+    function ajax_box_open_close() {
         $('.clickable-group').on('click', function () {
             let data = $(this).attr('data-group-id');
             let name_page = "<?=$Name_Page?>";
@@ -92,8 +112,11 @@ $Name_Page = basename(__DIR__);
                 }
             })
         });
+        $("#Data_Content button").on('click', function () {
+            $('#Data_Content').fadeOut();
+        });
     }
-
+    ajax_box_open_close();
     function showResult(str) {
         if (str.length === 0) {
             document.getElementById("live_search").innerHTML = "";
@@ -103,19 +126,14 @@ $Name_Page = basename(__DIR__);
         $.ajax({
             method: "POST",
             url: "<?=MAIN_SERVER . 'public/Topics/livesearch.php' ?>",
-            data: {data: $("#search_input").val() , name : "<?=$Name_Page?>" },
+            data: {data: $("#search_input").val(), name: "<?=$Name_Page?>"},
             success: function (result) {
                 document.getElementById("live_search").innerHTML = result;
-                ajax_box();
-                $("#Data_Content button").on('click', function () {
-                    $('#Data_Content').fadeOut();
-                });
+                ajax_box_open_close();
             }
         });
 
     }
-
-    ajax_box();
 
 </script>
 </body>

@@ -49,11 +49,6 @@ ul.links-reference li a:hover {
     font-weight: 900;
 }
 
-#search_topic #live_search p {
-    margin: 1rem auto;
-    /*padding: 50px;*/
-}
-
 /*Scroll Dialog */
 dialog::-webkit-scrollbar {
     width: .7rem;
@@ -83,6 +78,7 @@ dialog {
     border-radius: 0 1.3rem 1.3rem 0;
     box-shadow: 0 0 7px black;
     padding: 5% 5% 2%;
+    z-index: 999;
 }
 dialog button {
     border-radius: 50%;
@@ -111,4 +107,28 @@ dialog button:hover {
 p.clickable-group:hover {
     cursor: pointer;
     font-weight: 700;
+}
+
+#search_topic #live_search p , #all_category p {
+    margin: 1rem auto;
+}
+#all_category p {
+    text-align: center;
+    background-color: var(--background-main);
+    color: var(--color-main);
+    padding: 0.6rem;
+    border-radius: 1rem;
+    filter: blur(.03rem);
+    opacity: 93%;
+    transition: filter 1s,opacity .5s;
+}
+@media screen and (max-width: 456px) {
+    #all_category p {
+        filter: unset;
+        opacity: 100%;
+    }
+}
+#all_category p:hover {
+    filter: blur(0);
+    opacity: 100%;
 }
