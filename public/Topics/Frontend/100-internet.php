@@ -12,10 +12,14 @@
         برخی از این تجهیزات در کف اقیانوس ها (مانند کابل ها) و برخی در آسمان (مانند ماهواره‌ها) وجود دارد.
     </p>
     <br>
+
+
+    <!-- Persian References -->
     <div class="row">
         <ul class="col-xs-12 col-md-6 links-reference right-link">
             <h4>منابع فارسی</h4>
-            <li><a href="https://digiato.com/article/2014/05/16/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%DA%86%DA%AF%D9%88%D9%86%D9%87-%DA%A9%D8%A7%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF">
+            <li>
+                <a href="https://digiato.com/article/2014/05/16/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%DA%86%DA%AF%D9%88%D9%86%D9%87-%DA%A9%D8%A7%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF">
                     چگونه ها: اینترنت چگونه کار می کند؟
                 </a>
             </li>
@@ -42,19 +46,22 @@
 
         </ul>
 
+
+        <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
             <li>
-                <a href="https://cs.fyi/guide/how-does-internet-work" target="_blank">
+                <a href="https://cs.fyi/guide/how-does-internet-work">
                     How does the Internet Work?
                 </a>
             </li>
             <li>
-                <a href="https://www.vox.com/2014/6/16/18076282/the-internet" target="_blank"
-                   rel="noopener noreferrer nofollow">The Internet Explained</a></li>
+                <a href="https://www.vox.com/2014/6/16/18076282/the-internet">
+                    The Internet Explained
+                </a>
+            </li>
             <li>
-                <a href="https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm"
-                   target="_blank">
+                <a href="https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm">
                     How Does the Internet Work?
                 </a>
             </li>
@@ -64,21 +71,28 @@
                 </a>
             </li>
             <li>
-                <a href="https://internetfundamentals.com" target="_blank">
+                <a href="https://internetfundamentals.com" >
                     Learn How the Web Works
                 </a>
             </li>
             <li>
-                <a href="https://www.youtube.com/watch?v=x3c1ih2NJEg" target="_blank"
-                   rel="noopener noreferrer nofollow">
+                <a href="https://www.youtube.com/watch?v=x3c1ih2NJEg">
                     How does the Internet work?</a>
             </li>
             <li>
-                <a href="https://www.youtube.com/watch?v=7_LPdttKXPc" target="_blank"
-                   rel="noopener noreferrer nofollow">
+                <a href="https://www.youtube.com/watch?v=7_LPdttKXPc">
                     How the Internet Works in 5 Minutes
                 </a>
             </li>
         </ul>
+
     </div>
 </div>
+<script>
+    //Add Attribute target and rel
+    let links_ref = document.querySelectorAll('.links-reference a');
+    for (let i = 0; i < links_ref.length; i++) {
+        links_ref[i].setAttribute('target', '_blank');
+        links_ref[i].setAttribute('rel', 'noopener noreferrer nofollow');
+    }
+</script>
