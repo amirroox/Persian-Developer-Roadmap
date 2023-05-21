@@ -14,5 +14,6 @@ const MAIN_COLOR_BACK = [
     "minor" => "rgb(122,255,101)" ,  # Minor
     "road" =>  "rgb(43,120,228)" ,  # Road - Line
 ];
+const CHECK_SVG = 0 ;  //Default Value
 
 include "assets/vendor/Helper.php" ;

@@ -53,7 +53,7 @@
                 <a href="https://www.vox.com/2014/6/16/18076282/the-internet" target="_blank"
                    rel="noopener noreferrer nofollow">The Internet Explained</a></li>
             <li>
-                <a href="http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm"
+                <a href="https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm"
                    target="_blank">
                     How Does the Internet Work?
                 </a>

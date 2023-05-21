@@ -23,7 +23,7 @@
     </div>
     <section class="between">
         <hr class="between">
-        <h2>نقشه راه مبتنی بر رشته</h2>
+        <h2>نقشه راه بر اساس نقش</h2>
     </section>
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
@@ -54,10 +54,12 @@
             <a href="#">DevOps (توسعه عملیات)</a>
         </div>
     </div>
+
     <section class="between">
         <hr class="between">
-        <h2>نقشه راه مبتنی بر رشته</h2>
+        <h2>نقشه راه بر اساس مهارت</h2>
     </section>
+
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Frontend (سمت کاربر) </a>
@@ -87,10 +89,12 @@
             <a href="#">DevOps (توسعه عملیات)</a>
         </div>
     </div>
+
     <section class="between">
         <hr class="between">
-        <h2>نقشه راه مبتنی بر رشته</h2>
+        <h2>تمرین و پیشرفت</h2>
     </section>
+
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Frontend (سمت کاربر) </a>
@@ -101,25 +105,8 @@
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">DevOps (توسعه عملیات)</a>
         </div>
-        <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Frontend (سمت کاربر) </a>
-        </div>
-        <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Backend (سمت سرور)</a>
-        </div>
-        <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">DevOps (توسعه عملیات)</a>
-        </div>
-        <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Frontend (سمت کاربر) </a>
-        </div>
-        <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Backend (سمت سرور)</a>
-        </div>
-        <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">DevOps (توسعه عملیات)</a>
-        </div>
     </div>
+
 </section>
 
 <!-- DOWN SECTION  -->

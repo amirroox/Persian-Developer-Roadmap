@@ -52,7 +52,7 @@ $Name_Page = basename(__DIR__);
 <section class="container RoadMap" style="direction: ltr">
     <?php
     //    include "bin/$Name_Page.svg";   #Direct Load
-    CheckLoadSVG($Name_Page);   #Function Load
+    CheckLoadSVG(CHECK_SVG,$Name_Page);   #Function Load
     ?>
 </section>
 
@@ -60,7 +60,7 @@ $Name_Page = basename(__DIR__);
 <section class="container RoadMapBeginner" style="direction: ltr; display: none">
     <?php
     //    include "bin/$Name_Page"."Beginner.svg";  #Direct Load
-    CheckLoadSVG($Name_Page, "Beginner");   #Function Load
+    CheckLoadSVG(CHECK_SVG,$Name_Page, "Beginner");   #Function Load
     ?>
 </section>
 
