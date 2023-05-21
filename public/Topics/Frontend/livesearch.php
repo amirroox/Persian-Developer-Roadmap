@@ -25,5 +25,5 @@ if ($preg = preg_grep("/$name/" , $excited_file_dir)) {
 }
 
 else {
-    echo "متاسفم چیزی پیدا نکردم :( ";
+    echo "<p> متاسفم چیزی پیدا نکردم :( </p><hr> ";
 }
