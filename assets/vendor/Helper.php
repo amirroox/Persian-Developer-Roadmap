@@ -1,73 +1,35 @@
 <?php
 
-/* Const Color For Svg Road Map */
-/* Change -> Static -> MAIN_SVG_COPY */
-/* Change -> Static -> MAIN_SVG_COPY */
-$MAIN_COLOR_CHECK = [
-    "Recommend" => ["rgb(120,20,255)", "rgb(254,0,38)", "rgb(153,0,255)"],   # Recommend
-    "Alternative" => ["rgb(120, 54, 100)", "rgb(255, 153, 145)", "rgb(56,118,29)"],  # Alternative
-    "No" => ["rgb(153,153,153)", "rgb(153,153,153)", "rgb(153,153,153)"],  # Other Or Not Recommend
-];
-$MAIN_COLOR_BACK = [
-    "Main" => ["rgb(0,12,225)", "rgb(0,255,225)", "rgb(255,255,0)"],   # MAIN COLOR
-    "Minor" => ["rgb(122,255,0)", "rgb(0,255,225)", "rgb(255,229,153)"],  # Minor
-    "Road" => ["rgb(43,120,0)", "rgb(0,255,225)", "rgb(43,120,228)"],  # Road - Line
-    "Text" => ['fill="rgb(0,0,0)"', 'fill="rgb(0,0,0)"', 'fill="rgb(0,0,0)"'],  # Text
-];
-
-function CheckLoadSVG($test, $Name_Page, $name = null): void  # Method For Change Color All SVG Road Map
+function CheckLoadSVG($color, $Name_Page, $name = null): void  # Method For Change Color All SVG Road Map
 {   #Checking Svg Reload
-    global $MAIN_COLOR_CHECK;
-    global $MAIN_COLOR_BACK;
     $check = MAIN_DIR . "public/Pages/$Name_Page/bin/" . "$Name_Page$name.svg";
-    # $test ==> 1 (Test)   |   0 (No Test)
-    if ($test) {
+    # $color['TURN'] ==> 1 (Test)   |   0 (No Test)
+    if ($color['TURN']) {
         $change = file_get_contents($check);
-//        if (strpos($change, $MAIN_COLOR_CHECK['Recommend'][2])) {
-//            #chcek Color MAINCopy
-//            $change = str_replace($MAIN_COLOR_CHECK['Recommend'][2], $MAIN_COLOR_CHECK['Recommend'][1], $change);
-//            $change = str_replace($MAIN_COLOR_CHECK['Alternative'][2], $MAIN_COLOR_CHECK['Alternative'][1], $change);
-//            $change = str_replace($MAIN_COLOR_CHECK['No'][2], $MAIN_COLOR_CHECK['No'][1], $change);
-//            #box Color MAINCopy
-//            $change = str_replace($MAIN_COLOR_BACK['Main'][2], $MAIN_COLOR_BACK['Main'][1], $change);
-//            $change = str_replace($MAIN_COLOR_BACK['Minor'][2], $MAIN_COLOR_BACK['Minor'][1], $change);
-//            $change = str_replace($MAIN_COLOR_BACK['Road'][2], $MAIN_COLOR_BACK['Road'][1], $change);
-////            $change = str_replace(MAIN_COLOR_BACK['text'][2], MAIN_COLOR_BACK['text'][1], $change);
-//
-//            $change = str_replace('font-family: balsamic' , 'font-family: lalezar', $change);
-//        }
+        if (strpos($change, $color['COPY']['Alternative'])) { #Change Color Copy To MAIN
+            #chcek Color MAINCopy
+            $change = str_replace($color['COPY']['Recommend'], $color['MAIN']['Recommend'], $change);
+            $change = str_replace($color['COPY']['Alternative'], $color['MAIN']['Alternative'], $change);
+            $change = str_replace($color['COPY']['No'], $color['MAIN']['No'], $change);
+            #box Color MAINCopy
+            $change = str_replace($color['COPY']['Main'], $color['MAIN']['Main'], $change);
+            $change = str_replace($color['COPY']['Minor'], $color['MAIN']['Minor'], $change);
+            $change = str_replace($color['COPY']['Road'], $color['MAIN']['Road'], $change);
+//            $change = str_replace(MAIN_COLOR_BACK['text'][2], MAIN_COLOR_BACK['text'][1], $change);
 
-//        #chcek Color
-//        $change = str_replace($MAIN_COLOR_CHECK['Recommend'][1], $MAIN_COLOR_CHECK['Recommend'][0], $change);
-//        $change = str_replace($MAIN_COLOR_CHECK['Alternative'][1], $MAIN_COLOR_CHECK['Alternative'][0], $change);
-//        $change = str_replace($MAIN_COLOR_CHECK['No'][1], $MAIN_COLOR_CHECK['No'][0], $change);
-//
-//        #box Color
-//        $change = str_replace($MAIN_COLOR_BACK['Main'][1], $MAIN_COLOR_BACK['Main'][0], $change);
-//        $change = str_replace($MAIN_COLOR_BACK['Minor'][1], $MAIN_COLOR_BACK['Minor'][0], $change);
-//        $change = str_replace($MAIN_COLOR_BACK['Road'][1], $MAIN_COLOR_BACK['Road'][0], $change);
-////        $change = str_replace(MAIN_COLOR_BACK['text'][1], MAIN_COLOR_BACK['text'][0], $change);
+            $change = str_replace('font-family: balsamic' , 'font-family: lalezar', $change);
+        }
+        else if(!empty(array_diff_assoc($color['MAIN'] , $color['CUSTOM']))) {
 
-        #SWAP COLOR
-        [
-            &$MAIN_COLOR_CHECK['Recommend'][0] , &$MAIN_COLOR_CHECK['Recommend'][1],
-            $MAIN_COLOR_CHECK['Alternative'][0], $MAIN_COLOR_CHECK['Alternative'][1] ,
-            $MAIN_COLOR_CHECK['No'][0],$MAIN_COLOR_CHECK['No'][1],
-            $MAIN_COLOR_BACK['Main'][0],$MAIN_COLOR_BACK['Main'][1] ,
-            $MAIN_COLOR_BACK['Minor'][0], $MAIN_COLOR_BACK['Minor'][1] ,
-            $MAIN_COLOR_BACK['Road'][0] , $MAIN_COLOR_BACK['Road'][1]
-        ] = [
-            &$MAIN_COLOR_CHECK['Recommend'][1] , &$MAIN_COLOR_CHECK['Recommend'][0],
-            $MAIN_COLOR_CHECK['Alternative'][1], $MAIN_COLOR_CHECK['Alternative'][0] ,
-            $MAIN_COLOR_CHECK['No'][1],$MAIN_COLOR_CHECK['No'][0],
-            $MAIN_COLOR_BACK['Main'][1],$MAIN_COLOR_BACK['Main'][0] ,
-            $MAIN_COLOR_BACK['Minor'][1], $MAIN_COLOR_BACK['Minor'][0] ,
-            $MAIN_COLOR_BACK['Road'][1] , $MAIN_COLOR_BACK['Road'][0]
-        ];
+            $change = str_replace($color['CUSTOM']['Recommend'], $color['MAIN']['Recommend'], $change);
+            $change = str_replace($color['CUSTOM']['Alternative'], $color['MAIN']['Alternative'], $change);
+            $change = str_replace($color['CUSTOM']['No'], $color['MAIN']['No'], $change);
+            $change = str_replace($color['CUSTOM']['Main'], $color['MAIN']['Main'], $change);
+            $change = str_replace($color['CUSTOM']['Minor'], $color['MAIN']['Minor'], $change);
+            $change = str_replace($color['CUSTOM']['Road'], $color['MAIN']['Road'], $change);
+        }
 
-        var_dump($MAIN_COLOR_CHECK);
-
-//        file_put_contents("$check", "$change", LOCK_EX);
+        file_put_contents("$check", "$change", LOCK_EX);
     }
     readfile($check);
 }
