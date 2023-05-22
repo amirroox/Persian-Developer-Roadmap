@@ -11,11 +11,18 @@
 #Head-Sec li , #Foot-Sec li {
     display: inline;
     padding: 0 2rem;
-    color: pink;
+    color: var(--color-pink);
     font-weight: 300;
 }
+#Foot-Sec li {
+    padding: 0 1rem;
+}
 
-#Head-Sec div#Wrapper-Phone {
+#Head-Sec li a:hover , #Foot-Sec li a:hover {
+    color: var(--color-main);
+    font-weight: 500;
+}
+#Wrapper-Phone {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -29,7 +36,7 @@
     bottom: 0;
     right: 0;
     left: 0;
-    z-index: 999 !important;
+    z-index: 999;
     transition: all 1.2s;
 }
 #Wrapper-Phone #list-phone ul {
@@ -39,25 +46,35 @@
     width: 100%;
     justify-content: space-evenly;
 }
-#Head-Sec li:hover , #Foot-Sec li:hover {
-    color: white;
-    font-weight: 500;
-}
-div#Wrapper {
+
+#Wrapper {
     display: flex;
     align-items: center;
 }
 #Foot-Sec div:first-child {
     margin-bottom: 1.5rem;
 }
+#Foot-Sec h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Foot-Sec h4 > span:first-child {
+    margin-left: .8rem;
+}
 div.menu li{
     font-size: .8rem;
     padding: 1px !important;
 }
 
-/* Between Part */
+/* Between Part (Separator Parting) */
 hr.between {
     border: rgba(253, 62, 62, 0.18) solid 1px;
+}
+@media screen and (max-width: 456px) {
+    section.between {
+        text-align: center;
+    }
 }
 section.between {
     margin: 3rem 0 1rem;
@@ -72,4 +89,17 @@ section.between h2 {
     padding: .2rem .5rem;
     border-radius: 10px;
     font-size: 16px;
+}
+section.between form#search_topic {
+    position: relative;
+    top: -1.3rem;
+    text-align: center;
+    width: 100%;
+}
+section.between form#search_topic input[type="text"] {
+    padding: .4rem;
+    width: 70%;
+    font-size: 1rem;
+    border: 1px solid rgba(253, 62, 62, 0.35);
+    border-radius: .5rem;
 }

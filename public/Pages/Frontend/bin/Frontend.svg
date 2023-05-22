@@ -11,7 +11,7 @@
     <path d="M647.7429198226796 3054.2739073780544Q718.0486881215802 3053.389429803896 790 3011" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M565 3558Q563.7695282555643 3522.162638938688 565 3470" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="122-desktop-applications">
-        <rect x="442.35" y="3041.35" width="238.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="442.35" y="3041.35" width="238.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="493" y="3072" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>دسکتاپ اپلیکیشن</tspan>
         </text>
@@ -20,16 +20,16 @@
         <path d="M438.5 3041L442.5 3045 449 3038.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-desktop-applications:electron">
-        <rect x="776.35" y="2995.35" width="185.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="776.35" y="2995.35" width="185.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="838" y="3020.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Electron</tspan>
         </text>
         <circle cx="957" cy="3011" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="957" cy="3011" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="957" cy="3011" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M951.5 3011L955.5 3015 962 3008.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="123-bonus-content">
-        <rect x="456.35" y="3228.35" width="207.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="456.35" y="3228.35" width="207.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="502" y="3257.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>آموزش تکمیلی</tspan>
         </text>
@@ -38,7 +38,7 @@
         <path d="M448.5 3250L452.5 3254 459 3247.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-desktop-applications:tauri">
-        <rect x="776.35" y="3041.35" width="185.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="776.35" y="3041.35" width="185.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="850" y="3066.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Tauri</tspan>
         </text>
@@ -71,17 +71,17 @@
     <path d="M299.201563359874 1602.404922143601Q418.04651510156543 1600.511447967306 552.3990595440735 1602.5108274871286" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M719.3725435141941 1554.2399633647979Q793.6530029195393 1562.7653305943984 854.8674198506036 1607.616732830656" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M728.9529893157585 1536.4477068761785Q809.483427864914 1529.3205147123165 848.0242442780577 1477.5963969522834" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
-    <path d="M1122.0343328292493 1489Q1071.7262069166297 1490.9454918768881 1033.073050386152 1492.8631938989395" fill="none" stroke="rgba(254,0,38,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
-    <path d="M1120.6656977147402 1442.2236946620997Q1080.5250507553367 1475.1615314888777 1020.7553343555694 1483.2827480973754" fill="none" stroke="rgba(254,0,38,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M1122.0343328292493 1489Q1071.7262069166297 1490.9454918768881 1033.073050386152 1492.8631938989395" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M1120.6656977147402 1442.2236946620997Q1080.5250507553367 1475.1615314888777 1020.7553343555694 1483.2827480973754" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M730.3216244302677 1547.5026931357795Q793.2946853884686 1548.3427403961427 863 1545" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="102-build-tools:linters-formatters">
-        <rect x="832.35" y="1462.35" width="222.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="832.35" y="1462.35" width="222.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="875" y="1492.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>ابزار بررسی و آنالیز</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-build-tools:linters-formatters:prettier">
-        <rect x="1105.35" y="1429.35" width="142.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1105.35" y="1429.35" width="142.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1148" y="1454" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Prettier</tspan>
         </text>
@@ -90,7 +90,7 @@
         <path d="M1239.5 1446L1243.5 1450 1250 1443.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-build-tools:linters-formatters:eslint">
-        <rect x="1105.35" y="1474.35" width="142.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1105.35" y="1474.35" width="142.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1150" y="1498.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>ESLint</tspan>
         </text>
@@ -104,21 +104,21 @@
     <path d="M453.22596641392124 1264.508873287286Q374.7610332511239 1250.7788331374347 313.6251847339842 1208.3948335924094" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M301 1267Q375.3385955790234 1266.339978591517 468.2809526735223 1274.0893190888503" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M460.700506871958 1322Q399.28979521062575 1322.1982952135038 331 1322" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
-    <path d="M1032 2271Q1063.7025943822807 2252.2635670418385 1136 2229" fill="none" stroke="rgba(254,0,38,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
-    <path d="M1020 2283Q1061.965057112777 2274.8905633306704 1147 2279" fill="none" stroke="rgba(254,0,38,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
-    <path d="M1021 2290Q1065.0545802499973 2302.2493471144885 1149 2323" fill="none" stroke="rgba(254,0,38,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M1032 2271Q1063.7025943822807 2252.2635670418385 1136 2229" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M1020 2283Q1061.965057112777 2274.8905633306704 1147 2279" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M1021 2290Q1065.0545802499973 2302.2493471144885 1149 2323" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M852.1301496215852 1711.6330015333542Q721.800164316043 1670.9848426404606 642.7289771016798 1603.5108274871286" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
     <path d="M1033.4213496222887 1541.1849771051968Q1072.3203590446997 1544.3746459375213 1123.751267179895 1542.5536122197059" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M463.43777710097635 1373.0506015319474Q386.4642733460087 1374.0712712257366 303.3074687034016 1376" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M897 1132Q897.5835902122599 1185.011838859376 897 1254.508873287286" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M743 1135Q582.0359040427761 1134.411920330856 531.8695328264357 1262.7206839743412" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
     <g class="clickable-group" data-group-id="101-package-managers:yarn">
-        <rect x="182.35" y="1188.35" width="148.3" height="46.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="1188.35" width="148.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="240" y="1216.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>yarn</tspan>
         </text>
         <circle cx="184" cy="1210" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="184" cy="1210" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="184" cy="1210" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M178.5 1210L182.5 1214 189 1207.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <path d="M768 951Q898.099025258291 995.7617195996144 870 1111" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
@@ -136,7 +136,7 @@
     <path d="M596 497Q535.9946378406559 493.4551866284064 467 490" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M598 494Q538.4058183969829 458.0881330943512 457 443" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M698 347Q630.54078620889 411.0346331146539 670 485" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
-    <path d="M1156 774L1256 774" fill="none" stroke="rgba(254,0,38,255)" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8, 8"></path>
+    <path d="M1156 774L1256 774" fill="none" stroke="rgb(153,0,255)" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8, 8"></path>
     <path d="M675 785Q639.0669674234068 890.8113938628686 736 918" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
     <path d="M577 796Q529.7040091757556 912.6878169041153 448 1008" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M571 789Q520.596322153283 862.1702022087313 462 945" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
@@ -151,7 +151,7 @@
     <path d="M570 667Q514.6742049346888 657.8941542109302 451 648" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M758 206Q763.7634727157226 247.21267460725986 741 285" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="101-html">
-        <rect x="564.35" y="640.35" width="247.3" height="52.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="564.35" y="640.35" width="247.3" height="52.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="620" y="673.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>اچ تی ام ال (HTML)</tspan>
         </text>
@@ -162,16 +162,16 @@
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-html:learn-the-basics">
-        <rect x="181.35" y="580.35" width="293.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="580.35" width="293.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="255" y="605.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>یادگیری مفاهیم اولیه</tspan>
         </text>
         <circle cx="182" cy="582" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="182" cy="582" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="182" cy="582" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M176.5 582L180.5 586 187 579.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-html:writing-semantic-html">
-        <rect x="181.35" y="627.35" width="293.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="627.35" width="293.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="450" y="653" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>مفهوم Semantic HTML چیست ؟</tspan>
         </text>
@@ -180,31 +180,31 @@
         <path d="M176.5 631L180.5 635 187 628.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-html:forms-and-validations">
-        <rect x="181.35" y="673.35" width="293.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="673.35" width="293.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="260" y="699" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>فرم ها و اعتبار سنجی</tspan>
         </text>
         <circle cx="182" cy="677" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="182" cy="677" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="182" cy="677" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M176.5 677L180.5 681 187 674.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="103-html:conventions-and-best-practices">
-        <rect x="181.35" y="720.35" width="293.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="720.35" width="293.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="270" y="746" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>تمرین و جست و جو</tspan>
         </text>
         <circle cx="182" cy="720" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="182" cy="720" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="182" cy="720" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M176.5 720L180.5 724 187 717.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-css">
-        <rect x="564.35" y="702.35" width="247.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="564.35" y="702.35" width="247.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="625" y="733.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>سی اس اس (CSS)</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="101-css:making-layouts">
-        <rect x="1204.35" y="681.35" width="113.3" height="182.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1204.35" y="681.35" width="113.3" height="182.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1238" y="711.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Floats</tspan>
         </text>
@@ -224,25 +224,25 @@
             <tspan>Flex Box</tspan>
         </text>
         <circle cx="1312" cy="682" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1312" cy="682" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1312" cy="682" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1306.5 682L1310.5 686 1317 679.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-css:learn-the-basics">
-        <rect x="896.35" y="704.35" width="277.3" height="40.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="896.35" y="704.35" width="277.3" height="40.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="945" y="730.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>یادگیری مفاهیم اولیه</tspan>
         </text>
         <circle cx="1170" cy="709" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1170" cy="709" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1170" cy="709" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1164.5 709L1168.5 713 1175 706.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-css:making-layouts">
-        <rect x="895.35" y="753.35" width="278.3" height="44.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="895.35" y="753.35" width="278.3" height="44.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1130" y="781.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>مفاهیم Layouts و ساختار</tspan>
         </text>
         <circle cx="1170" cy="758" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1170" cy="758" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1170" cy="758" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1164.5 758L1168.5 762 1175 755.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <rect x="974.35" y="172.35" width="321.3" height="192.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
@@ -251,7 +251,7 @@
     </text>
     <g>
         <a href="https://ro-ox.com" target="_blank">
-        <text x="1050" y="244.5" fill="rgba(254,0,38,255)" font-style="normal" font-weight="normal" font-size="23px">
+        <text x="1050" y="244.5" fill="rgb(153,0,255)" font-style="normal" font-weight="normal" font-size="23px">
             <tspan>https://ro-ox.com</tspan>
         </text>
         </a>
@@ -266,40 +266,40 @@
         <tspan>تازه شروع کردی ؟</tspan>
     </text>
     <g class="clickable-group" data-group-id="102-css:responsive-design-and-media-queries">
-        <rect x="895.35" y="806.35" width="277.3" height="40.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="895.35" y="806.35" width="277.3" height="40.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="930" y="831.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan class="">مدیا کوئری و طراحی واکنشگرا</tspan>
         </text>
         <circle cx="1168" cy="813" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1168" cy="813" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1168" cy="813" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1162.5 813L1166.5 817 1173 810.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="103-javascript">
-        <rect x="564.35" y="759.35" width="247.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="564.35" y="759.35" width="247.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="593" y="789.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>جاوا اسکریپت (JavaScript)</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-javascript:syntax-and-basic-constructs">
-        <rect x="181.35" y="782.35" width="293.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="782.35" width="293.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="207" y="807.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>یادگیری سینتکس و ساختار اولیه</tspan>
         </text>
         <circle cx="182" cy="783" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="182" cy="783" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="182" cy="783" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M176.5 783L180.5 787 187 780.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-javascript:learn-dom-manipulation">
-        <rect x="181.35" y="828.35" width="294.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="828.35" width="294.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="400" y="853.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>مفهوم ساختار DOM</tspan>
         </text>
         <circle cx="182" cy="832" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="182" cy="832" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="182" cy="832" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M176.5 832L180.5 836 187 829.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="104-javascript:concepts">
-        <rect x="181.35" y="972.35" width="293.3" height="110.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="972.35" width="293.3" height="110.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="186" y="1034.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Hoisting, Event Bubbling, Scope,</tspan>
         </text>
@@ -310,92 +310,92 @@
             <tspan>بالا بردن درک مفاهیم زبانی</tspan>
         </text>
         <circle cx="181" cy="977" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="181" cy="977" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="181" cy="977" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M175.5 977L179.5 981 186 974.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-javascript:learn-fetch-api-ajax-xhr">
-        <rect x="181.35" y="875.35" width="293.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="875.35" width="293.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="445" y="901" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>یادگیری دریافت API و ایجکس</tspan>
         </text>
         <circle cx="182" cy="879" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="182" cy="879" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="182" cy="879" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M176.5 879L180.5 883 187 876.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="103-javascript:es6-and-modular-javascript">
-        <rect x="181.35" y="923.35" width="293.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="923.35" width="293.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="370" y="949" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>یادگیری ES6</tspan>
         </text>
         <circle cx="181" cy="925" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="181" cy="925" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="181" cy="925" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M175.5 925L179.5 929 186 922.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-internet">
-        <rect x="594.35" y="470.35" width="175.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="594.35" y="470.35" width="175.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="655" y="497" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>اینترنت</tspan>
         </text>
         <circle cx="594" cy="469" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="594" cy="469" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="594" cy="469" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M588.5 469L592.5 473 599 466.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-internet:how-does-the-internet-work">
-        <rect x="181.35" y="421.35" width="296.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="421.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="240" y="448.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>اینترنت چگونه کار میکند ؟</tspan>
         </text>
         <circle cx="183" cy="421" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="183" cy="421" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="183" cy="421" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M177.5 421L181.5 425 188 418.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-internet:what-is-http">
-        <rect x="181.35" y="471.35" width="296.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="471.35" width="296.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="410" y="497" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>HTTP به چه معناست ؟</tspan>
         </text>
         <circle cx="182" cy="473" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="182" cy="473" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="182" cy="473" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M176.5 473L180.5 477 187 470.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-internet:browsers-and-how-they-work">
-        <rect x="181.35" y="517.35" width="296.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="517.35" width="296.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="230" y="542.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>مرورگر ها چگونه کار میکنند ؟</tspan>
         </text>
         <circle cx="182" cy="518" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="182" cy="518" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="182" cy="518" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M176.5 518L180.5 522 187 515.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="103-internet:dns-and-how-it-works">
-        <rect x="896.35" y="418.35" width="277.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="896.35" y="418.35" width="277.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1150" y="444" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>DNS چیست و چگونه کار میکند ؟</tspan>
         </text>
         <circle cx="1170" cy="418" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1170" cy="418" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1170" cy="418" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1164.5 418L1168.5 422 1175 415.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="104-internet:what-is-domain-name">
-        <rect x="895.35" y="464.35" width="277.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="895.35" y="464.35" width="277.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="980" y="490" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>دامین چیست ؟</tspan>
         </text>
         <circle cx="1169" cy="468" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1169" cy="468" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1169" cy="468" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1163.5 468L1167.5 472 1174 465.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="105-internet:what-is-hosting">
-        <rect x="896.35" y="510.35" width="277.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="896.35" y="510.35" width="277.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="940" y="536" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>هاست و هاستینگ چیست ؟</tspan>
         </text>
         <circle cx="1169" cy="513" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1169" cy="513" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1169" cy="513" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1163.5 513L1167.5 517 1174 510.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="104-html:accessibility">
-        <rect x="896.35" y="610.35" width="277.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="896.35" y="610.35" width="277.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1102" y="636" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>مفهوم Accessibility</tspan>
         </text>
@@ -404,7 +404,7 @@
         <path d="M1163.5 611L1167.5 615 1174 608.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="105-html:seo-basics">
-        <rect x="896.35" y="657.35" width="277.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="896.35" y="657.35" width="277.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1100" y="682.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>مقدمات سئو (SEO)</tspan>
         </text>
@@ -413,25 +413,25 @@
         <path d="M1164.5 660L1168.5 664 1175 657.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-version-control-systems:basic-usage-of-git">
-        <rect x="543.35" y="1001.35" width="213.3" height="51.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="543.35" y="1001.35" width="213.3" height="51.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="578" y="1034" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>مفاهیم اولیه گیت</tspan>
         </text>
         <circle cx="543" cy="1002" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="543" cy="1002" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="543" cy="1002" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M537.5 1002L541.5 1006 548 999.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-repo-hosting-services:github">
-        <rect x="1025.35" y="1004.35" width="227.3" height="46.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1025.35" y="1004.35" width="227.3" height="46.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1112" y="1035" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>GitHub</tspan>
         </text>
         <circle cx="1024" cy="1004" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1024" cy="1004" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1024" cy="1004" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1018.5 1004L1022.5 1008 1029 1001.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="105-repo-hosting-services">
-        <rect x="906.35" y="903.35" width="349.3" height="75.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="906.35" y="903.35" width="349.3" height="75.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="960" y="935.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>سرویس های آنلاین استفاده از گیت</tspan>
         </text>
@@ -440,7 +440,7 @@
         </text>
     </g>
     <g class="clickable-group" data-group-id="104-version-control-systems">
-        <rect x="543.35" y="903.35" width="333.3" height="74.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="543.35" y="903.35" width="333.3" height="74.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="617" y="936" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>گیت - سیستم کنترل ورژن</tspan>
         </text>
@@ -449,42 +449,42 @@
         </text>
     </g>
     <g class="clickable-group" data-group-id="107-package-managers">
-        <rect x="436.35" y="1240.35" width="208.3" height="50.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="436.35" y="1240.35" width="208.3" height="50.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="466" y="1272" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Package Managers</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-package-managers:npm">
-        <rect x="182.35" y="1135.35" width="148.3" height="46.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="1135.35" width="148.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="239" y="1163.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>npm</tspan>
         </text>
         <circle cx="184" cy="1155" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="184" cy="1155" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="184" cy="1155" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M178.5 1155L182.5 1159 189 1152.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-repo-hosting-services:bitbucket">
-        <rect x="1025.35" y="1116.35" width="227.3" height="46.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1025.35" y="1116.35" width="227.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1102" y="1145.5" fill="rgb(51,51,51)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Bitbucket</tspan>
         </text>
         <circle cx="1026" cy="1120" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1026" cy="1120" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1026" cy="1120" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1026" cy="1120" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1020.5 1120L1024.5 1124 1031 1117.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-repo-hosting-services:gitlab">
-        <rect x="1025.35" y="1060.35" width="227.3" height="46.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1025.35" y="1060.35" width="227.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1113" y="1090" fill="rgb(51,51,51)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>GitLab</tspan>
         </text>
         <circle cx="1026" cy="1063" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1026" cy="1063" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1026" cy="1063" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1026" cy="1063" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1020.5 1063L1024.5 1067 1031 1060.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="106-web-security-knowledge">
-        <rect x="594.35" y="1094.35" width="369.3" height="51.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="594.35" y="1094.35" width="369.3" height="51.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="684" y="1127" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>یادگیری دانش امنیت وب</tspan>
         </text>
@@ -495,7 +495,7 @@
     <g>
         <rect x="173.35" y="172.35" width="405.3" height="159.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <circle cx="205" cy="202" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="205" cy="202" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="205" cy="202" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M199.5 202L203.5 206 210 199.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
         <text x="231" y="208" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
             <tspan>توصیه شده</tspan>
@@ -515,30 +515,30 @@
         </text>
         <circle cx="205" cy="234" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="205" cy="234" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="205" cy="234" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="205" cy="234" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M199.5 234L203.5 238 210 231.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <rect x="797.35" y="1185.35" width="453.3" height="158.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
     <g class="clickable-group" data-group-id="102-web-security-knowledge:cors">
-        <rect x="812.35" y="1284.35" width="160.3" height="45.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="812.35" y="1284.35" width="160.3" height="45.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="869" y="1313.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>CORS</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-web-security-knowledge:https">
-        <rect x="811.35" y="1229.35" width="163.3" height="46.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="811.35" y="1229.35" width="163.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="866" y="1259" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>HTTPS</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="101-web-security-knowledge:content-security-policy">
-        <rect x="982.35" y="1229.35" width="254.3" height="46.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="982.35" y="1229.35" width="254.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1025" y="1259" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>سیاست امنیت محتوا</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="103-web-security-knowledge:owasp-security-risks">
-        <rect x="982.35" y="1283.35" width="254.3" height="46.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="982.35" y="1283.35" width="254.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1025" y="1313" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>OWASP خطرات امنیتی</tspan>
         </text>
@@ -556,7 +556,7 @@
     <path d="M1160 2931Q1036.2820550917636 2817.1872523323427 1026.5689695306392 2708.313671881678" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M1165 2848Q1060.4420686252238 2792.5376333018744 1052.7115425799022 2711.3892687110033" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="109-css-preprocessors">
-        <rect x="435.35" y="1355.35" width="213.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="435.35" y="1355.35" width="213.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="629" y="1385" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>پیش پردازنده های CSS</tspan>
         </text>
@@ -565,13 +565,13 @@
     <path d="M1162 2750Q1102.160953425227 2735.7554070385963 1061.9383330678772 2702.162478223028" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M1163 2705Q1101.4429168983024 2704.4623764878 1048.4352964490888 2698.7495890689925" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="108-css-architecture">
-        <rect x="436.35" y="1299.35" width="210.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="436.35" y="1299.35" width="210.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="585" y="1329" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>معماری CSS</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-css-architecture:bem">
-        <rect x="181.35" y="1304.35" width="148.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="1304.35" width="148.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="233" y="1329.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>BEM</tspan>
         </text>
@@ -582,7 +582,7 @@
     <path d="M300 3006Q377.7491247218557 2988.709643526571 479 2962" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M1063 2532Q1011.7021650475799 2532.888117244553 956.9319186913012 2531.0618841377404" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="110-build-tools">
-        <rect x="537.35" y="1521.35" width="208.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="537.35" y="1521.35" width="208.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="570" y="1551.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>از ابزار استفاده کنید</tspan>
         </text>
@@ -590,106 +590,106 @@
     <path d="M574 2391Q574.7581479819978 2431.5491483999085 574 2476" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M554 2381Q470.0394103719545 2382.5698122921367 378 2381" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="100-build-tools:task-runners">
-        <rect x="832.35" y="1518.35" width="222.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="832.35" y="1518.35" width="222.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="891" y="1549.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Task Runners</tspan>
         </text>
     </g>
     <path d="M864 2380Q809.1393874589476 2381.025729622703 749 2380" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
     <g class="clickable-group" data-group-id="100-build-tools:task-runners:npm-scripts">
-        <rect x="1105.35" y="1522.35" width="142.3" height="42.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1105.35" y="1522.35" width="142.3" height="42.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1128" y="1549.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>npm scripts</tspan>
         </text>
         <circle cx="1246" cy="1542" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1246" cy="1542" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1246" cy="1542" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1240.5 1542L1244.5 1546 1251 1539.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <path d="M484.41512122808166 1780.7791847885876Q704.5680916559108 1803.717575504594 723 2020" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
-    <path d="M1123.5 2058.5Q1029.4959593824863 2060.3289471919147 933 2063" fill="none" stroke="rgba(254,0,38,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M1123.5 2058.5Q1029.4959593824863 2060.3289471919147 933 2063" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="100-build-tools:module-bundlers:webpack">
         <text x="1156" y="1693" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Webpack</tspan>
         </text>
-        <rect x="1105.35" y="1668.35" width="145.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1105.35" y="1668.35" width="145.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1146" y="1693" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Webpack</tspan>
         </text>
         <circle cx="1248" cy="1685" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1248" cy="1685" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1248" cy="1685" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1242.5 1685L1246.5 1689 1253 1682.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-build-tools:module-bundlers:rollup">
         <text x="1169" y="1737.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Rollup</tspan>
         </text>
-        <rect x="1105.35" y="1713.35" width="144.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1105.35" y="1713.35" width="144.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1159" y="1737.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Rollup</tspan>
         </text>
         <circle cx="1248" cy="1730" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1248" cy="1730" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1248" cy="1730" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1248" cy="1730" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1242.5 1730L1246.5 1734 1253 1727.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="103-build-tools:module-bundlers:parcel">
         <text x="1169" y="1784" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Parcel</tspan>
         </text>
-        <rect x="1105.35" y="1759.35" width="143.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1105.35" y="1759.35" width="143.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1159" y="1784" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Parcel</tspan>
         </text>
         <circle cx="1248" cy="1776" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1248" cy="1776" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1248" cy="1776" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1248" cy="1776" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1242.5 1776L1246.5 1780 1253 1773.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-build-tools:module-bundlers">
-        <rect x="833.35" y="1575.35" width="222.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="833.35" y="1575.35" width="222.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="879" y="1605.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Module Bundlers</tspan>
         </text>
     </g>
     <path d="M1128.9794474596536 2382Q1071.616034259329 2383.500709071008 1010.3421790426642 2382" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="111-pick-a-framework">
-        <rect x="535.35" y="1576.35" width="210.3" height="50.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="535.35" y="1576.35" width="210.3" height="50.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="560" y="1608" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>فریمورک انتخاب کنید</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-pick-a-framework:react-js">
-        <rect x="182.35" y="1490.35" width="142.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="1490.35" width="142.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="229" y="1514.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>React</tspan>
         </text>
         <circle cx="184" cy="1507" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="184" cy="1507" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="184" cy="1507" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M178.5 1507L182.5 1511 189 1504.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-pick-a-framework:angular">
-        <rect x="181.35" y="1536.35" width="142.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="1536.35" width="142.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="221" y="1561" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Angular</tspan>
         </text>
         <circle cx="182" cy="1553" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="182" cy="1553" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="182" cy="1553" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="182" cy="1553" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M176.5 1553L180.5 1557 187 1550.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-pick-a-framework:vue-js">
-        <rect x="179.35" y="1582.35" width="142.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="179.35" y="1582.35" width="142.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="229" y="1607" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Vue.js</tspan>
         </text>
         <circle cx="181" cy="1599" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="181" cy="1599" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="181" cy="1599" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="181" cy="1599" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M175.5 1599L179.5 1603 186 1596.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <path d="M1245.5324984379306 2483Q1198.8404949056742 2485.1263699723168 1148.9165912308486 2484.8700832259697" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="112-modern-css">
-        <rect x="829.35" y="1693.35" width="200.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="829.35" y="1693.35" width="200.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="970" y="1723.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>CSS مدرن</tspan>
         </text>
@@ -697,46 +697,46 @@
     <path d="M1155 2533Q1185.8690828402366 2533.6878698224855 1219 2530" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M1156 2580Q1186.7359467455622 2582.610946745562 1220 2581" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="100-modern-css:styled-components">
-        <rect x="830.35" y="1785.35" width="199.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="830.35" y="1785.35" width="199.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="854" y="1809.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Styled Components</tspan>
         </text>
         <circle cx="1026" cy="1802" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1026" cy="1802" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1026" cy="1802" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1020.5 1802L1024.5 1806 1031 1799.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-modern-css:css-modules">
-        <rect x="830.35" y="1830.35" width="199.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="830.35" y="1830.35" width="199.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="878" y="1854.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>CSS Modules</tspan>
         </text>
         <circle cx="1027" cy="1847" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1027" cy="1847" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1027" cy="1847" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1021.5 1847L1025.5 1851 1032 1844.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <path d="M300 2956Q376.9045728424134 2957.275802391475 478 2955" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <path d="M306 2912Q374.802467792898 2927.790908731621 466 2945" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <g class="clickable-group" data-group-id="103-modern-css:emotion">
-        <rect x="830.35" y="1920.35" width="198.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="830.35" y="1920.35" width="198.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="898" y="1944.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Emotion</tspan>
         </text>
         <circle cx="1025" cy="1937" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1025" cy="1937" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1025" cy="1937" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1025" cy="1937" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1019.5 1937L1023.5 1941 1030 1934.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-graphql:apollo">
-        <rect x="559.35" y="2794.35" width="164.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="559.35" y="2794.35" width="164.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="608" y="2820" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Apollo</tspan>
         </text>
         <circle cx="560" cy="2812" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="560" cy="2812" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="560" cy="2812" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M554.5 2812L558.5 2816 565 2809.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="120-static-site-generators">
-        <rect x="804.35" y="2676.35" width="278.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="804.35" y="2676.35" width="278.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="859" y="2707" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Static Site Generators</tspan>
         </text>
@@ -745,55 +745,55 @@
         <path d="M1068.5 2676L1072.5 2680 1079 2673.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-static-site-generators:gatsbyjs">
-        <rect x="1154.35" y="2822.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1154.35" y="2822.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1188" y="2848" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>GatsbyJS</tspan>
         </text>
         <circle cx="1295" cy="2840" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1295" cy="2840" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1295" cy="2840" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1289.5 2840L1293.5 2844 1300 2837.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-static-site-generators:next-js">
-        <rect x="1154.35" y="2776.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1154.35" y="2776.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1198" y="2802" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Next.js</tspan>
         </text>
         <circle cx="1296" cy="2794" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1296" cy="2794" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1296" cy="2794" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1290.5 2794L1294.5 2798 1301 2791.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-static-site-generators:nuxt-js">
-        <rect x="1152.35" y="3009.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1152.35" y="3009.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1197" y="3035" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Nuxt.js</tspan>
         </text>
         <circle cx="1293" cy="3027" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1293" cy="3027" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1293" cy="3027" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1293" cy="3027" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1287.5 3027L1291.5 3031 1298 3024.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="103-static-site-generators:vuepress">
-        <rect x="1152.35" y="2869.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1152.35" y="2869.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1191" y="2895" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Vuepress</tspan>
         </text>
         <circle cx="1293" cy="2887" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1293" cy="2887" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1293" cy="2887" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1293" cy="2887" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1287.5 2887L1291.5 2891 1298 2884.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="104-static-site-generators:jekyll">
-        <rect x="1152.35" y="2915.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1152.35" y="2915.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1203" y="2940.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Jekyll</tspan>
         </text>
         <circle cx="1294" cy="2933" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1294" cy="2933" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1294" cy="2933" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1294" cy="2933" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1288.5 2933L1292.5 2937 1299 2930.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="114-css-frameworks">
-        <rect x="298.35" y="1745.35" width="209.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="298.35" y="1745.35" width="209.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="337" y="1775.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>CSS Frameworks</tspan>
         </text>
@@ -835,34 +835,34 @@
         </text>
     </g>
     <g class="clickable-group" data-group-id="101-testing-your-apps:react-testing-library">
-        <rect x="1105.35" y="1943.35" width="192.3" height="37.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1105.35" y="1943.35" width="192.3" height="37.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1110" y="1967.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
             <tspan>react-testing-library</tspan>
         </text>
         <circle cx="1297" cy="1960" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1297" cy="1960" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1297" cy="1960" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1291.5 1960L1295.5 1964 1302 1957.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-testing-your-apps:jest">
-        <rect x="1106.35" y="1899.35" width="191.3" height="37.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1106.35" y="1899.35" width="191.3" height="37.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1182" y="1924.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Jest</tspan>
         </text>
         <circle cx="1296" cy="1915" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1296" cy="1915" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1296" cy="1915" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1290.5 1915L1294.5 1919 1301 1912.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-testing-your-apps:cypress">
-        <rect x="1105.35" y="1988.35" width="192.3" height="36.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1105.35" y="1988.35" width="192.3" height="36.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1167" y="2012.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Cypress</tspan>
         </text>
         <circle cx="1295" cy="2005" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1295" cy="2005" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1295" cy="2005" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1289.5 2005L1293.5 2009 1300 2002.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="115-testing-your-apps">
-        <rect x="630.35" y="2001.35" width="402.3" height="155.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="630.35" y="2001.35" width="402.3" height="155.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="720" y="2038.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="23px">
             <tspan>تست نویسی برای برنامه ها</tspan>
         </text>
@@ -883,7 +883,7 @@
         </text>
     </g>
     <g class="clickable-group" data-group-id="116-type-checkers">
-        <rect x="805.35" y="2359.35" width="223.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="805.35" y="2359.35" width="223.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="857" y="2389.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Type Checkers</tspan>
         </text>
@@ -892,19 +892,19 @@
         <path d="M1018.5 2358L1022.5 2362 1029 2355.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-type-checkers:typescript">
-        <rect x="1116.35" y="2362.35" width="196.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1116.35" y="2362.35" width="196.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1169" y="2387.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>TypeScript</tspan>
         </text>
         <circle cx="1307" cy="2364" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1307" cy="2364" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1307" cy="2364" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1301.5 2364L1305.5 2368 1312 2361.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
         <circle cx="1281" cy="2364" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1281" cy="2364" r="10" fill="rgb(153,153,153)"></circle>
         <path d="M1275.5 2364L1279.5 2368 1286 2361.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="117-progressive-web-apps">
-        <rect x="523.35" y="2357.35" width="238.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="523.35" y="2357.35" width="238.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="742" y="2388" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
             <tspan>برنامه های وب پیشرو (PWA)</tspan>
         </text>
@@ -914,49 +914,49 @@
     </g>
     <rect x="164.35" y="2360.35" width="225.3" height="425.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
     <g class="clickable-group" data-group-id="103-progressive-web-apps:service-workers">
-        <rect x="182.35" y="2488.35" width="189.3" height="29.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="2488.35" width="189.3" height="29.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="210.6340560913086" y="2510" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Service Workers</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-progressive-web-apps:storage">
-        <rect x="182.35" y="2376.35" width="189.3" height="29.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="2376.35" width="189.3" height="29.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="245.05902862548828" y="2397.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Storage</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="104-progressive-web-apps:location">
-        <rect x="182.35" y="2526.35" width="189.3" height="29.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="2526.35" width="189.3" height="29.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="242.04402923583984" y="2547.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Location</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="105-progressive-web-apps:notifications">
-        <rect x="182.35" y="2563.35" width="189.3" height="29.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="2563.35" width="189.3" height="29.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="226.59105682373047" y="2584.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Notifications</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="106-progressive-web-apps:device-orientation">
-        <rect x="182.35" y="2601.35" width="189.3" height="29.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="2601.35" width="189.3" height="29.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="200.84207153320312" y="2622.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Device Orientation</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="107-progressive-web-apps:payments">
-        <rect x="182.35" y="2638.35" width="189.3" height="29.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="2638.35" width="189.3" height="29.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="237.46304321289062" y="2660" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Payments</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="108-progressive-web-apps:credentials">
-        <rect x="182.35" y="2676.35" width="189.3" height="29.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="2676.35" width="189.3" height="29.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="230.2000503540039" y="2697.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Credentials</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="101-progressive-web-apps:web-sockets">
-        <rect x="182.35" y="2413.35" width="189.3" height="29.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="2413.35" width="189.3" height="29.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="224.3140411376953" y="2435" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Web Sockets</tspan>
         </text>
@@ -971,38 +971,38 @@
     <circle cx="164" cy="2358" r="10" fill="rgb(153,153,153)"></circle>
     <path d="M158.5 2358L162.5 2362 169 2355.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     <g class="clickable-group" data-group-id="102-progressive-web-apps:server-sent-events">
-        <rect x="182.35" y="2451.35" width="189.3" height="29.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="182.35" y="2451.35" width="189.3" height="29.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="198.89806365966797" y="2472.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Server Sent Events</tspan>
         </text>
     </g>
     <rect x="416.35" y="2435.35" width="259.3" height="278.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
     <g class="clickable-group" data-group-id="109-progressive-web-apps:prpl-pattern">
-        <rect x="436.35" y="2454.35" width="222.3" height="29.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="436.35" y="2454.35" width="222.3" height="29.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="492.6810607910156" y="2476" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>PRPL Pattern</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="110-progressive-web-apps:rail-model">
-        <rect x="436.35" y="2492.35" width="222.3" height="29.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="436.35" y="2492.35" width="222.3" height="29.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="499.82704162597656" y="2513.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>RAIL Model</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="111-progressive-web-apps:performance-metrics">
-        <rect x="436.35" y="2530.35" width="222.3" height="29.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="436.35" y="2530.35" width="222.3" height="29.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="462.18009185791016" y="2552" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Performance Metrics</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="112-progressive-web-apps:lighthouse">
-        <rect x="436.35" y="2567.35" width="222.3" height="29.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="436.35" y="2567.35" width="222.3" height="29.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="476.54407501220703" y="2588.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Using Lighthouse</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="113-progressive-web-apps:browser-devtools">
-        <rect x="436.35" y="2605.35" width="222.3" height="29.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="436.35" y="2605.35" width="222.3" height="29.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="484.4550476074219" y="2626.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
             <tspan>Using DevTools</tspan>
         </text>
@@ -1017,7 +1017,7 @@
     <circle cx="418" cy="2435" r="10" fill="rgb(153,153,153)"></circle>
     <path d="M412.5 2435L416.5 2439 423 2432.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     <g class="clickable-group" data-group-id="118-server-side-rendering">
-        <rect x="700.35" y="2509.35" width="275.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="700.35" y="2509.35" width="275.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="747" y="2540" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>رندر سمت سرور (SSR)</tspan>
         </text>
@@ -1026,65 +1026,65 @@
         <path d="M696.5 2509L700.5 2513 707 2506.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-server-side-rendering:react-js">
-        <rect x="1046.35" y="2464.35" width="113.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1046.35" y="2464.35" width="113.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1079" y="2489.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>React</tspan>
         </text>
         <circle cx="1156" cy="2482" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1156" cy="2482" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1156" cy="2482" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1150.5 2482L1154.5 2486 1161 2479.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-server-side-rendering:react-js:next-js">
-        <rect x="1208.35" y="2463.35" width="103.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1208.35" y="2463.35" width="103.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1230" y="2489" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Next.js</tspan>
         </text>
         <circle cx="1309" cy="2481" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1309" cy="2481" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1309" cy="2481" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1303.5 2481L1307.5 2485 1314 2478.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-server-side-rendering:angular">
-        <rect x="1046.35" y="2513.35" width="116.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1046.35" y="2513.35" width="116.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1070" y="2539" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Angular</tspan>
         </text>
         <circle cx="1158" cy="2531" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1158" cy="2531" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1158" cy="2531" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1158" cy="2531" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1152.5 2531L1156.5 2535 1163 2528.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-server-side-rendering:angular:universal">
-        <rect x="1205.35" y="2513.35" width="108.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1205.35" y="2513.35" width="108.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1213" y="2538.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Universal</tspan>
         </text>
         <circle cx="1311" cy="2531" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1311" cy="2531" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1311" cy="2531" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1311" cy="2531" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1305.5 2531L1309.5 2535 1316 2528.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-server-side-rendering:vue-js">
-        <rect x="1048.35" y="2562.35" width="115.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1048.35" y="2562.35" width="115.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1075" y="2588" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Vue.js</tspan>
         </text>
         <circle cx="1160" cy="2580" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1160" cy="2580" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1160" cy="2580" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1160" cy="2580" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1154.5 2580L1158.5 2584 1165 2577.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-server-side-rendering:vue-js:nuxt-js">
-        <rect x="1203.35" y="2562.35" width="108.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1203.35" y="2562.35" width="108.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1225" y="2588" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Nuxt.js</tspan>
         </text>
         <circle cx="1310" cy="2580" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1310" cy="2580" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1310" cy="2580" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1310" cy="2580" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1304.5 2580L1308.5 2584 1315 2577.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="121-mobile-applications">
-        <rect x="458.35" y="2929.35" width="207.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="458.35" y="2929.35" width="207.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="500" y="2960" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>موبایل اپلیکشن</tspan>
         </text>
@@ -1093,47 +1093,47 @@
         <path d="M657.5 2929L661.5 2933 668 2926.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-mobile-applications:react-native">
-        <rect x="167.35" y="2845.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="167.35" y="2845.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="185" y="2871" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>React Native</tspan>
         </text>
         <circle cx="167" cy="2861" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="167" cy="2861" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="167" cy="2861" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M161.5 2861L165.5 2865 172 2858.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-mobile-applications:nativescript">
-        <rect x="167.35" y="2985.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="167.35" y="2985.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="185" y="3011" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>NativeScript</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="102-mobile-applications:flutter">
-        <rect x="167.35" y="2892.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="167.35" y="2892.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="213" y="2917.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Flutter</tspan>
         </text>
         <circle cx="166" cy="2908" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="166" cy="2908" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="166" cy="2908" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M160.5 2908L164.5 2912 171 2905.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="105-static-site-generators:hugo">
-        <rect x="1152.35" y="2961.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1152.35" y="2961.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1203" y="2986.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Hugo</tspan>
         </text>
         <circle cx="1294" cy="2979" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1294" cy="2979" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1294" cy="2979" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1294" cy="2979" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1288.5 2979L1292.5 2983 1299 2976.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="103-mobile-applications:ionic">
-        <rect x="167.35" y="2939.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="167.35" y="2939.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="220" y="2964.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Ionic</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="119-graphql">
-        <rect x="803.35" y="2794.35" width="143.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="803.35" y="2794.35" width="143.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="839" y="2824" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>GraphQL</tspan>
         </text>
@@ -1142,17 +1142,17 @@
         <path d="M934.5 2816L938.5 2820 945 2813.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-graphql:relay-modern">
-        <rect x="559.35" y="2841.35" width="165.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="559.35" y="2841.35" width="165.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="591" y="2866.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Relay Modern</tspan>
         </text>
         <circle cx="561" cy="2859" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="561" cy="2859" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="561" cy="2859" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="561" cy="2859" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M555.5 2859L559.5 2863 566 2856.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="113-web-components">
-        <rect x="813.35" y="2254.35" width="227.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="813.35" y="2254.35" width="227.3" height="47.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="880" y="2285" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>اجزای وب</tspan>
         </text>
@@ -1161,7 +1161,7 @@
         <path d="M1030.5 2253L1034.5 2257 1041 2250.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-web-components:html-templates">
-        <rect x="1128.35" y="2212.35" width="187.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1128.35" y="2212.35" width="187.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1157" y="2236.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>HTML Templates</tspan>
         </text>
@@ -1170,7 +1170,7 @@
         <path d="M1306.5 2229L1310.5 2233 1317 2226.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-web-components:custom-elements">
-        <rect x="1128.35" y="2258.35" width="187.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1128.35" y="2258.35" width="187.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1157" y="2282.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Custom Elements</tspan>
         </text>
@@ -1179,7 +1179,7 @@
         <path d="M1306.5 2275L1310.5 2279 1317 2272.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-web-components:shadow-dom">
-        <rect x="1128.35" y="2303.35" width="187.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1128.35" y="2303.35" width="187.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1165" y="2327.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Shadow DOM</tspan>
         </text>
@@ -1188,7 +1188,7 @@
         <path d="M1306.5 2320L1310.5 2324 1317 2317.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-css-preprocessors:postcss">
-        <rect x="180.35" y="1404.35" width="143.3" height="40.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="180.35" y="1404.35" width="143.3" height="40.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="218" y="1431" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>PostCSS</tspan>
         </text>
@@ -1197,7 +1197,7 @@
         <path d="M173.5 1423L177.5 1427 184 1420.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-css-preprocessors:sass">
-        <rect x="180.35" y="1357.35" width="143.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="180.35" y="1357.35" width="143.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="229" y="1382.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Sass</tspan>
         </text>
@@ -1206,107 +1206,107 @@
         <path d="M173.5 1375L177.5 1379 184 1372.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-modern-css:styled-jsx">
-        <rect x="830.35" y="1875.35" width="198.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="830.35" y="1875.35" width="198.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="885" y="1900" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Styled JSX</tspan>
         </text>
         <circle cx="1027" cy="1892" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1027" cy="1892" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1027" cy="1892" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1027" cy="1892" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1021.5 1892L1025.5 1896 1032 1889.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-build-tools:module-bundlers:esbuild">
         <text x="1155" y="1648" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Webpack</tspan>
         </text>
-        <rect x="1104.35" y="1623.35" width="146.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1104.35" y="1623.35" width="146.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1153" y="1647.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>esbuild</tspan>
         </text>
         <circle cx="1248" cy="1640" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1248" cy="1640" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1248" cy="1640" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1242.5 1640L1246.5 1644 1253 1637.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="104-build-tools:module-bundlers:vite">
         <text x="1168" y="1603" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Parcel</tspan>
         </text>
-        <rect x="1104.35" y="1578.35" width="148.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1104.35" y="1578.35" width="148.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1156" y="1603" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Vite</tspan>
         </text>
         <circle cx="1248" cy="1594" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1248" cy="1594" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1248" cy="1594" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1248" cy="1594" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1242.5 1594L1246.5 1598 1253 1591.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="107-static-site-generators:eleventy">
-        <rect x="1153.35" y="2686.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1153.35" y="2686.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <circle cx="1295" cy="2704" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1295" cy="2704" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1295" cy="2704" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1289.5 2704L1293.5 2708 1300 2701.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
         <text x="1193" y="2711.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Eleventy</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="102-package-managers:pnpm">
-        <rect x="181.35" y="1242.35" width="148.3" height="46.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="181.35" y="1242.35" width="148.3" height="46.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="234" y="1270.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>pnpm</tspan>
         </text>
         <circle cx="183" cy="1264" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="183" cy="1264" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="183" cy="1264" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M177.5 1264L181.5 1268 188 1261.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="103-pick-a-framework:svelte">
-        <rect x="179.35" y="1628.35" width="142.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="179.35" y="1628.35" width="142.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="229" y="1652.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Svelte</tspan>
         </text>
         <circle cx="181" cy="1645" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="181" cy="1645" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="181" cy="1645" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="181" cy="1645" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M175.5 1645L179.5 1649 186 1642.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="104-pick-a-framework:solid-js">
-        <rect x="179.35" y="1674.35" width="142.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="179.35" y="1674.35" width="142.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="229" y="1698.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Solid JS</tspan>
         </text>
         <circle cx="181" cy="1691" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="181" cy="1691" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="181" cy="1691" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="181" cy="1691" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M175.5 1691L179.5 1695 186 1688.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="104-testing-your-apps:playwright">
-        <rect x="1103.35" y="2032.35" width="194.3" height="36.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1103.35" y="2032.35" width="194.3" height="36.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1162" y="2057" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Playwright</tspan>
         </text>
         <circle cx="1292" cy="2049" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1292" cy="2049" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1292" cy="2049" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1286.5 2049L1290.5 2053 1297 2046.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-server-side-rendering:react-js:remix">
-        <rect x="1208.35" y="2416.35" width="103.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1208.35" y="2416.35" width="103.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1230" y="2441.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Remix</tspan>
         </text>
         <circle cx="1309" cy="2434" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1309" cy="2434" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1309" cy="2434" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1303.5 2434L1307.5 2438 1314 2431.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="103-static-site-generators:remix">
-        <rect x="1152.35" y="3055.35" width="145.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1152.35" y="3055.35" width="145.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1200" y="3080.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Remix</tspan>
         </text>
         <circle cx="1296" cy="3073" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1296" cy="3073" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1296" cy="3073" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1290.5 3073L1294.5 3077 1301 3070.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-desktop-applications:flutter">
-        <rect x="776.35" y="3087.35" width="185.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="776.35" y="3087.35" width="185.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="844" y="3112.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Flutter</tspan>
         </text>
@@ -1315,41 +1315,41 @@
         <path d="M951.5 3104L955.5 3108 962 3101.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="106-static-site-generators:astro">
-        <rect x="1154.35" y="2731.35" width="144.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1154.35" y="2731.35" width="144.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1207" y="2757" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Astro</tspan>
         </text>
         <circle cx="1296" cy="2749" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1296" cy="2749" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="1296" cy="2749" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M1290.5 2749L1294.5 2753 1301 2746.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="103-server-side-rendering:svelte">
-        <rect x="1048.35" y="2612.35" width="116.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1048.35" y="2612.35" width="116.3" height="37.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1077" y="2636.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Svelte</tspan>
         </text>
         <circle cx="1161" cy="2629" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1161" cy="2629" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1161" cy="2629" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1161" cy="2629" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1155.5 2629L1159.5 2633 1166 2626.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="100-server-side-rendering:svelte:svelte-kit">
-        <rect x="1204.35" y="2611.35" width="108.3" height="38.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="1204.35" y="2611.35" width="108.3" height="38.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1213" y="2636.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Svelte Kit</tspan>
         </text>
         <circle cx="1311" cy="2629" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1311" cy="2629" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="1311" cy="2629" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="1311" cy="2629" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M1305.5 2629L1309.5 2633 1316 2626.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="116-auth-strategies">
-        <rect x="167.35" y="2226.35" width="398.3" height="84.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="167.35" y="2226.35" width="398.3" height="84.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="265" y="2262.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>استراتژی های احراز هویت</tspan>
         </text>
         <circle cx="166" cy="2269" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="166" cy="2269" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="166" cy="2269" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M160.5 2269L164.5 2273 171 2266.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
         <text x="172" y="2300" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
             <tspan>JWT, OAuth, SSO, Basic Auth, Session Auth etc</tspan>
@@ -1365,63 +1365,63 @@
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-css-frameworks:js-first:tailwind-css">
-        <rect x="353.35" y="1841.35" width="133.3" height="37.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="353.35" y="1841.35" width="133.3" height="37.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="389" y="1865.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Tailwind</tspan>
         </text>
         <circle cx="483" cy="1858" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="483" cy="1858" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="483" cy="1858" r="10" fill="rgba(254,0,38,255)"></circle>
+        <circle cx="483" cy="1858" r="10" fill="rgb(153,0,255)"></circle>
         <path d="M477.5 1858L481.5 1862 488 1855.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="102-css-frameworks:js-first:material-ui">
-        <rect x="353.35" y="1888.35" width="134.3" height="34.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="353.35" y="1888.35" width="134.3" height="34.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="378" y="1911.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Material UI</tspan>
         </text>
         <circle cx="488" cy="1904" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="488" cy="1904" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="488" cy="1904" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="488" cy="1904" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M482.5 1904L486.5 1908 493 1901.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="104-css-frameworks:js-first:mantine">
-        <rect x="197.35" y="1842.35" width="146.3" height="36.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="197.35" y="1842.35" width="146.3" height="36.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="239" y="1866.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Mantine</tspan>
         </text>
         <circle cx="198" cy="1859" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="198" cy="1859" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="198" cy="1859" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="198" cy="1859" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M192.5 1859L196.5 1863 203 1856.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="103-css-frameworks:js-first:radix-ui">
-        <rect x="353.35" y="1933.35" width="136.3" height="34.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="353.35" y="1933.35" width="136.3" height="34.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="386" y="1956.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Radix UI</tspan>
         </text>
         <circle cx="487" cy="1949" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="487" cy="1949" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="487" cy="1949" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="487" cy="1949" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M481.5 1949L485.5 1953 492 1946.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="101-css-frameworks:js-first:chakra-ui">
-        <rect x="194.35" y="1887.35" width="149.3" height="36.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="194.35" y="1887.35" width="149.3" height="36.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="228" y="1912.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Chakra UI</tspan>
         </text>
         <circle cx="194" cy="1904" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="194" cy="1904" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="194" cy="1904" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="194" cy="1904" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M188.5 1904L192.5 1908 199 1901.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <g class="clickable-group" data-group-id="105-css-frameworks:js-first:daisy-ui">
-        <rect x="195.35" y="1932.35" width="149.3" height="36.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="195.35" y="1932.35" width="149.3" height="36.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="240" y="1957.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>DaisyUI</tspan>
         </text>
         <circle cx="195" cy="1949" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="195" cy="1949" r="10" fill="rgb(255,255,255)"></circle>
-        <circle cx="195" cy="1949" r="10" fill="rgb(255, 153, 145)"></circle>
+        <circle cx="195" cy="1949" r="10" fill="rgb(56,118,29)"></circle>
         <path d="M189.5 1949L193.5 1953 200 1946.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
     <rect x="372.35" y="3384.35" width="435.3" height="115.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
@@ -1429,13 +1429,13 @@
         <tspan>با قسمت های زیر به یادگیری ادامه دهید</tspan>
     </text>
     <g class="clickable-group" data-group-id="ext_link:roadmap.sh/nodejs">
-        <rect x="595.35" y="3440.35" width="195.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="595.35" y="3440.35" width="195.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="624" y="3467" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>Node.js نقشه راه</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="ext_link:roadmap.sh/typescript">
-        <rect x="387.35" y="3440.35" width="195.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <rect x="387.35" y="3440.35" width="195.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="407" y="3466.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
             <tspan>TypeScript نقشه راه</tspan>
         </text>

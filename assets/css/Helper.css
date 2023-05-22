@@ -1,0 +1,19 @@
+
+/* Helper Styles */
+
+body {
+    overflow-x: hidden;
+}
+section.subject {
+    padding: 2rem 2rem;
+}
+section.subject div.options a {
+    background-color: gray;
+    padding: .5rem;
+    border-radius: .6rem;
+    font-size: .9rem;
+    color: white;
+}
+section.subject div.options a:hover {
+    background-color: #4c4c4c;
+}

@@ -2,7 +2,7 @@
 body {
     overflow-x: hidden;
 }
-/* Style index.php */
+/* Style index.php (Home Page) */
 #Top-Sec {
     background-color: var(--background-main);
     color: var(--color-main);

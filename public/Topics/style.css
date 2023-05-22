@@ -1,0 +1,134 @@
+/* Style for All Topics */
+div.content-dialog h1 {
+    direction: ltr;
+}
+div.content-dialog p{
+    text-align: justify;
+}
+
+ul.links-reference {
+    text-align: right;
+}
+ul.links-reference.right-link li::before {
+    content: "\21AB";  /* ↫ */
+}
+ul.links-reference.left-link li::before {
+    content: "\21AC";  /* ↬ */
+}
+ul.links-reference.right-link li::before , ul.links-reference.left-link li::before {
+    color: var(--color-red);
+    font-size: 1.3rem;
+    font-weight: bold;
+    display: inline-block;
+    width: 2em;
+}
+ul.links-reference.left-link {
+    text-align: left;
+    direction: ltr;
+}
+ul.links-reference li {
+    padding: 0.2rem 0;
+}
+@media screen and (max-width: 456px) {
+    ul.links-reference.right-link li::before , ul.links-reference.left-link li::before {
+        content: "";
+        font-weight: unset;
+        display: unset;
+        width: unset;
+    }
+    ul.links-reference li {
+        border-bottom: 1px solid gray;
+    }
+}
+
+ul.links-reference li a {
+    color: blue;
+}
+ul.links-reference li a:hover {
+    color: #ff0080;
+    font-weight: 900;
+}
+
+/*Scroll Dialog */
+dialog::-webkit-scrollbar {
+    width: .7rem;
+}
+dialog::-webkit-scrollbar-track {
+    background-color: var(--background-main);
+}
+dialog::-webkit-scrollbar-thumb {
+    background-color: var(--background-role);
+    border-radius: 1rem;
+}
+dialog::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+dialog {
+    max-width: 85%;
+    max-height: 65%;
+    position: fixed;
+    top: 20%;
+    margin: auto;
+    text-align: center;
+    overflow-x: hidden;
+    overflow-y: auto;
+    border: gray solid 1px;
+    display: none;
+    border-radius: 0 1.3rem 1.3rem 0;
+    box-shadow: 0 0 7px black;
+    padding: 5% 5% 2%;
+    z-index: 999;
+}
+dialog button {
+    border-radius: 50%;
+    padding: .7rem;
+    background-color: var(--color-red);
+    color: var(--color-main);
+    border: none;
+    cursor: pointer;
+    transition: all .5s;
+}
+dialog button.close_up_btn {
+    position: absolute;
+    padding: 1rem;
+    top: 5%;
+    right: 5%;
+    font-weight: 900;
+}
+dialog button.close_down_btn {
+    background-color: var(--background-main);
+    margin: 2rem auto 0;
+}
+dialog button:hover {
+    background-color: black;
+}
+
+p.clickable-group:hover {
+    cursor: pointer;
+    font-weight: 700;
+}
+
+#search_topic #live_search p , #all_category p {
+    margin: 1rem auto;
+}
+#all_category p {
+    text-align: center;
+    background-color: var(--background-main);
+    color: var(--color-main);
+    padding: 0.6rem;
+    border-radius: 1rem;
+    filter: blur(.03rem);
+    opacity: 93%;
+    transition: filter 1s,opacity .5s;
+}
+@media screen and (max-width: 456px) {
+    #all_category p {
+        filter: unset;
+        opacity: 100%;
+    }
+}
+#all_category p:hover {
+    filter: blur(0);
+    opacity: 100%;
+}

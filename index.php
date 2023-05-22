@@ -1,4 +1,4 @@
-<?php include "Constants.php"?>
+<?php include "Constants.php" ?>
 <!doctype html>
 <html lang="fa" dir="rtl">
 <head>
@@ -6,6 +6,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="<?= MAIN_SERVER . 'assets/img/LogoWh.svg'?>" rel="icon" type="image/svg" sizes="32x32">
     <title>Developer RoadMap</title>
     <link rel="stylesheet" href="assets/css/FullStyle.css">
     <link rel="stylesheet" href="assets/css/Style.css">
@@ -22,103 +23,90 @@
     </div>
     <section class="between">
         <hr class="between">
-        <h2>نقشه راه مبتنی بر رشته</h2>
+        <h2>نقشه راه بر اساس نقش</h2>
     </section>
     <div id="role" class="row container">
-        <div class="col-l-4">
-            <a href="public/Pages/Frontend/Frontend.php">Frontend (سمت کاربر) </a>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="public/Pages/Frontend/">Frontend (سمت کاربر) </a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Backend (سمت سرور)</a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">DevOps (توسعه عملیات)</a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Frontend (سمت کاربر) </a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Backend (سمت سرور)</a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">DevOps (توسعه عملیات)</a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Frontend (سمت کاربر) </a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Backend (سمت سرور)</a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">DevOps (توسعه عملیات)</a>
         </div>
     </div>
+
     <section class="between">
         <hr class="between">
-        <h2>نقشه راه مبتنی بر رشته</h2>
+        <h2>نقشه راه بر اساس مهارت</h2>
     </section>
+
     <div id="role" class="row container">
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Frontend (سمت کاربر) </a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Backend (سمت سرور)</a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">DevOps (توسعه عملیات)</a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Frontend (سمت کاربر) </a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Backend (سمت سرور)</a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">DevOps (توسعه عملیات)</a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Frontend (سمت کاربر) </a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Backend (سمت سرور)</a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">DevOps (توسعه عملیات)</a>
         </div>
     </div>
+
     <section class="between">
         <hr class="between">
-        <h2>نقشه راه مبتنی بر رشته</h2>
+        <h2>تمرین و پیشرفت</h2>
     </section>
+
     <div id="role" class="row container">
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Frontend (سمت کاربر) </a>
         </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">Backend (سمت سرور)</a>
         </div>
-        <div class="col-l-4">
-            <a href="#">DevOps (توسعه عملیات)</a>
-        </div>
-        <div class="col-l-4">
-            <a href="#">Frontend (سمت کاربر) </a>
-        </div>
-        <div class="col-l-4">
-            <a href="#">Backend (سمت سرور)</a>
-        </div>
-        <div class="col-l-4">
-            <a href="#">DevOps (توسعه عملیات)</a>
-        </div>
-        <div class="col-l-4">
-            <a href="#">Frontend (سمت کاربر) </a>
-        </div>
-        <div class="col-l-4">
-            <a href="#">Backend (سمت سرور)</a>
-        </div>
-        <div class="col-l-4">
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="#">DevOps (توسعه عملیات)</a>
         </div>
     </div>
+
 </section>
 
 <!-- DOWN SECTION  -->
@@ -134,10 +122,28 @@
         </div>
     </div>
 
-</section>
+    </section>
 
 <!-- FOOTER -->
 <?php require "public/Main/Footer.php" ?>
+
+
+<!-- MAIN SCRIPT -->
+<script src="<?= MAIN_SERVER . 'assets/vendor/jquery-3.7.0.min.js' ?>"></script>
+    <!-- Script For Response Menu -->
+<script src="<?= MAIN_SERVER . 'assets/js/Response-Menu.js' ?>"></script>
+
+<script>
+    //Scroll To Guide (Up - Down)
+             $("#Guide-Btn-Down , #Guide-Btn-Up").on("click", function (event) {
+                event.preventDefault();
+                console.log(event)
+                $("html, body").animate({
+                    scrollTop: $("#Guide").offset().top
+                }, 1000);
+                return false;
+            });
+</script>
 </body>
 </html>
 
