@@ -33,3 +33,27 @@ function CheckLoadSVG($color, $Name_Page, $name = null): void  # Method For Chan
     }
     readfile($check);
 }
+
+function GetAllTopics($name_page): void
+{
+    # Get All Topics
+    $excited_file_dir = glob(MAIN_DIR."public/Topics/$name_page/bin/*.*");
+    $excited_file_dir = str_replace(array(MAIN_DIR."public/Topics/$name_page/bin/" , ".php" ) , "" , $excited_file_dir);
+    $excited_file_dir = str_replace(MAIN_DIR."public/Topics/$name_page/" , "" , $excited_file_dir);
+    usort($excited_file_dir , function ($a , $b){  #Sort NAME With Number
+        $a = substr($a, strpos($a, '-') + 1);
+        $b = substr($b, strpos($b, '-') + 1);
+        return strcmp($a, $b);
+    });
+    foreach ($excited_file_dir as $value) {
+        $data_group =  $value ;
+
+        $pattern = '/[0-9]{1,5}(-)/';  #Delete Number First  (103-)
+        $value = preg_replace($pattern,"",$value , 1);
+
+        $value = str_replace("-" , " " , $value);
+        $value = str_replace("__" , " &#8594; " , $value); # → unicode
+
+        echo "<p style='direction: ltr' class='clickable-group' data-group-id='$data_group'> $value </p>";
+    }
+}

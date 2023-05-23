@@ -55,24 +55,9 @@ $Name_Page = basename(__DIR__);
         <div></div>
         <button class="close_down_btn">بازگشت</button>
     </dialog>
+    <!-- Show All Category  -->
     <section id="all_category">
-        <?php
-        $excited_file_dir = glob("bin/*.*");
-        $excited_file_dir = str_replace(array("bin/" , ".php" ) , "" , $excited_file_dir);
-        foreach ($excited_file_dir as $value) {
-            $data_group =  $value ;
-
-            $pattern = '/[0-9]{1,5}(-)/';  #Delete Number First  (103-)
-            $value = preg_replace($pattern,"",$value , 1);
-
-            $value = str_replace("-" , " " , $value);
-
-            $pattern = '/[A-Za-z]*(__)/';  #Delete Subject (internet__)
-            $value = preg_replace($pattern,"",$value );
-
-            echo "<p class='clickable-group' data-group-id='$data_group'> $value </p>";
-        }
-        ?>
+        <?php GetAllTopics($Name_Page); ?>
     </section>
 </section>
 <!-- END SUBJECT -->
