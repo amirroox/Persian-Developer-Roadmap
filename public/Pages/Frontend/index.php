@@ -54,7 +54,7 @@ $Name_Page = basename(__DIR__);
 <section class="container RoadMap" style="direction: ltr">
     <?php
     //    include "bin/$Name_Page.svg";   #Direct Load
-    CheckLoadSVG(CHECK_SVG,$Name_Page);   #Function Load
+    CheckLoadSVG(COLOR_SVG,$Name_Page);   #Function Load
     ?>
 </section>
 
@@ -62,7 +62,7 @@ $Name_Page = basename(__DIR__);
 <section class="container RoadMapBeginner" style="direction: ltr; display: none">
     <?php
     //    include "bin/$Name_Page"."Beginner.svg";  #Direct Load
-    CheckLoadSVG(CHECK_SVG,$Name_Page, "Beginner");   #Function Load
+    CheckLoadSVG(COLOR_SVG,$Name_Page, "Beginner");   #Function Load
     ?>
 </section>
 
@@ -79,7 +79,8 @@ $Name_Page = basename(__DIR__);
 <!-- Script For Click -->
 <script>
     $('.clickable-group').on('click', function () {
-        let data = $(this).attr('data-group-id');
+        let this_btn = $(this);
+        let data = this_btn.attr('data-group-id');
         let name_page = "<?=$Name_Page?>";
         let DownloadBtn = $('#DownloadFile');
         $.ajax({
@@ -101,7 +102,17 @@ $Name_Page = basename(__DIR__);
                     $('.RoadMapBeginner').fadeOut();
                     $('.RoadMap').fadeIn();
                     DownloadBtn.attr('href', 'bin/' + name_page + ".pdf");
-                } else {
+                }
+                else if(result.indexOf("ext_link__") !== -1){
+                    let link = result.replace("ext_link__" , "");
+                    if (link.indexOf("Best-Practices") !== -1) {
+                        window.location.href = '<?=MAIN_SERVER . "public/Pages/"?>' + name_page + '/practices/performance.php';
+                    }
+                    else {
+                        window.location.href = '<?=MAIN_SERVER . "public/Pages/"?>' + link;
+                    }
+                }
+                else {
                     $('#Data_Content').fadeIn();
                     $('#Data_Content div').html(result)
                 }
@@ -114,6 +125,20 @@ $Name_Page = basename(__DIR__);
 </script>
 <!-- Script For Response Menu -->
 <script src="<?= MAIN_SERVER . 'assets/js/Response-Menu.js' ?>"></script>
+<?php if(GET_ALL_TOPICS) : ?>
+<!-- Script For matchesTopics (Get All Topics data-group-id) -->
+<script src="<?= MAIN_SERVER . 'assets/js/Get-All-Topics.js' ?>"></script>
+<script>
+    $.ajax({
+        method: "POST",
+        url: "<?=MAIN_SERVER . 'public/Topics/MakeTopics.php' ?>",
+        data: {data: results_topics,name_page: "<?=$Name_Page?>"},
+        success: function (result) {
+            console.log(result);
+        }
+    });
+</script>
+<?php endif; ?>
 <!-- END MAIN SCRIPT-->
 </body>
 </html>
