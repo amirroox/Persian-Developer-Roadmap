@@ -12,7 +12,7 @@
     <path d="M783 584Q709.3500874125874 583.7267164653529 636 584" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
     <path d="M880.6 823.6969696969697Q831.5727272727272 823.6969696969697 782.5454545454545 823.6969696969697" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
     <path d="M782 650Q738.2843512043512 649.8377898003872 694.7466666666667 650" fill="none" stroke="rgb(0,158,15)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
-    <g class="clickable-group" data-group-id="ext_link:roadmap.sh/frontend">
+    <g class="clickable-group" data-group-id="0-frontend">
         <text x="716" y="425" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="32px">
             <tspan>فرانت - اند</tspan>
         </text>

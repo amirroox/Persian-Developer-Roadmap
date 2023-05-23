@@ -44,5 +44,6 @@ const COLOR_SVG = [
         "Text" => 'fill="rgb(0,0,0)"',
     ],
 ];
-
 include "assets/vendor/Helper.php";
+
+const GET_ALL_TOPICS = 0 ; # 1 is Check and Make File - 0 is Not (Default)
