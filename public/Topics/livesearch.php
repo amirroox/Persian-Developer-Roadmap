@@ -20,7 +20,7 @@ if ($preg = preg_grep("/$name/" , $excited_file_dir)) {
 //        $value = preg_replace($pattern,"",$value );
         $value = str_replace("__" , " &#8594; " , $value); # → unicode
 
-        echo "<p class='clickable-group' data-group-id='$data_group'> $value </p><hr>";
+        echo "<p class='clickable-group' data-group-id='$data_group'> $value </p>";
     }
 }
 

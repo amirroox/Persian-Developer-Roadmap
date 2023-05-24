@@ -9,6 +9,7 @@ $Name_Page = basename(__DIR__);
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/css/FullStyle.css' ?>">  <!-- Style Main seed -->
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Pages/style.css' ?>">    <!-- Style Page Clickable -->
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Topics/style.css' ?>">   <!-- Style Topic popup -->
+    <script src="<?= MAIN_SERVER . 'assets/vendor/swiper-element-bundle.min.js' ?>"></script> <!-- Script Slider -->
     <title> <?= $Name_Page ?> Road Map </title>
 </head>
 <body>
@@ -38,7 +39,7 @@ $Name_Page = basename(__DIR__);
     <section class="between">
         <hr class="between">
         <h2><a href="<?= MAIN_SITE ?>" target="_blank">Subscribe</a></h2>
-        <h2><?=$Name_Page?></h2>
+        <h2><?= $Name_Page ?></h2>
         <h2><a href="<?= MAIN_SERVER . 'public/Topics/' . $Name_Page ?>">Topics</a></h2>
     </section>
 </section>
@@ -54,7 +55,7 @@ $Name_Page = basename(__DIR__);
 <section class="container RoadMap" style="direction: ltr">
     <?php
     //    include "bin/$Name_Page.svg";   #Direct Load
-    CheckLoadSVG(COLOR_SVG,$Name_Page);   #Function Load
+    CheckLoadSVG(COLOR_SVG, $Name_Page);   #Function Load
     ?>
 </section>
 
@@ -62,7 +63,7 @@ $Name_Page = basename(__DIR__);
 <section class="container RoadMapBeginner" style="direction: ltr; display: none">
     <?php
     //    include "bin/$Name_Page"."Beginner.svg";  #Direct Load
-    CheckLoadSVG(COLOR_SVG,$Name_Page, "Beginner");   #Function Load
+    CheckLoadSVG(COLOR_SVG, $Name_Page, "Beginner");   #Function Load
     ?>
 </section>
 
@@ -102,19 +103,28 @@ $Name_Page = basename(__DIR__);
                     $('.RoadMapBeginner').fadeOut();
                     $('.RoadMap').fadeIn();
                     DownloadBtn.attr('href', 'bin/' + name_page + ".pdf");
-                }
-                else if(result.indexOf("ext_link__") !== -1){
-                    let link = result.replace("ext_link__" , "");
+                } else if (result.indexOf("ext_link__") !== -1) {
+                    let link = result.replace("ext_link__", "");
                     if (link.indexOf("Best-Practices") !== -1) {
                         window.location.href = '<?=MAIN_SERVER . "public/Pages/"?>' + name_page + '/practices/performance.php';
-                    }
-                    else {
+                    } else {
                         window.location.href = '<?=MAIN_SERVER . "public/Pages/"?>' + link;
                     }
-                }
-                else {
+                } else {
                     $('#Data_Content').fadeIn();
-                    $('#Data_Content div').html(result)
+                    $('#Data_Content div').html(result);
+                    /* Blank Link */
+                    let links_ref = document.querySelectorAll('.links-reference a');
+                    for (let i = 0; i < links_ref.length; i++) {
+                        links_ref[i].setAttribute('rel', 'noopener noreferrer nofollow');
+                        links_ref[i].setAttribute('target', '_blank');
+                    }
+                    let NoPic = document.querySelectorAll('#image-slide img') ;
+                    for (let i = 0; i < NoPic.length; i++) {
+                        if(NoPic[i].getAttribute("src").indexOf("#") !== -1) {
+                            NoPic[i].setAttribute("src" , "<?=MAIN_SERVER.'assets/img/Empty-img.jpg'?>");
+                        }
+                    }
                 }
             }
         })
@@ -123,22 +133,25 @@ $Name_Page = basename(__DIR__);
         $('#Data_Content').fadeOut();
     });
 </script>
+
 <!-- Script For Response Menu -->
 <script src="<?= MAIN_SERVER . 'assets/js/Response-Menu.js' ?>"></script>
-<?php if(GET_ALL_TOPICS) : ?>
-<!-- Script For matchesTopics (Get All Topics data-group-id) -->
-<script src="<?= MAIN_SERVER . 'assets/js/Get-All-Topics.js' ?>"></script>
-<script>
-    $.ajax({
-        method: "POST",
-        url: "<?=MAIN_SERVER . 'public/Topics/MakeTopics.php' ?>",
-        data: {data: results_topics,name_page: "<?=$Name_Page?>"},
-        success: function (result) {
-            console.log(result);
-        }
-    });
-</script>
+
+<?php if (GET_ALL_TOPICS) : ?>
+    <!-- Script For matchesTopics (Get All Topics data-group-id) -->
+    <script src="<?= MAIN_SERVER . 'assets/js/Get-All-Topics.js' ?>"></script>
+    <script>
+        $.ajax({
+            method: "POST",
+            url: "<?=MAIN_SERVER . 'public/Topics/MakeTopics.php' ?>",
+            data: {data: results_topics, name_page: "<?=$Name_Page?>"},
+            success: function (result) {
+                console.log(result);
+            }
+        });
+    </script>
 <?php endif; ?>
+
 <!-- END MAIN SCRIPT-->
 </body>
 </html>
