@@ -8,6 +8,7 @@ $Name_Page = basename(__DIR__);
     <?php include MAIN_DIR . "public/Main/meta-main.php" ?>
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/css/FullStyle.css' ?>">  <!-- Style Main -->
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Topics/style.css' ?>">   <!-- Style Topic -->
+    <script src="<?= MAIN_SERVER . 'assets/vendor/swiper-element-bundle.min.js'?>"></script> <!-- Script Slider -->
     <title> <?= $Name_Page ?> Topic </title>
 </head>
 <body>
@@ -55,32 +56,14 @@ $Name_Page = basename(__DIR__);
         <div></div>
         <button class="close_down_btn">بازگشت</button>
     </dialog>
+    <!-- Show All Category  -->
     <section id="all_category">
-        <?php
-        $excited_file_dir = glob("bin/*.*");
-        $excited_file_dir = str_replace(array("bin/" , ".php" ) , "" , $excited_file_dir);
-        foreach ($excited_file_dir as $value) {
-            $data_group =  $value ;
-
-            $pattern = '/[0-9]{1,5}(-)/';  #Delete Number First  (103-)
-            $value = preg_replace($pattern,"",$value , 1);
-
-            $value = str_replace("-" , " " , $value);
-
-            $pattern = '/[A-Za-z]*(__)/';  #Delete Subject (internet__)
-            $value = preg_replace($pattern,"",$value );
-
-            echo "<p class='clickable-group' data-group-id='$data_group'> $value </p>";
-        }
-        ?>
+        <h1>Topics <?= $Name_Page ?> </h1>
+        <?php GetAllTopics($Name_Page); ?>
     </section>
 </section>
 <!-- END SUBJECT -->
 
-
-<?php
-//$all_topic_files = glob(MAIN_SERVER . ) ;
-?>
 
 <!-- END MAIN -->
 
@@ -109,10 +92,23 @@ $Name_Page = basename(__DIR__);
                 success: function (result) {
                     $('#Data_Content').fadeIn();
                     $('#Data_Content div').html(result)
+                    /* Blank Link */
+                    let links_ref = document.querySelectorAll('.links-reference a');
+                    for (let i = 0; i < links_ref.length; i++) {
+                        links_ref[i].setAttribute('rel', 'noopener noreferrer nofollow');
+                        links_ref[i].setAttribute('target', '_blank');
+                    }
+                    /* Blank Img */
+                    let NoPic = document.querySelectorAll('#image-slide img') ;
+                    for (let i = 0; i < NoPic.length; i++) {
+                        if(NoPic[i].getAttribute("src").indexOf("#") !== -1) {
+                            NoPic[i].setAttribute("src" , "<?=MAIN_SERVER.'assets/img/Empty-img.jpg'?>");
+                        }
+                    }
                 }
             })
         });
-        $("#Data_Content button").on('click', function () {
+        $("#Data_Content button , body").on('click', function () {
             $('#Data_Content').fadeOut();
         });
     }

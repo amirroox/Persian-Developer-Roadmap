@@ -158,8 +158,8 @@
     <g class="clickable-group" data-group-id="102-build-tools:linters-formatters">
         <rect x="832.35" y="1462.35" width="222.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1"
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
-        <text x="875" y="1492.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>ابزار بررسی و آنالیز</tspan>
+        <text x="860" y="1492.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>ابزار بررسی و فرمت بندی</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-build-tools:linters-formatters:prettier">

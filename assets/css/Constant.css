@@ -5,4 +5,5 @@
     --color-main: white;
     --color-red: #ff1313;
     --color-pink: pink;
+    --swiper-theme-color: rgb(20, 15, 42) !important;  /* Slider Image In Topic */
 }
