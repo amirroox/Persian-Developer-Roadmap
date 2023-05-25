@@ -58,15 +58,15 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
+                <img src="https://blog.logrocket.com/wp-content/uploads/2021/06/using-prettier-eslint-automate-formatting-fixing-javascript.png"
                      class="img-responsive" alt="Prettier">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
+                <img src="https://assets.digitalocean.com/articles/how-to-format-code-with-prettier-in-visual-studio-code/prettier1.png"
                      class="img-responsive" alt="Prettier">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive" alt="Prettier">
+                <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4KCvB05b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/vrn2j6ewerdkpbuyrmz8.gif" class="img-responsive" alt="Prettier">
             </swiper-slide>
         </swiper-container>
     </div>
