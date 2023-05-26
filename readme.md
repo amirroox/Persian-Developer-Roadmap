@@ -16,7 +16,7 @@ Since most friends had many problems entering the world of computers and program
 از آنجایی که اکثر دوستان برای ورود به دنیای کامپیوتر و برنامه نویسی با مشکلات زیادی مواجه بودند و با سوالات زیادی مواجه می شدند، تصمیم گرفتیم برای افرادی که نمی دانند از کجا شروع کنند یا افرادی که به سطح قابل قبولی از دانش رسیده اند اما برای پیشرفت نمی داند چه چیزی را شروع کنند، یک انجمن راه اندازی کنیم.
 </p>
 
-### RoadMaps
+## RoadMaps
 ###### Role based Roadmaps
 - [x] Frontend
 - [ ] Backend
@@ -46,3 +46,29 @@ Since most friends had many problems entering the world of computers and program
 - [ ] Java
 - [ ] Go
 - [ ] Docker
+
+
+
+## How to Use
+1. Clone Repo
+   ```
+   git clone https://github.com/amirroox/Persian-Developer-Roadmap.git
+   ```
+2. Run Php Server Local (in Repo Directory) Or Upload To Server
+    ```
+    php -S 127.0.0.1:8000
+    ```
+3. open 127.0.0.1:8000 in your Browser
+4. Enjoy :)
+
+## روش استفاده
+1. مخزن را کلون کنید
+   ```
+   git clone https://github.com/amirroox/Persian-Developer-Roadmap.git
+   ```
+2. سرور پی اچ پی را اجرا کنید (در پوشه مخزن) یا در سمت سرور آپلود کنید
+    ```
+    php -S 127.0.0.1:8000
+    ```
+3. ادرس ساخته شده را در مروگر خود باز کنید
+4. لذت ببرید

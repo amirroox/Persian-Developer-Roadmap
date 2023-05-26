@@ -36,15 +36,15 @@
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
                 <img src="#"
-                     class="img-responsive" alt="Prettier">
+                     class="img-responsive" alt="">
             </swiper-slide>
             <swiper-slide>
                 <img src="#"
-                     class="img-responsive" alt="Prettier">
+                     class="img-responsive" alt="">
             </swiper-slide>
             <swiper-slide>
                 <img src="#" class="img-responsive"
-                     alt="Prettier">
+                     alt="">
             </swiper-slide>
         </swiper-container>
     </div>
