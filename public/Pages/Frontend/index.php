@@ -24,7 +24,7 @@ $Name_Page = basename(__DIR__);
 <!-- Subject -->
 <section class="container subject">
     <h1><?= "$Name_Page Developer" ?> (توسعه دهنده سمت کاربر) </h1>
-    <p>راهنمای قدم به قدم برای تبدیل شدن به توسعه دهنده سمت کاربر در سال 1402</p>
+    <p>راهنمای قدم به قدم برای تبدیل شدن به توسعه دهنده سمت کاربر در سال <?= NOW_YEAR['solar'] ?></p>
     <br>
     <div class="row options">
         <div class="col-xs-12 col-s-12 col-l-6">
