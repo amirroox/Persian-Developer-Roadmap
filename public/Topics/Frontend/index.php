@@ -67,7 +67,9 @@ $Name_Page = basename(__DIR__);
 
 <!-- END MAIN -->
 
-
+<!-- Community -->
+<?php require MAIN_DIR . "public/Main/Community.php"?>
+<!-- End Community -->
 <!-- FOOTER -->
 <?php require MAIN_DIR . "public/Main/Footer.php" ?>
 <!-- END FOOTER -->

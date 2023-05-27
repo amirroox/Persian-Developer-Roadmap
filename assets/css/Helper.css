@@ -1,3 +1,39 @@
+/* Between Part (Separator Parting) */
+hr.between {
+    border: rgba(253, 62, 62, 0.18) solid 1px;
+}
+@media screen and (max-width: 456px) {
+    section.between {
+        text-align: center;
+    }
+}
+section.between {
+    margin: 3rem 0 1rem;
+}
+section.between h2 {
+    position: relative;
+    top: -1.2rem;
+    background-color: var(--background-main);
+    display: inline;
+    color: var(--color-main);
+    border: rgba(255, 255, 255, 0.47) 1px solid;
+    padding: .2rem .5rem;
+    border-radius: 10px;
+    font-size: 16px;
+}
+section.between form#search_topic {
+    position: relative;
+    top: -1.3rem;
+    text-align: center;
+    width: 100%;
+}
+section.between form#search_topic input[type="text"] {
+    padding: .4rem;
+    width: 70%;
+    font-size: 1rem;
+    border: 1px solid rgba(253, 62, 62, 0.35);
+    border-radius: .5rem;
+}
 
 /* Helper Styles */
 
@@ -16,4 +52,34 @@ section.subject div.options a {
 }
 section.subject div.options a:hover {
     background-color: #4c4c4c;
+}
+
+/* Community Bottom */
+section.Community {
+    text-align: center;
+    background-color: whitesmoke;
+}
+section.Community h3{
+    font-size: 2.7rem;
+}
+section.Community p {
+    margin: 1rem 0;
+}
+section.Community a {
+    padding: .1rem .8rem;
+    border-radius: 1rem;
+    border:1px solid black;
+    transition: all .5s;
+    margin-bottom: 1rem;
+    display: inline-block;
+    direction: ltr;
+}
+section.Community a:before {
+    content: "\22C6  "; /*Star*/
+    font-size: 1.8rem;
+    vertical-align: middle;
+}
+section.Community a:hover {
+    background-color: black;
+    color: white;
 }
