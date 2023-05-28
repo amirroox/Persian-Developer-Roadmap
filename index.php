@@ -30,28 +30,28 @@
             <a href="public/Pages/Frontend/">Frontend (سمت کاربر) </a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Backend (سمت سرور)</a>
+            <a href="public/Pages/Backend/">Backend (سمت سرور)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">DevOps (توسعه عملیات)</a>
+            <a href="public/Pages/DevOps/">DevOps (توسعه عملیات)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Frontend (سمت کاربر) </a>
+            <a href="public/Pages/FullStack/">Full Stack (سمت کاربر و سمت سرور) </a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Backend (سمت سرور)</a>
+            <a href="public/Pages/Android/">Android (اندروید)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">DevOps (توسعه عملیات)</a>
+            <a href="public/Pages/PostgreSQL/">PostgreSQL (پستگرس کیوال)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Frontend (سمت کاربر) </a>
+            <a href="public/Pages/Blockchain/">Blockchain (بلاکچین) </a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Backend (سمت سرور)</a>
+            <a href="public/Pages/QA/">QA Engineer (مدیر تضمین کیفیت)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">DevOps (توسعه عملیات)</a>
+            <a href="public/Pages/SoftwareArchitect/">Software Architect (معماری نرم افزار)</a>
         </div>
     </div>
 
@@ -62,31 +62,31 @@
 
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Frontend (سمت کاربر) </a>
+            <a href="public/Pages/Vue/">Vue</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Backend (سمت سرور)</a>
+            <a href="public/Pages/React/">React</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">DevOps (توسعه عملیات)</a>
+            <a href="public/Pages/JavaScript/">JavaScript</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Frontend (سمت کاربر) </a>
+            <a href="public/Pages/Python/">Python</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Backend (سمت سرور)</a>
+            <a href="public/Pages/Java/">Java</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">DevOps (توسعه عملیات)</a>
+            <a href="public/Pages/Nodejs/">Node.js</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Frontend (سمت کاربر) </a>
+            <a href="public/Pages/GO/">GO</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Backend (سمت سرور)</a>
+            <a href="public/Pages/Nodejs/">TypeScript</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">DevOps (توسعه عملیات)</a>
+            <a href="public/Pages/Nodejs/">Docker</a>
         </div>
     </div>
 
@@ -97,13 +97,13 @@
 
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Frontend (سمت کاربر) </a>
+            <a href="#"></a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">Backend (سمت سرور)</a>
+            <a href="#"></a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#">DevOps (توسعه عملیات)</a>
+            <a href="#"></a>
         </div>
     </div>
 
@@ -114,15 +114,16 @@
     <div id="Guide" class="container">
         <h3> راهنما </h3>
         <div>
-            <a href="#">از کجا شروع کنیم ؟</a>
-            <a href="#">چگونه کار کنیم ؟</a>
-            <a href="#">چگونه کار کنیم ؟</a>
-            <a href="#">چگونه کار کنیم ؟</a>
-            <a href="#">چگونه کار کنیم ؟</a>
+            <a href="">از کجا شروع کنیم ؟</a>
+            <a href="">چگونه کار کنیم ؟</a>
+            <a href="">چگونه کار کنیم ؟</a>
+            <a href="">چگونه کار کنیم ؟</a>
+            <a href="">چگونه کار کنیم ؟</a>
         </div>
     </div>
-
-    </section>
+</section>
+<!-- Community -->
+<?php require "public/Main/Community.php"?>
 
 <!-- FOOTER -->
 <?php require "public/Main/Footer.php" ?>
