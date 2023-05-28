@@ -1,9 +1,9 @@
 <div class="content-dialog">
-    <h1>Template</h1>
-    <h2>قالب</h2>
+    <h1>esbuild</h1>
+    <h2>ایسبیلد</h2>
     <br>
     <p>
-        پر کنید ...
+        ابزار esbuild که با زبان Go نوشته شده، قادر است وابستگی ها را با سرعتی بین 10 تا 100 برابر bundler های جاوااسکریپتی pre-bundle کند.
     </p>
     <br>
 
@@ -13,8 +13,8 @@
         <ul class="col-xs-12 col-md-6 links-reference right-link">
             <h4>منابع فارسی</h4>
             <li>
-                <a href="#">
-                    منابع فارسی 1
+                <a href="https://udemyiran.com/product/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%da%a9%d8%a7%d8%b1-%d8%a8%d8%a7-esbuild/">
+                    آموزش کار با ESBUILD (پولی)
                 </a>
             </li>
         </ul>

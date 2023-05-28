@@ -18,12 +18,12 @@
                 <a href="https://sokanacademy.com/academy/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-npm/%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-137/npm-%DA%86%DB%8C%D8%B3%D8%AA-%D9%88-%DA%86%D9%87-%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF">
                     NPM چیست و چه کاری انجام میدهد؟
                 </a>
-            </li><li>
+            </li>
+            <li>
                 <a href="https://blog.faradars.org/10-things-you-should-know-about-npm/">
                     ۱۰ نکته در مورد NPM که باید بدانید
                 </a>
             </li>
-
             <li>
                 <a href="https://sokanacademy.com/academy/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-npm/%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-137/%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-%D9%87%D8%A7%DB%8C-npm">
                     کار با اسکریپت های npm
