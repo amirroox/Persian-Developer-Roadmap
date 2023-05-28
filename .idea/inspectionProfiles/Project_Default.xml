@@ -5,13 +5,13 @@
     <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <Languages>
         <language minSize="34" name="HTML" />
-        <language minSize="65" name="PHP" />
+        <language minSize="69" name="PHP" />
       </Languages>
     </inspection_tool>
     <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="myValues">
         <value>
-          <list size="12">
+          <list size="13">
             <item index="0" class="java.lang.String" itemvalue="nobr" />
             <item index="1" class="java.lang.String" itemvalue="noembed" />
             <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -24,6 +24,7 @@
             <item index="9" class="java.lang.String" itemvalue="h4" />
             <item index="10" class="java.lang.String" itemvalue="swiper-container" />
             <item index="11" class="java.lang.String" itemvalue="swiper-slide" />
+            <item index="12" class="java.lang.String" itemvalue="b" />
           </list>
         </value>
       </option>

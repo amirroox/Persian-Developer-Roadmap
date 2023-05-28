@@ -1026,7 +1026,7 @@
         <rect x="804.35" y="2676.35" width="278.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1"
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="859" y="2707" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>Static Site Generators</tspan>
+            <tspan>تولید سایت استاتیک (SSG)</tspan>
         </text>
         <circle cx="1074" cy="2676" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1074" cy="2676" r="10" fill="rgb(153,153,153)"></circle>

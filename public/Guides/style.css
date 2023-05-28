@@ -1,0 +1,11 @@
+#Content div {
+    margin-bottom: 1rem;
+}
+#Content a:hover {
+    color : var(--color-red);
+    transition: all .4s;
+}
+#Content ul li {
+    list-style-type: circle;
+    margin: 0 2.2rem;
+}

@@ -92,6 +92,32 @@
 
     <section class="between">
         <hr class="between">
+        <h2>نقشه راه 30 روزه</h2>
+    </section>
+
+    <div id="role" class="row container">
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="public/30Days/Vue/">HTML</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="public/30Days/React/">React</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="public/30Days/JavaScript/">JavaScript</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="public/30Days/Python/">Python</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="public/30Days/Java/">Java</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="public/30Days/Nodejs/">Node.js</a>
+        </div>
+    </div>
+
+    <section class="between">
+        <hr class="between">
         <h2>تمرین و پیشرفت</h2>
     </section>
 
@@ -114,11 +140,8 @@
     <div id="Guide" class="container">
         <h3> راهنما </h3>
         <div>
-            <a href="">از کجا شروع کنیم ؟</a>
-            <a href="">چگونه کار کنیم ؟</a>
-            <a href="">چگونه کار کنیم ؟</a>
-            <a href="">چگونه کار کنیم ؟</a>
-            <a href="">چگونه کار کنیم ؟</a>
+            <a href="public/Guides/bin/WhereToStart.php">از کجا شروع کنیم ؟</a>
+            <a href="public/Guides/bin/ImportantPoints.php">نکات مهم قبل از استفاده (حتما بخونید)</a>
         </div>
     </div>
 </section>

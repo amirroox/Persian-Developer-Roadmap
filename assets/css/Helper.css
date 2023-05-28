@@ -34,6 +34,10 @@ section.between form#search_topic input[type="text"] {
     border: 1px solid rgba(253, 62, 62, 0.35);
     border-radius: .5rem;
 }
+section.between a:hover {
+    color: var(--color-red);
+    transition: color .4s;
+}
 
 /* Helper Styles */
 
