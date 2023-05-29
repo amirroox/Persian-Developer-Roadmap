@@ -62,6 +62,7 @@ $Name_Page = basename(__DIR__);
         <?php GetAllTopics($Name_Page); ?>
     </section>
 </section>
+<div id="Overlay-dark"></div>
 <!-- END SUBJECT -->
 
 
@@ -93,7 +94,8 @@ $Name_Page = basename(__DIR__);
                 data: {name: name_page, data_result: data},
                 success: function (result) {
                     $('#Data_Content').fadeIn();
-                    $('#Data_Content div').html(result)
+                    $('#Data_Content div').html(result);
+                    $('#Overlay-dark').fadeIn();
                     /* Blank Link */
                     let links_ref = document.querySelectorAll('.links-reference a');
                     for (let i = 0; i < links_ref.length; i++) {
@@ -112,6 +114,7 @@ $Name_Page = basename(__DIR__);
         });
         $("#Data_Content button , body").on('click', function () {
             $('#Data_Content').fadeOut();
+            $('#Overlay-dark').fadeOut();
         });
     }
     ajax_box_open_close();

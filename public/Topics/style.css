@@ -123,6 +123,16 @@ dialog button:hover {
     background-color: black;
 }
 
+#Overlay-dark {
+    width: 100vw;
+    height: 100vh;
+    opacity: 30%;
+    background-color: var(--background-main);
+    position: fixed;
+    top: 0;
+    display: none;
+}
+
 p.clickable-group:hover {
     cursor: pointer;
     font-weight: 700;
