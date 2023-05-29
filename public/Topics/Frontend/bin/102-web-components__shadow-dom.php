@@ -1,9 +1,10 @@
 <div class="content-dialog">
-    <h1>Template</h1>
-    <h2>قالب</h2>
+    <h1>Shadow DOM</h1>
+    <h2>Shadow DOM</h2>
     <br>
     <p>
-        پر کنید ...
+        Shadow DOM بخشی از Document Object Model است که قادر به جداسازی JavaScript و CSS می‌باشد. اگر در مورد iframes شنیده باشید، Shadow DOM نیز چیزی است که دارای قابلیت‌های مشابه است.
+        درست مانند iframes به طور پیش فرض استایل‌های درون Shadow DOM به بیرون نشت نکرده و استایل‌های خارج از آن نیز به داخل نفوذ نمی‌کنند.
     </p>
     <br>
 
