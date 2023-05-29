@@ -5,6 +5,17 @@ div.content-dialog h1 {
 div.content-dialog p{
     text-align: justify;
 }
+@media screen and (max-width: 456px) {
+    div.content-dialog {
+        margin-top: 5rem;
+    }
+}
+.content-dialog > ul li {
+    text-align: right;
+    border-bottom: 1px dashed gray;
+    list-style-type: square;
+    margin-right: 1rem;
+}
 
 ul.links-reference {
     text-align: right;
@@ -82,9 +93,9 @@ dialog {
     z-index: 999;
 }
 dialog button {
-    border-radius: 50%;
+    border-radius: 100%;
     padding: .7rem;
-    background-color: var(--color-red);
+    background-color: var(--color-pink);
     color: var(--color-main);
     border: none;
     cursor: pointer;
@@ -92,7 +103,7 @@ dialog button {
 }
 dialog button.close_up_btn {
     position: absolute;
-    padding: 1rem;
+    padding: 1.3rem;
     top: 2%;
     right: 5%;
     font-weight: 900;
@@ -100,6 +111,13 @@ dialog button.close_up_btn {
 dialog button.close_down_btn {
     background-color: var(--background-main);
     margin: 2rem auto 0;
+}
+@media screen and (max-width: 456px) {
+    dialog button.close_up_btn {
+        left: 30%;
+        right: 30%;
+        border-radius: 1.3rem;
+    }
 }
 dialog button:hover {
     background-color: black;
