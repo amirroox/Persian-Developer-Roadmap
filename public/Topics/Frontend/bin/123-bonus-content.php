@@ -1,6 +1,6 @@
 <div class="content-dialog">
-    <h1>Template</h1>
-    <h2>قالب</h2>
+    <h1>Bonus Content</h1>
+    <h2>آموزش تکمیلی</h2>
     <br>
     <p>
         پر کنید ...

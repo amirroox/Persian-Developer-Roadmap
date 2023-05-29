@@ -1,9 +1,9 @@
 <div class="content-dialog">
-    <h1>Template</h1>
-    <h2>قالب</h2>
+    <h1>OWASP Security Risks</h1>
+    <h2>خطرات امنیتی OWASP</h2>
     <br>
     <p>
-        پر کنید ...
+        (Open Web Application Security Project (OWASP به سازمانها کمک می کند تا برنامه های کاربردی امن را توسعه دهند. آنها با استانداردها، ابزارهای رایگان و کنفرانس هایی که به سازمان ها ارائه میدهند باعث افزایش آگاهی آنها میشوند.
     </p>
     <br>
 

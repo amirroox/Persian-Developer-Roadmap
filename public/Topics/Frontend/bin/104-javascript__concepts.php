@@ -1,9 +1,9 @@
 <div class="content-dialog">
-    <h1>Template</h1>
-    <h2>قالب</h2>
+    <h1>JavaScript Concepts</h1>
+    <h2>مفاهیم جاوا اسکریپت</h2>
     <br>
     <p>
-        پر کنید ...
+        مفاهیمی مانند Hoisting، Event Bubbling، Scope، Prototype، Shadow DOM و strict را بیاموزید و درک کنید.
     </p>
     <br>
 

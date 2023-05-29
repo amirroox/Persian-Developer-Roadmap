@@ -44,6 +44,13 @@ $Name_Page = basename(__DIR__);
     </section>
 </section>
 
+
+<!-- Start Overlay Dialog -->
+<div id="Overlay-dark">
+
+</div>
+<!-- End Overlay Dialog -->
+
 <!-- Summery DATA - Data Content -->
 <dialog id="Data_Content" open>
     <button class="close_up_btn">&#128473;</button> <!-- 🗙 -->
@@ -115,6 +122,7 @@ $Name_Page = basename(__DIR__);
                 } else {
                     $('#Data_Content').fadeIn();
                     $('#Data_Content div').html(result);
+                    $('#Overlay-dark').fadeIn();
                     /* Blank Link */
                     let links_ref = document.querySelectorAll('.links-reference a');
                     for (let i = 0; i < links_ref.length; i++) {
@@ -133,6 +141,7 @@ $Name_Page = basename(__DIR__);
     });
     $("#Data_Content button").on('click', function () {
         $('#Data_Content').fadeOut();
+        $('#Overlay-dark').fadeOut();
     });
 </script>
 
