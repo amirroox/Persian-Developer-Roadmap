@@ -1,9 +1,9 @@
 <div class="content-dialog">
-    <h1>Template</h1>
-    <h2>قالب</h2>
+    <h1>Modern CSS</h1>
+    <h2>سی اس اس مدرن</h2>
     <br>
     <p>
-        پر کنید ...
+        نحوه نوشتن CSS در برنامه های کاربردی پیشرفته مدرن کاملاً با روشی که قبلاً CSS می نوشتیم متفاوت است. روش هایی مانند Styled Components، CSS Modules، Styled JSX، Emotion و غیره وجود دارد.
     </p>
     <br>
 
