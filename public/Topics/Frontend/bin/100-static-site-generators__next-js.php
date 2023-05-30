@@ -32,11 +32,15 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
+            <li><a href="https://nuxtjs.org/">Official Website</a>
             </li>
+            <li><a href="https://nuxtjs.org/docs/get-started">Official
+                    Docs for Getting Started</a></li>
+            <li><a href="https://masteringnuxt.com/">Mastering
+                    Nuxt.js</a></li>
+            <li><a href="https://www.youtube.com/watch?v=FXpIoQ_rT_c" 
+                 >Vue.js for Beginners - Full Course at freeCodeCamp YouTube
+                    Channel</a></li>
         </ul>
 
     </div>

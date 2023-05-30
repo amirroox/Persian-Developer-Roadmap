@@ -3,7 +3,9 @@
     <h2>مبانی اولیه یادگیری گیت</h2>
     <br>
     <p>
-        گیت (Git) مشهورترین و پرکاربردترین سیستم کنترل نسخه یا ورژن کنترل، در جهان است. درست است که بدون گیت می شود برنامه نویسی کرد ولی می توان با اطمینان، مدعی شد که هیچ برنامه بزرگی در جهان بدون استفاده از یک ورژن کنترل، نوشته نشده است و همچنان می شود گفت که گیت، محبوب ترین و پر استفاده ترین ورژن کنترل حال حاضر جهان است.
+        گیت (Git) مشهورترین و پرکاربردترین سیستم کنترل نسخه یا ورژن کنترل، در جهان است. درست است که بدون گیت می شود
+        برنامه نویسی کرد ولی می توان با اطمینان، مدعی شد که هیچ برنامه بزرگی در جهان بدون استفاده از یک ورژن کنترل،
+        نوشته نشده است و همچنان می شود گفت که گیت، محبوب ترین و پر استفاده ترین ورژن کنترل حال حاضر جهان است.
     </p>
     <br>
 
@@ -48,11 +50,13 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc" 
+                 >Git &amp; GitHub Crash Course For Beginners</a></li>
+            <li><a href="https://www.atlassian.com/git">Learn Git
+                    with Tutorials, News and Tips - Atlassian</a></li>
+            <li><a href="https://cs.fyi/guide/git-cheatsheet" >Git Cheat Sheet</a></li>
+            <li><a href="https://thenewstack.io/tutorial-git-for-absolutely-everyone/" >Tutorial: Git for
+                    Absolutely Everyone</a></li>
         </ul>
 
     </div>

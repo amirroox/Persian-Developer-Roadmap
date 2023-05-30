@@ -5,7 +5,9 @@
     <p>
         دامنه (Domain) همان آدرسی است که با درج آن در مرورگرتان وارد وب‌‌سایت می‌شوید؛مثلا سایت www.road-map.ir .
         <br>
-        معنی دامنه (Domain) در زبان فارسی به‌معنای «گسترده» است؛ ولی در دنیای وب قضیه فرق می‌کند و شرکت‌های میزبانی ابری از آن برای حفظ و نگه‌داری وب‌سایت‌ها استفاده می‌کنند. نام دامنه در‌واقع آی‌پی‌ای است که پروتکل DNS آن را به آدرس تبدیل می‌کند.
+        معنی دامنه (Domain) در زبان فارسی به‌معنای «گسترده» است؛ ولی در دنیای وب قضیه فرق می‌کند و شرکت‌های میزبانی ابری
+        از آن برای حفظ و نگه‌داری وب‌سایت‌ها استفاده می‌کنند. نام دامنه در‌واقع آی‌پی‌ای است که پروتکل DNS آن را به آدرس
+        تبدیل می‌کند.
     </p>
     <br>
 
@@ -25,11 +27,12 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name"
+                  >What is a Domain Name?</a></li>
+            <li><a href="https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/" 
+                 >What is a Domain Name? | Domain name vs. URL</a></li>
+            <li><a href="https://www.youtube.com/watch?v=Y4cRx19nhJk" 
+                 >A Beginners Guide to How Domain Names Work</a></li>
         </ul>
 
     </div>

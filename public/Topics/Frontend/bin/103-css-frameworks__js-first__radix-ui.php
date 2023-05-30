@@ -23,11 +23,10 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://www.radix-ui.com/">Official
+                    Website</a></li>
+            <li><a href="https://www.radix-ui.com/docs/primitives/overview/introduction" 
+                 >Official Documentation</a></li>
         </ul>
 
     </div>

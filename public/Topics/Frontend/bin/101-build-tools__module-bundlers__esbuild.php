@@ -3,7 +3,8 @@
     <h2>ایسبیلد</h2>
     <br>
     <p>
-        ابزار esbuild که با زبان Go نوشته شده، قادر است وابستگی ها را با سرعتی بین 10 تا 100 برابر bundler های جاوااسکریپتی pre-bundle کند.
+        ابزار esbuild که با زبان Go نوشته شده، قادر است وابستگی ها را با سرعتی بین 10 تا 100 برابر bundler های
+        جاوااسکریپتی pre-bundle کند.
     </p>
     <br>
 
@@ -23,11 +24,12 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://esbuild.github.io/">Esbuild Official
+                    Website</a></li>
+            <li><a href="https://esbuild.github.io/api/">Esbuild
+                    Documentation</a></li>
+            <li><a href="https://www.youtube.com/watch?v=9XS_RA6zyyU" 
+                 >Why are People Obsessed with esbuild?</a></li>
         </ul>
 
     </div>

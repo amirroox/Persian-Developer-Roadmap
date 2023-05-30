@@ -3,7 +3,8 @@
     <h2>موبایل اپلیشکن</h2>
     <br>
     <p>
-        مدتی پیش، توسعه یک اپلیکیشن موبایل با استفاده از جاوا اسکریپت غیرممکن بود. اما اکنون توسعه دهندگان جاوا اسکریپت می توانند با استفاده از دانش خود برای توسعه وب، اپلیکیشن های موبایل ایجاد کنند.
+        مدتی پیش، توسعه یک اپلیکیشن موبایل با استفاده از جاوا اسکریپت غیرممکن بود. اما اکنون توسعه دهندگان جاوا اسکریپت
+        می توانند با استفاده از دانش خود برای توسعه وب، اپلیکیشن های موبایل ایجاد کنند.
     </p>
     <br>
 
@@ -23,10 +24,11 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
+            <li><a href="https://reactnative.dev/">React Native</a>
+            </li>
+            <li><a href="https://flutter.dev">Flutter</a></li>
+            <li><a href="https://ionicframework.com">Ionic</a></li>
+            <li><a href="https://nativescript.org/">NativeScript</a>
             </li>
         </ul>
 

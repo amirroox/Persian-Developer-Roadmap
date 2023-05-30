@@ -3,7 +3,9 @@
     <h2>ای اس لینت</h2>
     <br>
     <p>
-        واژه lint از نام یکی از Unix utility ها به همین نام می آید که مسئول بررسی سورس کدهای زبان C بود اما حالا جنبه عام گرفته است و تقریبا برای هر زبان برنامه نویسی چندین Linter داریم. برای زبان جاوا اسکریپت، می توان گفت که ESLint مشهور ترین و محبوب ترین Linter می باشد.
+        واژه lint از نام یکی از Unix utility ها به همین نام می آید که مسئول بررسی سورس کدهای زبان C بود اما حالا جنبه
+        عام گرفته است و تقریبا برای هر زبان برنامه نویسی چندین Linter داریم. برای زبان جاوا اسکریپت، می توان گفت که
+        ESLint مشهور ترین و محبوب ترین Linter می باشد.
     </p>
     <br>
 
@@ -49,11 +51,12 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://eslint.org/">ESLint Official
+                    Website</a></li>
+            <li><a href="https://dev.to/shivambmgupta/eslint-what-why-when-how-5f1d" 
+                 >Introduction to ESLint</a></li>
+            <li><a href="https://www.youtube.com/watch?v=qhuFviJn-es" 
+                 >ESLint Quickstart - find errors automatically</a></li>
         </ul>
 
     </div>

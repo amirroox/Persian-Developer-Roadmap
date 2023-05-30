@@ -20,15 +20,6 @@
         </ul>
 
 
-        <!-- English References -->
-        <ul class="col-xs-12 col-md-6 links-reference left-link">
-            <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
-        </ul>
 
     </div>
     <br>

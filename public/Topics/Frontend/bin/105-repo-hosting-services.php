@@ -3,7 +3,9 @@
     <h2>سرویس های آنلاین استفاده از گیت</h2>
     <br>
     <p>
-        سرویس های میزبانی مخزن مختلفی وجود دارد که معروف ترین آنها GitHub، GitLab و BitBucket است. من ایجاد یک حساب کاربری در GitHub را توصیه می کنم زیرا بیشتر کارهای OpenSource در آنجا انجام می شود و بیشتر توسعه دهندگان در آنجا هستند.
+        سرویس های میزبانی مخزن مختلفی وجود دارد که معروف ترین آنها GitHub، GitLab و BitBucket است. من ایجاد یک حساب
+        کاربری در GitHub را توصیه می کنم زیرا بیشتر کارهای OpenSource در آنجا انجام می شود و بیشتر توسعه دهندگان در آنجا
+        هستند.
     </p>
     <br>
 
@@ -23,11 +25,12 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://github.com">GitHub: Where the world
+                    builds software</a></li>
+            <li><a href="https://gitlab.com">GitLab: Iterate faster,
+                    innovate together</a></li>
+            <li><a href="https://bitbucket.com">BitBucket: The Git
+                    solution for professional teams</a></li>
         </ul>
 
     </div>

@@ -3,8 +3,10 @@
     <h2>Shadow DOM</h2>
     <br>
     <p>
-        Shadow DOM بخشی از Document Object Model است که قادر به جداسازی JavaScript و CSS می‌باشد. اگر در مورد iframes شنیده باشید، Shadow DOM نیز چیزی است که دارای قابلیت‌های مشابه است.
-        درست مانند iframes به طور پیش فرض استایل‌های درون Shadow DOM به بیرون نشت نکرده و استایل‌های خارج از آن نیز به داخل نفوذ نمی‌کنند.
+        Shadow DOM بخشی از Document Object Model است که قادر به جداسازی JavaScript و CSS می‌باشد. اگر در مورد iframes
+        شنیده باشید، Shadow DOM نیز چیزی است که دارای قابلیت‌های مشابه است.
+        درست مانند iframes به طور پیش فرض استایل‌های درون Shadow DOM به بیرون نشت نکرده و استایل‌های خارج از آن نیز به
+        داخل نفوذ نمی‌کنند.
     </p>
     <br>
 
@@ -24,11 +26,8 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM" 
+                 >Using shadow DOM | MDN web docs</a></li>
         </ul>
 
     </div>

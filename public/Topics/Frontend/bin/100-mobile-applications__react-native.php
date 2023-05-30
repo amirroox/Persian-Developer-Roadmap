@@ -3,8 +3,12 @@
     <h2>ری اکت نیتیو</h2>
     <br>
     <p>
-        React Native یک فریمورک UI متن باز برای ساخت اپلیکیشن موبایل است که توسط فیس بوک معرفی و عرضه شده است. به کمک ری اکت نیتیو و زبان جاوا اسکریپت می‌توانیم برای اندروید، آی اواس، وب و حتی UWP (پلتفرمی برای ساخت برنامه‌های تحت ویندوز، ویندوز موبایل، Xbox و سایر محصولات مایکروسافت) اپلیکیشن بسازیم.
-        React Native بر پایه‌ی یکی دیگر از سرویس‌های محبوب فیس بوک یعنی React (react چیست) می‌باشد که در طراحی رابط کاربری (UI) استفاده می‌شود. ولی برخلاف React که تمرکز اصلی آن روی مرورگر است، React Native برای ساخت اپلیکیشن‌های موبایل استفاده می‌شود.
+        React Native یک فریمورک UI متن باز برای ساخت اپلیکیشن موبایل است که توسط فیس بوک معرفی و عرضه شده است. به کمک ری
+        اکت نیتیو و زبان جاوا اسکریپت می‌توانیم برای اندروید، آی اواس، وب و حتی UWP (پلتفرمی برای ساخت برنامه‌های تحت
+        ویندوز، ویندوز موبایل، Xbox و سایر محصولات مایکروسافت) اپلیکیشن بسازیم.
+        React Native بر پایه‌ی یکی دیگر از سرویس‌های محبوب فیس بوک یعنی React (react چیست) می‌باشد که در طراحی رابط
+        کاربری (UI) استفاده می‌شود. ولی برخلاف React که تمرکز اصلی آن روی مرورگر است، React Native برای ساخت
+        اپلیکیشن‌های موبایل استفاده می‌شود.
     </p>
     <br>
 
@@ -45,11 +49,14 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://reactnative.dev/">Official
+                    Website</a></li>
+            <li><a href="https://reactnative.dev/docs/getting-started" 
+                 >Official Getting Started to React Native</a></li>
+            <li><a href="https://www.youtube.com/watch?v=0-S5a0eXPoc" 
+                 >Build a React Native App by Mosh</a></li>
+            <li><a href="https://www.codecademy.com/learn/learn-react-native" 
+                 >Learn React Native by CodeAcademy</a></li>
         </ul>
 
     </div>

@@ -3,9 +3,14 @@
     <h2>چاکرا یو آی</h2>
     <br>
     <p>
-        Chakra UI یک کتابخانه کامپوننت ساده، ماژولار و در دسترس است که بلوک های مورد نیاز برای ساخت برنامه های React را در اختیار شما قرار می دهد.
-        Chakra UI یک جعبه ابزار مؤلفه است که به توسعه دهندگان کمک می کند تا به سرعت اجزای رابط کاربری قابل دسترس و قابل استفاده مجدد را برای برنامه های وب خود بسازند. این بر روی React ساخته شده است و از سیستم طراحی شده برای موتور قالب بندی خود استفاده می کند.
-        هدف Chakra UI این است که برنامه نویسان را برای ایجاد رابط کاربری زیبا، پاسخگو و در دسترس با کمترین تلاش آسان کند. این جعبه ابزار شامل طیف گسترده ای از اجزای آماده برای استفاده است که به گونه ای طراحی شده اند که به راحتی قابل ترکیب و توسعه باشند.
+        Chakra UI یک کتابخانه کامپوننت ساده، ماژولار و در دسترس است که بلوک های مورد نیاز برای ساخت برنامه های React را
+        در اختیار شما قرار می دهد.
+        Chakra UI یک جعبه ابزار مؤلفه است که به توسعه دهندگان کمک می کند تا به سرعت اجزای رابط کاربری قابل دسترس و قابل
+        استفاده مجدد را برای برنامه های وب خود بسازند. این بر روی React ساخته شده است و از سیستم طراحی شده برای موتور
+        قالب بندی خود استفاده می کند.
+        هدف Chakra UI این است که برنامه نویسان را برای ایجاد رابط کاربری زیبا، پاسخگو و در دسترس با کمترین تلاش آسان
+        کند. این جعبه ابزار شامل طیف گسترده ای از اجزای آماده برای استفاده است که به گونه ای طراحی شده اند که به راحتی
+        قابل ترکیب و توسعه باشند.
     </p>
     <br>
 
@@ -31,11 +36,19 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
+            <li><a href="https://chakra-ui.com/">Chakra UI
+                    Website</a></li>
+            <li><a href="https://chakra-ui.com/docs/getting-started">Chakra
+                    UI Official Getting Started</a></li>
+            <li><a href="https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/" 
+                 >Why You Should Start Using Chakra UI</a></li>
+            <li><a href="https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106"
+                  >Build a Modern User Interface with Chakra UI</a>
             </li>
+            <li><a href="https://youtu.be/wI2vqXsjsIo">Official
+                    Getting Started Video</a></li>
+            <li><a href="https://youtu.be/s-bIsz-NR3c">Chakra UI
+                    Crash Course</a></li>
         </ul>
 
     </div>

@@ -3,7 +3,9 @@
     <h2>آنگولار یونیورسال</h2>
     <br>
     <p>
-        Angular Universal (همچنین با عنوان Server-side rendering هم شناخته می شود) ابزاری است که به سرور اجازه می دهد تا برنامه انگولار را در اولین باری که کاربر از سایت دیدن می کند، pre-render کند. استفاده از server-side rendering می تواند باعث بهبود SEO و افزایش کارایی برنامه مفید باشد.
+        Angular Universal (همچنین با عنوان Server-side rendering هم شناخته می شود) ابزاری است که به سرور اجازه می دهد تا
+        برنامه انگولار را در اولین باری که کاربر از سایت دیدن می کند، pre-render کند. استفاده از server-side rendering
+        می تواند باعث بهبود SEO و افزایش کارایی برنامه مفید باشد.
     </p>
     <br>
 
@@ -19,7 +21,7 @@
             </li>
             <li>
                 <a href="https://p30download.ir/fa/entry/96869/udemy-angular-material-universal-and-nestjs-a-rapid-guide">
-                     آموزش آنگولار متریال، یونیورسال و نست جی اس (انگلیسی)
+                    آموزش آنگولار متریال، یونیورسال و نست جی اس (انگلیسی)
                 </a>
             </li>
             <li>
@@ -38,11 +40,8 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://angular.io/guide/universal">Server-side
+                    rendering (SSR) with Angular Universal</a></li>
         </ul>
 
     </div>

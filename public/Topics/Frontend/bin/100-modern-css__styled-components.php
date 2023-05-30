@@ -3,7 +3,9 @@
     <h2>قالب</h2>
     <br>
     <p>
-        Styled-components یک کتابخانه CSS-in-JS است که به شما امکان می دهد CSS معمولی بنویسید و آن را به اجزای جاوا اسکریپت متصل کنید. با استفاده از styled-components، می توانید به جای یادگیری ساختار یک ظاهر طراحی جدید، از CSS که قبلاً با آن آشنا هستید استفاده کنید.
+        Styled-components یک کتابخانه CSS-in-JS است که به شما امکان می دهد CSS معمولی بنویسید و آن را به اجزای جاوا
+        اسکریپت متصل کنید. با استفاده از styled-components، می توانید به جای یادگیری ساختار یک ظاهر طراحی جدید، از CSS
+        که قبلاً با آن آشنا هستید استفاده کنید.
     </p>
     <br>
 
@@ -29,11 +31,12 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://styled-components.com/">Official
+                    Website</a></li>
+            <li><a href="https://styled-components.com/docs">Official
+                    Docs</a></li>
+            <li><a href="https://www.youtube.com/watch?v=02zO0hZmwnw" 
+                 >Styled Components Crash Course &amp; Project</a></li>
         </ul>
 
     </div>
