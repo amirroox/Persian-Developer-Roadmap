@@ -409,9 +409,9 @@
         <tspan>بقیه منابع در لینک زیر</tspan>
     </text>
     <g>
-        <a href="https://ro-ox.com" target="_blank">
+        <a href="https://road-map.ir" target="_blank">
             <text x="1050" y="244.5" fill="rgb(254,0,38)" font-style="normal" font-weight="normal" font-size="23px">
-                <tspan>https://ro-ox.com</tspan>
+                <tspan>https://road-map.ir</tspan>
             </text>
         </a>
     </g>
@@ -1867,7 +1867,7 @@
     <text x="450" y="3420.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
         <tspan>با قسمت های زیر به یادگیری ادامه دهید</tspan>
     </text>
-    <g class="clickable-group" data-group-id="ext_link:nodejs">
+    <g class="clickable-group" data-group-id="ext_link:Nodejs">
         <a>
             <rect x="595.35" y="3440.35" width="195.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1"
                   stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
@@ -1876,7 +1876,7 @@
             </text>
         </a>
     </g>
-    <g class="clickable-group" data-group-id="ext_link:typescript">
+    <g class="clickable-group" data-group-id="ext_link:Typescript">
         <a>
             <rect x="387.35" y="3440.35" width="195.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1"
                   stroke="rgb(0,0,0)" stroke-width="2.7"></rect>

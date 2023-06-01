@@ -16,6 +16,9 @@ function CheckLoadSVG($color, $Name_Page, $name = null): void  # Method For Chan
             $change = str_replace($color['COPY']['Minor'], $color['MAIN']['Minor'], $change);
             $change = str_replace($color['COPY']['Road'], $color['MAIN']['Road'], $change);
 //            $change = str_replace(MAIN_COLOR_BACK['text'][2], MAIN_COLOR_BACK['text'][1], $change);
+            /* Change Font-Size */
+            $change = str_replace('font-size="16px"', 'font-size="20px"', $change);
+            $change = str_replace('font-size="17px"', 'font-size="21px"', $change);
 
             $change = str_replace('font-family: balsamic' , 'font-family: lalezar', $change);
         }
