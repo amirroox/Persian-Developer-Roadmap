@@ -94,16 +94,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.datocms-assets.com/14946/1638186862-reactjs.png?auto=format&fit=max&w=1200"
+                     class="img-responsive" alt="React">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.codingdojo.com/blog/wp-content/uploads/react.jpg"
+                     class="img-responsive" alt="React">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/social/reactt-light_1200x628.png?sfvrsn=43eb5f2a_2" class="img-responsive"
+                     alt="React">
             </swiper-slide>
         </swiper-container>
     </div>

@@ -1,6 +1,6 @@
 <div class="content-dialog">
-    <h1>Template</h1>
-    <h2>قالب</h2>
+    <h1>Styled components</h1>
+    <h2>Styled components</h2>
     <br>
     <p>
         Styled-components یک کتابخانه CSS-in-JS است که به شما امکان می دهد CSS معمولی بنویسید و آن را به اجزای جاوا
@@ -44,16 +44,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://cdn-media-1.freecodecamp.org/images/1*DIFji4ZmJa4_H3EpbG2XAw.png"
+                     class="img-responsive" alt="Styled components">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pMNoBAy_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/ce27dyfg7v46855iabnc.png"
+                     class="img-responsive" alt="Styled components">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://styled-components.com/syntax-highlight-example.jpg" class="img-responsive"
+                     alt="Styled components">
             </swiper-slide>
         </swiper-container>
     </div>

@@ -33,8 +33,7 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li><a href="https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots"
-                  >Using templates and slots | MDN web docs</a></li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots">Using templates and slots | MDN web docs</a></li>
         </ul>
 
     </div>
@@ -42,16 +41,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://static.javatpoint.com/htmlpages/images/htmltemplatetag.png"
+                     class="img-responsive" alt="HTML Templates">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190311164616/template11.png"
+                     class="img-responsive" alt="HTML Templates">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://ik.imagekit.io/taw2awb5ntf/wp-content/uploads/2022/03/template-html-tag.png" class="img-responsive"
+                     alt="HTML Templates">
             </swiper-slide>
         </swiper-container>
     </div>

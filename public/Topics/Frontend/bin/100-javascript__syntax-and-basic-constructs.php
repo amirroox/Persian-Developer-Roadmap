@@ -70,16 +70,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.freecodecamp.org/news/content/images/2022/08/pexels-antonio-batinic--4164418--1-.jpg"
+                     class="img-responsive" alt="JavaScript Basics">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2017/06/Learn-Javascript.jpg"
+                     class="img-responsive" alt="JavaScript Basics">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://www.tutorialrepublic.com/lib/images/javascript-illustration.png" class="img-responsive"
+                     alt="JavaScript Basics">
             </swiper-slide>
         </swiper-container>
     </div>

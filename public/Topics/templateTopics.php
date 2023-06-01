@@ -43,8 +43,8 @@
                      class="img-responsive" alt="">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="">
+                <img src="#"
+                     class="img-responsive" alt="">
             </swiper-slide>
         </swiper-container>
     </div>

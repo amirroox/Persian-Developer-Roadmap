@@ -78,16 +78,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.electronjs.org/assets/marketing/app-store.png"
+                     class="img-responsive" alt="electron">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://repository-images.githubusercontent.com/265288492/ec549ca6-d381-4cd7-9d11-95c149488c56"
+                     class="img-responsive" alt="electron">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Electron_20.0.3_screenshot.png" class="img-responsive"
+                     alt="electron">
             </swiper-slide>
         </swiper-container>
     </div>

@@ -53,10 +53,8 @@
             <h4>English References</h4>
             <li><a href="https://eslint.org/">ESLint Official
                     Website</a></li>
-            <li><a href="https://dev.to/shivambmgupta/eslint-what-why-when-how-5f1d" 
-                 >Introduction to ESLint</a></li>
-            <li><a href="https://www.youtube.com/watch?v=qhuFviJn-es" 
-                 >ESLint Quickstart - find errors automatically</a></li>
+            <li><a href="https://dev.to/shivambmgupta/eslint-what-why-when-how-5f1d">Introduction to ESLint</a></li>
+            <li><a href="https://www.youtube.com/watch?v=qhuFviJn-es">ESLint Quickstart - find errors automatically</a></li>
         </ul>
 
     </div>
@@ -64,16 +62,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dWcPMxnR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hk083ugohb8gcuv8xt8t.png"
+                     class="img-responsive" alt="ESLint">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://eslint.org/assets/images/eslint-features-img-600w.jpeg"
+                     class="img-responsive" alt="ESLint">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src=https://media.geeksforgeeks.org/wp-content/uploads/20200424014054/Screen-Shot-2020-04-24-at-1.39.42-AM.png" class="img-responsive"
+                     alt="ESLint">
             </swiper-slide>
         </swiper-container>
     </div>

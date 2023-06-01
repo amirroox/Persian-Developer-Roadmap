@@ -68,16 +68,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/GitHub.jpeg"
+                     class="img-responsive" alt="GitHub">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://github.blog/wp-content/uploads/2023/02/code-search-header.png?fit=1600%2C736"
+                     class="img-responsive" alt="GitHub">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://www.freecodecamp.org/news/content/images/2022/07/git-github.png" class="img-responsive"
+                     alt="GitHub">
             </swiper-slide>
         </swiper-container>
     </div>

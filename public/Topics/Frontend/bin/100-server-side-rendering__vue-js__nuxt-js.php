@@ -17,10 +17,36 @@
         <ul class="col-xs-12 col-md-6 links-reference right-link">
             <h4>منابع فارسی</h4>
             <li>
-                <a href="#">
-                    منابع فارسی 1
+                <a href="https://virgool.io/@wia/httpbitly2ds1xuz-q7l8mgi4cc5t#:~:text=%D9%88%D8%A8%20%D9%81%D8%B1%DB%8C%D9%85%20%D9%88%D8%B1%DA%A9%20Nuxt%20%DB%8C%D8%A7,%D9%87%D8%A7%DB%8C%20%D8%AC%D9%87%D8%A7%D9%86%DB%8C%20%D8%B4%D9%86%D8%A7%D8%AE%D8%AA%D9%87%20%D9%85%DB%8C%20%D8%B4%D9%88%D8%AF.">
+                    وب فریم ورک Nuxt.Js چیست؟
                 </a>
             </li>
+            <li>
+                <a href="https://codeyad.com/mag/post/introducing-the-nuxtjs-javascript-framework">
+                    معرفی فریمورک NUXT.JS جاوااسکریپت
+                </a>
+            </li>
+            <li>
+                <a href="https://softsara.ir/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-nuxt-js/">
+                    آموزش Nuxt.js
+                </a>
+            </li>
+            <li>
+                <a href="https://topdemy.ir/courses/learn-nuxtjs">
+                    آموزش nuxtjs
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    آموزش جامع Vue.js و Nuxt Js - پروژه محور (پولی)
+                </a>
+            </li>
+            <li>
+                <a href="https://webprog.io/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%A7%DA%A9%D8%B3%D8%AA-%D8%AC%DB%8C-%D8%A7%D8%B3-nuxt-js">
+                    آموزش ناکست جی اس (NUXT.JS) (پولی)
+                </a>
+            </li>
+
         </ul>
 
 
@@ -43,16 +69,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://media.geeksforgeeks.org/wp-content/uploads/20211206111144/nuxtconfig.png"
+                     class="img-responsive" alt="Nuxt.js">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/2560px-Nuxt_logo_%282021%29.svg.png"
+                     class="img-responsive" alt="Nuxt.js">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://sebastianlandwehr.com/blog/how-to-access-nuxt-js-page-data-in-route-meta-fields/banner.png" class="img-responsive"
+                     alt="Nuxt.js">
             </swiper-slide>
         </swiper-container>
     </div>

@@ -51,12 +51,9 @@
             <h4>English References</h4>
             <li><a href="https://reactnative.dev/">Official
                     Website</a></li>
-            <li><a href="https://reactnative.dev/docs/getting-started" 
-                 >Official Getting Started to React Native</a></li>
-            <li><a href="https://www.youtube.com/watch?v=0-S5a0eXPoc" 
-                 >Build a React Native App by Mosh</a></li>
-            <li><a href="https://www.codecademy.com/learn/learn-react-native" 
-                 >Learn React Native by CodeAcademy</a></li>
+            <li><a href="https://reactnative.dev/docs/getting-started">Official Getting Started to React Native</a></li>
+            <li><a href="https://www.youtube.com/watch?v=0-S5a0eXPoc">Build a React Native App by Mosh</a></li>
+            <li><a href="https://www.codecademy.com/learn/learn-react-native">Learn React Native by CodeAcademy</a></li>
         </ul>
 
     </div>
@@ -64,16 +61,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.qed42.com/sites/default/files/styles/featured_image/public/2018-11/react-native.png?itok=lj4A4r0I"
+                     class="img-responsive" alt="React Native">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://repository-images.githubusercontent.com/329723227/62ff9135-2763-4fba-ae7f-0b1eefa0ea56"
+                     class="img-responsive" alt="React Native">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://www.angularminds.com/site_data/static/images/react-native-features/react-native-features.png" class="img-responsive"
+                     alt="React Native">
             </swiper-slide>
         </swiper-container>
     </div>

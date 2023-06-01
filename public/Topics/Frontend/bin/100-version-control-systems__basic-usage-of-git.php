@@ -64,16 +64,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--l82BOzKA--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/rixan4h4z8y94eq89som.png"
+                     class="img-responsive" alt="Git">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png"
+                     class="img-responsive" alt="Git">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://support.nesi.org.nz/hc/article_attachments/360004194235/Git_Diagram.svg" class="img-responsive"
+                     alt="Git">
             </swiper-slide>
         </swiper-container>
     </div>

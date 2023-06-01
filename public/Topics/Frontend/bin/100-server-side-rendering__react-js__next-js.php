@@ -76,16 +76,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.educative.io/v2api/editorpage/6452289848475648/image/5294398307303424"
+                     class="img-responsive" alt="Next.js">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://hassancorrigan.com/static/4f9e4d81dd3f2d4c1a39d6ee27bbf002/ace28/nextjs-back-button.jpg"
+                     class="img-responsive" alt="Next.js">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://hasura.io/blog/content/images/2019/02/nextjs-serverless-now-hasura-graphql.png" class="img-responsive"
+                     alt="Next.js">
             </swiper-slide>
         </swiper-container>
     </div>

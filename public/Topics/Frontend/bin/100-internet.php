@@ -86,16 +86,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://pimages.toolbox.com/wp-content/uploads/2023/02/20174832/A-symbolic-image-of-the-power-and-ubiquity-of-the-internet..jpg"
+                     class="img-responsive" alt="Internet">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.internetsociety.org/wp-content/uploads/2022/04/Internet-of-Things-IoT-1280px.jpg"
+                     class="img-responsive" alt="Internet">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://askleo.com/wp-content/uploads/2018/10/internet.jpg" class="img-responsive"
+                     alt="Internet">
             </swiper-slide>
         </swiper-container>
     </div>

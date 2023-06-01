@@ -3,8 +3,11 @@
     <h2>مبانی HTML</h2>
     <br>
     <p>
-        HTML مخفف Hyper Text Markup Language بوده و در فارسی به آن زبان نشانه‌ گذاری ابرمتن می‌گویند. دقت کنید که HTML یک زبان برنامه نویسی نیست، بلکه یک زبان نشان‌گذاری یا Markup language به حساب می‌آید. کدنویسی با HTML قدم گذاشتن در جای پای بزرگان وب و شروع ساخت سایت‌های شگفت‌انگیز است.
-        اگر عاشق طراحی سایت هستید و برای ورود به این حوزه برنامه جدی دارید، آموزش HTML اولین قدم شما در این مسیرخواهد بود.
+        HTML مخفف Hyper Text Markup Language بوده و در فارسی به آن زبان نشانه‌ گذاری ابرمتن می‌گویند. دقت کنید که HTML
+        یک زبان برنامه نویسی نیست، بلکه یک زبان نشان‌گذاری یا Markup language به حساب می‌آید. کدنویسی با HTML قدم گذاشتن
+        در جای پای بزرگان وب و شروع ساخت سایت‌های شگفت‌انگیز است.
+        اگر عاشق طراحی سایت هستید و برای ورود به این حوزه برنامه جدی دارید، آموزش HTML اولین قدم شما در این مسیرخواهد
+        بود.
     </p>
     <br>
 
@@ -88,16 +91,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://lenadesign.org/wp-content/uploads/2019/12/html-basic.jpg"
+                     class="img-responsive" alt="HTML Basics">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220401160946/HTML-Basic-Format.png"
+                     class="img-responsive" alt="HTML Basics">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg"
+                     class="img-responsive" alt="HTML Basics">
             </swiper-slide>
         </swiper-container>
     </div>

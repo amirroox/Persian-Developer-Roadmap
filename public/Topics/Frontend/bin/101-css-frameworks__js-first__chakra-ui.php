@@ -56,16 +56,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://chakra-ui.com/og-image.png"
+                     class="img-responsive" alt="Chakra UI">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://s3.amazonaws.com/creativetim_bucket/products/497/original/Cover_Purity_Chakra_FREE_-_Thumbnail_%28ReactJS%29.png?1632230197"
+                     class="img-responsive" alt="Chakra UI">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://res.cloudinary.com/xtellar/image/upload/q_66/v1584203770/chakra-ui/chakra-ui-vue-banner.jpg" class="img-responsive"
+                     alt="Chakra UI">
             </swiper-slide>
         </swiper-container>
     </div>

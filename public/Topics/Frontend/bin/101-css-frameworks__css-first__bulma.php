@@ -56,11 +56,9 @@
             <li><a href="https://scrimba.com/learn/bulma">Learn Bulma
                     CSS</a></li>
             <li>
-                <a href="https://www.freecodecamp.org/news/how-to-build-a-responsive-blog-design-with-bulma-css-c2257a17c16b"
-                  >How To Build A ? Responsive Blog Design With Bulma
+                <a href="https://www.freecodecamp.org/news/how-to-build-a-responsive-blog-design-with-bulma-css-c2257a17c16b">How To Build A ? Responsive Blog Design With Bulma
                     CSS</a></li>
-            <li><a href="https://youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a" 
-                 >Bulma CSS Tutorial</a></li>
+            <li><a href="https://youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a">Bulma CSS Tutorial</a></li>
         </ul>
 
     </div>
@@ -68,16 +66,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://bulma.io/images/bulma-logo.png"
+                     class="img-responsive" alt="Bulma">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://mobiosolutions.com/wp-content/uploads/2019/08/Get-to-Know-Bulma-Framework.png"
+                     class="img-responsive" alt="Bulma">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://repository-images.githubusercontent.com/285785018/a8c02180-d8b7-11ea-9f38-bbba07dc2f74" class="img-responsive"
+                     alt="Bulma">
             </swiper-slide>
         </swiper-container>
     </div>

@@ -52,16 +52,12 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li><a href="https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html" 
-                 >Modern JavaScript for Dinosaurs</a></li>
-            <li><a href="https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/" 
-                 >An Absolute Beginners Guide to Using npm</a></li>
+            <li><a href="https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html">Modern JavaScript for Dinosaurs</a></li>
+            <li><a href="https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/">An Absolute Beginners Guide to Using npm</a></li>
             <li><a href="https://github.com/workshopper/how-to-npm">How
                     to NPM</a></li>
-            <li><a href="https://www.youtube.com/watch?v=2V1UUhBJ62Y" 
-                 >NPM tutorial for Beginners</a></li>
-            <li><a href="https://www.youtube.com/watch?v=jHDhaSSKmB0" 
-                 >NPM Crash Course</a></li>
+            <li><a href="https://www.youtube.com/watch?v=2V1UUhBJ62Y">NPM tutorial for Beginners</a></li>
+            <li><a href="https://www.youtube.com/watch?v=jHDhaSSKmB0">NPM Crash Course</a></li>
         </ul>
 
     </div>
@@ -69,16 +65,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"
+                     class="img-responsive" alt="NPM">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://kinsta.com/wp-content/uploads/2022/06/what-is-npm.png"
+                     class="img-responsive" alt="NPM">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://cdn.deliciousbrains.com/content/uploads/2017/12/25130222/npm-build-scripts-featured-img-1540x869.jpeg" class="img-responsive"
+                     alt="NPM">
             </swiper-slide>
         </swiper-container>
     </div>

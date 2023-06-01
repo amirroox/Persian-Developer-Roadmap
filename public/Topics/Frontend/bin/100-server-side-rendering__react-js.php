@@ -63,16 +63,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1282566/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png"
+                     class="img-responsive" alt="React">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.unicorn.dev/wp-content/uploads/2023/01/react.png"
+                     class="img-responsive" alt="React">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://res.cloudinary.com/proxify-io/image/upload/v1/cms/images/articles/0S2oGmon8xrcPwq6heTRyh3DayYVh6e2ftTjGuDA.jpg" class="img-responsive"
+                     alt="React">
             </swiper-slide>
         </swiper-container>
     </div>
