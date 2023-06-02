@@ -97,7 +97,7 @@
 
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/30Days/Vue/">HTML</a>
+            <a href="public/30Days/HTML/">HTML</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/30Days/React/">React</a>
