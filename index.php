@@ -157,16 +157,10 @@
     <!-- Script For Response Menu -->
 <script src="<?= MAIN_SERVER . 'assets/js/Response-Menu.js' ?>"></script>
 
+<!-- Script Helper -->
+<script src="<?= MAIN_SERVER . 'assets/js/Helper.js'?>"></script>
 <script>
-    //Scroll To Guide (Up - Down)
-             $("#Guide-Btn-Down , #Guide-Btn-Up").on("click", function (event) {
-                event.preventDefault();
-                console.log(event)
-                $("html, body").animate({
-                    scrollTop: $("#Guide").offset().top
-                }, 1000);
-                return false;
-            });
+    scroll_down('#Guide-Btn-Down , #Guide-Btn-Up' , 1000 , "#Guide");
 </script>
 </body>
 </html>

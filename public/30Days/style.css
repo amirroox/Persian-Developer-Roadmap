@@ -1,0 +1,54 @@
+.list30days {
+    margin-bottom: 2rem;
+}
+.list30days li {
+    margin: 0 1rem 0 0;
+    list-style-type: disc;
+}
+.list30days a:hover {
+    color: red;
+    font-weight: bold;
+    text-shadow: black 0 .08rem;
+    transition: all .4s;
+}
+article h1 , article h2 , article h3 , article h4 {
+    margin: 1rem 0 0;
+}
+
+article h1 , article h2 {
+    border-bottom: 1px dashed gray;
+}
+article h1:before {
+    content: " # ";
+    color: red;
+}
+article h2:before {
+    content: " * ";
+    color: darkgreen;
+}
+article h3:before {
+    content: " > ";
+    color: orange;
+}
+article h4:before {
+    content: " >> ";
+    color: blue;
+}
+article div {
+    padding: .5rem;
+}
+article p {
+    text-align: justify;
+}
+article ol li{
+    list-style-type: decimal;
+    margin: 0 1rem 0 0;
+}
+article a {
+    color: red;
+}
+pre {
+    direction: ltr;
+    text-align: left;
+    border-radius: 1rem;
+}
