@@ -7,7 +7,7 @@ $file_names = str_replace(':', "__", $_POST['data']);
 $content = file_get_contents(MAIN_DIR . "public/Topics/templateTopics.php");
 foreach ($file_names as $name) {
     $file_path = $directory . $name . ".php";
-    if (!((strpos($file_path, "ext_link") or strpos($file_path, "__pro") or strpos($file_path, "__beginner")) !== false)) {
+    if (!((strpos($file_path, "ext_link") or strpos($file_path, "__professional") or strpos($file_path, "__beginner")) !== false)) {
         if (!file_exists($file_path)) {
             $file = fopen($file_path, 'w');
             if ($file) {

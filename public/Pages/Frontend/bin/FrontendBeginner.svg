@@ -34,7 +34,7 @@
             </text>
         </a>
     </g>
-    <g class="clickable-group" data-group-id="json:pro">
+    <g class="clickable-group" data-group-id="json:professional">
         <rect x="1002.35" y="409.35" width="279.3" height="44.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(51,51,51)" stroke-width="2.7"></rect>
         <text x="1070" y="438.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="20px">
             <tspan>مشاهده نسخه کامل</tspan>
@@ -186,7 +186,7 @@
     <text x="700" y="1614.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
         <tspan>برای نقشه راه کامل تر حتما روی لینک زیر کلیک کنید</tspan>
     </text>
-    <g class="clickable-group" data-group-id="json:pro">
+    <g class="clickable-group" data-group-id="json:professional">
         <rect x="565.35" y="1631.35" width="427.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="704" y="1657.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
             <tspan>Frontend Roadmap</tspan>

@@ -23,8 +23,8 @@ $Name_Page = basename(__DIR__);
 
 <!-- Subject -->
 <section class="container subject">
-    <h1><?= "$Name_Page Developer" ?> (توسعه دهنده سمت کاربر) </h1>
-    <p>راهنمای قدم به قدم برای تبدیل شدن به توسعه دهنده سمت کاربر در سال <?= NOW_YEAR['solar'] ?></p>
+    <h1><?= "$Name_Page Developer" ?> (توسعه دهنده سمت سرور) </h1>
+    <p>راهنمای قدم به قدم برای تبدیل شدن به توسعه دهنده سمت سرور در سال <?= NOW_YEAR['solar'] ?></p>
     <br>
     <div class="row options">
         <div class="col-xs-12 col-s-12 col-l-6">
@@ -66,14 +66,6 @@ $Name_Page = basename(__DIR__);
     ?>
 </section>
 
-<!-- Simple RoadMap -->
-<section class="container RoadMapBeginner" style="direction: ltr; display: none">
-    <?php
-    //    include "bin/$Name_Page"."Beginner.svg";  #Direct Load
-    CheckLoadSVG(COLOR_SVG, $Name_Page, "Beginner");   #Function Load
-    ?>
-</section>
-
 <!-- END MAIN -->
 
 <!-- Community -->
@@ -108,7 +100,7 @@ $Name_Page = basename(__DIR__);
                     ?>
                     DownloadBtn.attr('href', 'bin/' + name_page + "Beginner.pdf");
                     <?php endif; ?>
-                } else if (result === "Pro") {
+                } else if (result === "Professional") {
                     $('.RoadMapBeginner').fadeOut();
                     $('.RoadMap').fadeIn();
                     DownloadBtn.attr('href', 'bin/' + name_page + ".pdf");

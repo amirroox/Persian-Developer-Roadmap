@@ -108,7 +108,7 @@ $Name_Page = basename(__DIR__);
                     ?>
                     DownloadBtn.attr('href', 'bin/' + name_page + "Beginner.pdf");
                     <?php endif; ?>
-                } else if (result === "Pro") {
+                } else if (result === "Professional") {
                     $('.RoadMapBeginner').fadeOut();
                     $('.RoadMap').fadeIn();
                     DownloadBtn.attr('href', 'bin/' + name_page + ".pdf");
