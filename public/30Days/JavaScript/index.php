@@ -43,7 +43,7 @@ $Name_Page = basename(__DIR__);
 </section>
 
 <!-- Start List -->
-<div class="container">
+<div class="container box-days">
     <div class="row">
         <?php for ($i = 1; $i <= 30; $i++) : ?>
             <div class="col-xs-12 col-md-3 box">

@@ -45,7 +45,7 @@ body {
     overflow-x: hidden;
 }
 section.subject {
-    padding: 2rem 2rem;
+    padding: 2rem 2rem .2rem;
 }
 section.subject div.options a {
     background-color: gray;

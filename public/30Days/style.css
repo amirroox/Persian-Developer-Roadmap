@@ -1,3 +1,4 @@
+/* Style For Days (Days 1-30) */
 .list30days {
     margin-bottom: 2rem;
 }
@@ -52,7 +53,20 @@ pre {
     text-align: left;
     border-radius: 1rem;
 }
+.Pre_Nex a{
+    background-color: var(--color-pink);
+    text-align: center;
+    color: wheat;
+    font-weight: 800;
+}
+.Pre_Nex a:first-child{
+    border-radius: 1rem 5rem;
+}
+.Pre_Nex a:last-child{
+    border-radius: 5rem 1rem;
+}
 
+/* Style For index Days */
 .box a{
     display: flex;
     height: 8rem;

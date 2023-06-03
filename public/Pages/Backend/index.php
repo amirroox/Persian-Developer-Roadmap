@@ -53,7 +53,7 @@ $Name_Page = basename(__DIR__);
 
 <!-- Summery DATA - Data Content -->
 <dialog id="Data_Content" open>
-    <button class="close_up_btn">&#128473;</button> <!-- 🗙 -->
+    <button class="close_up_btn">X</button> <!-- 🗙 -->
     <div></div>
     <button class="close_down_btn">بازگشت</button>
 </dialog>

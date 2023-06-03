@@ -1,6 +1,7 @@
 <?php
 include_once "../../../Constants.php";
-$Name_Page = basename(__DIR__);
+$Name_Page = str_replace('.php' , '' , basename(__FILE__));
+$Name_File = basename(__DIR__);
 ?>
 <!doctype html>
 <html lang="fa" dir="rtl">
@@ -9,7 +10,7 @@ $Name_Page = basename(__DIR__);
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/css/FullStyle.css' ?>">  <!-- Style Main seed -->
     <link rel="stylesheet" href="../style.css">  <!-- Style This Page -->
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/vendor/prism.css' ?>">  <!-- Style Prism Library -->
-    <title> <?= $Name_Page ?> 30 Days </title>
+    <title> <?= $Name_Page . ' ' . $Name_File ?>  </title>
 </head>
 <body>
 
@@ -22,7 +23,7 @@ $Name_Page = basename(__DIR__);
 
 <!-- Subject -->
 <section class="container subject">
-    <h1><?= "$Name_Page 30 Days" ?> (جاوا اسکریپت در 30 روز) </h1>
+    <h1><?= "$Name_File 30 Days" ?> (جاوا اسکریپت در 30 روز) </h1>
     <p>راهنمای قدم به قدم برای تبدیل شدن به برنامه نویس جاوا اسکریپت در <b>30 روز</b></p>
     <br>
     <div class="row options">
@@ -38,10 +39,29 @@ $Name_Page = basename(__DIR__);
     <section class="between">
         <hr class="between">
         <h2><a href="<?= MAIN_SITE ?>" target="_blank">Subscribe</a></h2>
-        <h2><?= $Name_Page ?> 30 Days</h2>
+        <h2><?= $Name_File ?> 30 Days</h2>
     </section>
 </section>
 
+<!-- Start Previous and Next Days -->
+<?php
+    $test = str_replace("Day"  , '' , $Name_Page);
+    $test = [$test-1 , $test+1]; // 0 -> Pre  , 1 -> Nex
+?>
+<div class="container Pre_Nex">
+    <div class="row">
+        <a href="<?='Day'.$test[1].'.php'?>" class="col-xs-5 col-md-2">
+            &rarr;
+            روز بعدی (
+            <?=$test[1] ?>
+            )
+        </a>
+        <div class="col-xs-2 col-md-8"></div>
+    </div>
+</div>
+<!-- End Previous and Next Days -->
+
+<br>
 <!-- Start List -->
 <section class="container list30days">
     <ul>
@@ -102,6 +122,7 @@ $Name_Page = basename(__DIR__);
     </ul>
 </section>
 <!-- End List -->
+
 <!-- Start Article -->
 <article class="container">
     <h1 id="day-1">روز اول :</h1>
@@ -729,6 +750,20 @@ $Name_Page = basename(__DIR__);
 </article>
 <!-- End Article -->
 
+<!-- Start Previous and Next Days -->
+<div class="container Pre_Nex mg2b">
+    <div class="row">
+        <a href="<?='Day'.$test[1].'.php'?>" class="col-xs-5 col-md-2">
+            &rarr;
+            روز بعدی (
+            <?=$test[1] ?>
+            )
+        </a>
+        <div class="col-xs-2 col-md-8"></div>
+    </div>
+</div>
+<!-- End Previous and Next Days -->
+
 <!-- END MAIN -->
 
 <!-- Up Button -->
@@ -754,7 +789,7 @@ $Name_Page = basename(__DIR__);
 <!-- Script Helper -->
 <script src="<?= MAIN_SERVER . 'assets/js/Helper.js'?>"></script>
 <script>
-    scroll_down('li a' , 600);
+    scroll_down('.list30days li a' , 600);
     scroll_down('#top_button' , 1000 , '#Head-Sec');
     let my_pre_code = document.querySelectorAll('pre');
     let my_code = document.querySelectorAll('code');
