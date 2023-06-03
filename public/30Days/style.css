@@ -52,3 +52,27 @@ pre {
     text-align: left;
     border-radius: 1rem;
 }
+
+.box a{
+    display: flex;
+    height: 8rem;
+    border-radius: 13px;
+    background-color: var(--background-main);
+    justify-content: left;
+    background-size: cover;
+    color: white;
+}
+.box a span {
+    background-color: var(--background-main);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    padding: .5rem;
+    border-radius: 13px;
+    transition: all .5s;
+}
+.box a:hover span{
+    background-color: var(--color-pink);
+    color: black;
+}
