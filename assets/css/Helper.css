@@ -87,3 +87,10 @@ section.Community a:hover {
     background-color: black;
     color: white;
 }
+
+/* Top Button */
+#top_button {
+    position: fixed;
+    bottom: 1.5%;
+    right : 7%;
+}

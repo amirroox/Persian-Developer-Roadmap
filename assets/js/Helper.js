@@ -1,4 +1,4 @@
-function scroll_down(tar ,speed = 1000 ,  help = null ) {
+function scroll_down(tar ,speed = 1000 ,  help = null ) { /* Tar is Target Click - Help is go to */
     $(tar).on("click", function (event) {
         event.preventDefault();
         if (help == null) {

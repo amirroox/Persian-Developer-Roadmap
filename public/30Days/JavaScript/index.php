@@ -731,6 +731,9 @@ $Name_Page = basename(__DIR__);
 
 <!-- END MAIN -->
 
+<!-- Up Button -->
+<?php include MAIN_DIR . 'public/Main/Top_Button.php'?>
+
 <!-- Community -->
 <?php require MAIN_DIR . "public/Main/Community.php" ?>
 <!-- End Community -->
@@ -752,6 +755,7 @@ $Name_Page = basename(__DIR__);
 <script src="<?= MAIN_SERVER . 'assets/js/Helper.js'?>"></script>
 <script>
     scroll_down('li a' , 600);
+    scroll_down('#top_button' , 1000 , '#Head-Sec');
     let my_pre_code = document.querySelectorAll('pre');
     let my_code = document.querySelectorAll('code');
     for (let i = 0; i < my_pre_code.length; i++) {
