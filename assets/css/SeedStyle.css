@@ -84,9 +84,14 @@
 }
 .container {
     clear: both;
-    max-width:1000px;
+    max-width:75%;
     margin: 0 auto;
     padding: 0 2rem;
+}
+@media screen and (max-width: 456px) {
+    .container {
+        max-width:100%;
+    }
 }
 .row:after {
     content: "";

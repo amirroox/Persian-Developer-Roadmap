@@ -50,13 +50,13 @@ $Name_File = basename(__DIR__);
 ?>
 <div class="container Pre_Nex">
     <div class="row">
-        <a href="<?='Day'.$test[1].'.php'?>" class="col-xs-5 col-md-2">
+        <a href="<?='Day'.$test[1].'.php'?>" class="col-xs-6 col-md-2">
             &rarr;
             روز بعدی (
             <?=$test[1] ?>
             )
         </a>
-        <div class="col-xs-2 col-md-8"></div>
+        <div class="xs-hidden col-md-8"></div>
     </div>
 </div>
 <!-- End Previous and Next Days -->
@@ -753,13 +753,13 @@ $Name_File = basename(__DIR__);
 <!-- Start Previous and Next Days -->
 <div class="container Pre_Nex mg2b">
     <div class="row">
-        <a href="<?='Day'.$test[1].'.php'?>" class="col-xs-5 col-md-2">
+        <a href="<?='Day'.$test[1].'.php'?>" class="col-xs-6 col-md-2">
             &rarr;
             روز بعدی (
             <?=$test[1] ?>
             )
         </a>
-        <div class="col-xs-2 col-md-8"></div>
+        <div class="xs-hidden col-md-8"></div>
     </div>
 </div>
 <!-- End Previous and Next Days -->
@@ -788,19 +788,11 @@ $Name_File = basename(__DIR__);
 
 <!-- Script Helper -->
 <script src="<?= MAIN_SERVER . 'assets/js/Helper.js'?>"></script>
+<!-- File Need It -->
+<script src="<?= MAIN_SERVER . 'public/30Days/JavaScript/assets/FileNeedIt.js'?>"></script>
 <script>
     scroll_down('.list30days li a' , 600);
     scroll_down('#top_button' , 1000 , '#Head-Sec');
-    let my_pre_code = document.querySelectorAll('pre');
-    let my_code = document.querySelectorAll('code');
-    for (let i = 0; i < my_pre_code.length; i++) {
-        if (my_pre_code[i].className === '')
-            my_pre_code[i].setAttribute('class' , 'line-numbers');
-    }
-    for (let i = 0; i < my_code.length; i++) {
-        if (my_code[i].className === '')
-            my_code[i].setAttribute('class' , 'language-js');
-    }
 </script>
 <!-- END MAIN SCRIPT-->
 </body>
