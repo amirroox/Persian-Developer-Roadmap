@@ -10,6 +10,13 @@
     <title>Developer RoadMap</title>
     <link rel="stylesheet" href="assets/css/FullStyle.css">
     <link rel="stylesheet" href="assets/css/Style.css">
+    <link rel="stylesheet" href="assets/vendor/jquery-ui.min.css">
+    <style>
+        .cover {
+            background-color: rgb(34, 26, 58) !important;
+            filter: blur(.05rem);
+        }
+    </style>
 </head>
 <body>
 <!-- HEADER -->
@@ -33,25 +40,25 @@
             <a href="public/Pages/Backend/">Backend (سمت سرور)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/DevOps/">DevOps (توسعه عملیات)</a>
+            <a href="public/Pages/DevOps/" class="cover">DevOps (توسعه عملیات)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/FullStack/">Full Stack (سمت کاربر و سمت سرور) </a>
+            <a href="public/Pages/FullStack/" class="cover">Full Stack (سمت کاربر و سمت سرور) </a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/Android/">Android (اندروید)</a>
+            <a href="public/Pages/Android/" class="cover">Android (اندروید)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/PostgreSQL/">PostgreSQL (پستگرس کیوال)</a>
+            <a href="public/Pages/PostgreSQL/" class="cover">PostgreSQL (پستگرس کیوال)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/Blockchain/">Blockchain (بلاکچین) </a>
+            <a href="public/Pages/Blockchain/" class="cover">Blockchain (بلاکچین) </a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/QA/">QA Engineer (مدیر تضمین کیفیت)</a>
+            <a href="public/Pages/QA/" class="cover">QA Engineer (مدیر تضمین کیفیت)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/SoftwareArchitect/">Software Architect (معماری نرم افزار)</a>
+            <a href="public/Pages/SoftwareArchitect/" class="cover">Software Architect (معماری نرم افزار)</a>
         </div>
     </div>
 
@@ -62,31 +69,31 @@
 
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/Vue/">Vue</a>
+            <a href="public/Pages/Vue/" class="cover">Vue</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/React/">React</a>
+            <a href="public/Pages/React/" class="cover">React</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/JavaScript/">JavaScript</a>
+            <a href="public/Pages/JavaScript/" class="cover">JavaScript</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/Python/">Python</a>
+            <a href="public/Pages/Python/" class="cover">Python</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/Java/">Java</a>
+            <a href="public/Pages/Java/" class="cover">Java</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/Nodejs/">Node.js</a>
+            <a href="public/Pages/Nodejs/" class="cover">Node.js</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/GO/">GO</a>
+            <a href="public/Pages/GO/" class="cover">GO</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/Nodejs/">TypeScript</a>
+            <a href="public/Pages/Nodejs/" class="cover">TypeScript</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/Nodejs/">Docker</a>
+            <a href="public/Pages/Nodejs/" class="cover">Docker</a>
         </div>
     </div>
 
@@ -97,22 +104,22 @@
 
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/30Days/HTML/">HTML</a>
+            <a href="public/30Days/HTML/" class="cover">HTML</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/30Days/React/">React</a>
+            <a href="public/30Days/React/" class="cover">React</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/30Days/JavaScript/">JavaScript</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/30Days/Python/">Python</a>
+            <a href="public/30Days/Python/" class="cover">Python</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/30Days/Java/">Java</a>
+            <a href="public/30Days/Java/" class="cover">Java</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/30Days/Nodejs/">Node.js</a>
+            <a href="public/30Days/Nodejs/" class="cover">Node.js</a>
         </div>
     </div>
 
@@ -123,13 +130,13 @@
 
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#"></a>
+            <a href="#" class="cover"></a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#"></a>
+            <a href="#" class="cover"></a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="#"></a>
+            <a href="#" class="cover"></a>
         </div>
     </div>
 
@@ -145,6 +152,15 @@
         </div>
     </div>
 </section>
+
+<!-- Box Dialog -->
+<div id="dialog-alert" style="display: none">
+    <p style="text-align: center">
+        متاسفانه این بخش در حال ساخت است.
+    </p>
+</div>
+<!-- Box Dialog -->
+
 <!-- Community -->
 <?php require "public/Main/Community.php"?>
 
@@ -154,6 +170,7 @@
 
 <!-- MAIN SCRIPT -->
 <script src="<?= MAIN_SERVER . 'assets/vendor/jquery-3.7.0.min.js' ?>"></script>
+<script src="<?= MAIN_SERVER . 'assets/vendor/jquery-ui.min.js' ?>"></script>
     <!-- Script For Response Menu -->
 <script src="<?= MAIN_SERVER . 'assets/js/Response-Menu.js' ?>"></script>
 
@@ -161,6 +178,25 @@
 <script src="<?= MAIN_SERVER . 'assets/js/Helper.js'?>"></script>
 <script>
     scroll_down('#Guide-Btn-Down , #Guide-Btn-Up' , 1000 , "#Guide");
+    let cover_pointer = document.querySelectorAll(".cover");
+    for(let i = 0 ; i < cover_pointer.length ; i++ ) {
+        cover_pointer[i].setAttribute('href' , 'javascript:void(1)');
+    }
+    $(".cover").on("click", function () {
+        $('#dialog-alert').dialog({
+            title: "در حال ساخت" ,
+            resizable: false ,
+            closeText: "بستن" ,
+            show: {
+                effect: "blind",
+                duration: 500
+            },
+            hide: {
+                effect: "explode",
+                duration: 500
+            }
+        });
+    });
 </script>
 </body>
 </html>
