@@ -31,7 +31,7 @@ $Name_File = basename(__DIR__);
             <a href="<?= MAIN_SERVER ?>">تمامی نقشه راه ها</a>
         </div>
         <div class="col-xs-12 col-s-12 col-l-6" style="text-align: left">
-            <a href='<?= MAIN_GITHUB . "/issues/new?title=[Suggestion] $Name_Page Developer - 30Days" ?>'
+            <a href='<?= MAIN_GITHUB . "/issues/new?title=[Suggestion] $Name_File Developer - 30Days" ?>'
                target="_blank">پیشنهاد
                 تغییر - نقشه راه بهتر</a>
         </div>
@@ -791,9 +791,6 @@ $Name_File = basename(__DIR__);
 
 <!-- File Need It -->
 <script src="assets/FileNeedIt.js"></script>
-
-<!-- Script Code _ Pre Prism Highlighter -->
-<script src="<?= MAIN_SERVER . 'assets/js/codeprism.js'?>"></script>
 
 <script>
     scroll_down('.list30days li a' , 600);
