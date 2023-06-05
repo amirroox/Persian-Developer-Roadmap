@@ -2,9 +2,12 @@
 .list30days {
     margin-bottom: 2rem;
 }
-.list30days li {
+.list30days li , article ul li {
     margin: 0 1rem 0 0;
-    list-style-type: disc;
+    list-style-type: disc !important;
+}
+article ul li {
+    list-style-type: circle !important;
 }
 .list30days a:hover {
     color: red;
