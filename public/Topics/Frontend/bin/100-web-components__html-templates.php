@@ -3,9 +3,12 @@
     <h2>تگ تمپلیت</h2>
     <br>
     <p>
-        تگ template تگی است که با استفاده از آن میتوان یک محتوا را در یک صفحه وب قرار داد ولی از بارگذاری همزمان آن با بارگذاری صفحه و نمایش آن در مرورگرها جلوگیری کرد.
-        اینو همیشه بدونید که بصورت عادی وقتی یک صفحه درون مرورگر اجرا میشه، تمامی تگ های داخل صفحه هم در مرورگر بصورت خودکار اجرا ( رندر یا Render ) میشن.
-        حال تگ template و هرچیزی که داخلش بزاریم ، دیگه به محض بالا اومدن صفحه اجرا نمیشه، بلکه باید خودمون بصورت دستی اونو اجرا ( نمایش ) بدیم، که معمولا از جاوا اسکرپیت برای نمایش محتوای تگ template استفاده میشه.
+        تگ template تگی است که با استفاده از آن میتوان یک محتوا را در یک صفحه وب قرار داد ولی از بارگذاری همزمان آن با
+        بارگذاری صفحه و نمایش آن در مرورگرها جلوگیری کرد.
+        اینو همیشه بدونید که بصورت عادی وقتی یک صفحه درون مرورگر اجرا میشه، تمامی تگ های داخل صفحه هم در مرورگر بصورت
+        خودکار اجرا ( رندر یا Render ) میشن.
+        حال تگ template و هرچیزی که داخلش بزاریم ، دیگه به محض بالا اومدن صفحه اجرا نمیشه، بلکه باید خودمون بصورت دستی
+        اونو اجرا ( نمایش ) بدیم، که معمولا از جاوا اسکرپیت برای نمایش محتوای تگ template استفاده میشه.
     </p>
     <br>
 
@@ -30,11 +33,7 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots">Using templates and slots | MDN web docs</a></li>
         </ul>
 
     </div>
@@ -42,16 +41,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://static.javatpoint.com/htmlpages/images/htmltemplatetag.png"
+                     class="img-responsive" alt="HTML Templates">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190311164616/template11.png"
+                     class="img-responsive" alt="HTML Templates">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://ik.imagekit.io/taw2awb5ntf/wp-content/uploads/2022/03/template-html-tag.png" class="img-responsive"
+                     alt="HTML Templates">
             </swiper-slide>
         </swiper-container>
     </div>

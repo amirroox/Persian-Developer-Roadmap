@@ -6,7 +6,7 @@ $name_folder = $_POST['name'];
 $name_data = str_replace(":" , "__",$_POST['data_result']);
 
 if($name_data == 'json__beginner') echo "Beginner";
-else if($name_data == 'json__pro') echo "Pro";
+else if($name_data == 'json__professional') echo "Professional";
 else if(strpos($name_data, 'ext_link__') !== (false)) { #ext_link__ = external Link
     echo "$name_data";
 }

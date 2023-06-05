@@ -24,11 +24,10 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
+            <li><a href="https://relay.dev/">Official Website</a>
             </li>
+            <li><a href="https://relay.dev/docs/">Introduction to
+                    Relay modern</a></li>
         </ul>
 
     </div>

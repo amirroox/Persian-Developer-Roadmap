@@ -23,11 +23,10 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://astro.build/">Official Astro
+                    Website</a></li>
+            <li><a href="https://docs.astro.build/">Official Astro
+                    Docs</a></li>
         </ul>
 
     </div>

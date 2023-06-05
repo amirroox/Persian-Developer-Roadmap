@@ -3,7 +3,8 @@
     <h2>ناکست جی اس</h2>
     <br>
     <p>
-        وب فریم ورک Nuxt یا Nuxt. js یک وب فریم ورک منبع باز و رایگان است که بر اساس Vue js، Node js، Express js، Babel js و Webpack نوشته شده است. این چارچوب به عنوان فرایند فرعی برای برنامه های جهانی شناخته می شود.
+        وب فریم ورک Nuxt یا Nuxt. js یک وب فریم ورک منبع باز و رایگان است که بر اساس Vue js، Node js، Express js، Babel
+        js و Webpack نوشته شده است. این چارچوب به عنوان فرایند فرعی برای برنامه های جهانی شناخته می شود.
         Nuxt از Next.js الهام گرفته شده است، که چارچوبی با هدف مشابه، بر اساس React.js است.
     </p>
     <br>
@@ -24,11 +25,15 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
+            <li><a href="https://nuxtjs.org/">Official Website</a>
             </li>
+            <li><a href="https://nuxtjs.org/docs/get-started">Official
+                    Docs for Getting Started</a></li>
+            <li><a href="https://masteringnuxt.com/">Mastering
+                    Nuxt.js</a></li>
+            <li><a href="https://www.youtube.com/watch?v=FXpIoQ_rT_c" 
+                 >Vue.js for Beginners - Full Course at freeCodeCamp YouTube
+                    Channel</a></li>
         </ul>
 
     </div>

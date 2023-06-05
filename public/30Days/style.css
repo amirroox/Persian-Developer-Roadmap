@@ -1,0 +1,114 @@
+/* Style For Days (Days 1-30) */
+.list30days {
+    margin-bottom: 2rem;
+}
+.list30days li {
+    margin: 0 1rem 0 0;
+    list-style-type: disc;
+}
+.list30days a:hover {
+    color: red;
+    font-weight: bold;
+    text-shadow: black 0 .08rem;
+    transition: all .4s;
+}
+article {
+    margin-bottom: 2rem !important;
+}
+article h1 , article h2 , article h3 , article h4 {
+    margin: 1rem 0 0;
+}
+
+article h1 , article h2 {
+    border-bottom: 1px dashed gray;
+}
+article h1:before {
+    content: " # ";
+    color: red;
+}
+article h2:before {
+    content: " * ";
+    color: darkgreen;
+}
+article h3:before {
+    content: " > ";
+    color: orange;
+}
+article h4:before {
+    content: " >> ";
+    color: blue;
+}
+article div {
+    padding: .5rem;
+}
+article p {
+    text-align: justify;
+}
+article ol li{
+    list-style-type: decimal;
+    margin: 0 1rem 0 0;
+}
+article a {
+    color: red;
+}
+pre {
+    direction: ltr;
+    text-align: left;
+    border-radius: 1rem;
+    /*white-space: pre-wrap !important;*/
+}
+pre , code {
+    /* unset Font For Line numbers Align */
+    font-family: unset !important;
+}
+/*Scroll Pre */
+pre::-webkit-scrollbar {
+    height: .7rem;
+}
+pre::-webkit-scrollbar-track {
+    background-color: var(--background-main);
+}
+pre::-webkit-scrollbar-thumb {
+    background-color: var(--background-role);
+    border-radius: 1rem;
+}
+pre::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+.Pre_Nex a{
+    background-color: var(--color-pink);
+    text-align: center;
+    color: white;
+    font-weight: 800;
+}
+.Pre_Nex a:first-child{
+    border-radius: 1rem 5rem;
+}
+.Pre_Nex a:last-child{
+    border-radius: 5rem 1rem;
+}
+
+/* Style For index Days */
+.box a{
+    display: flex;
+    height: 8rem;
+    border-radius: 13px;
+    background-color: var(--background-main);
+    justify-content: left;
+    background-size: cover;
+    color: white;
+}
+.box a span {
+    background-color: var(--background-main);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    padding: .5rem;
+    border-radius: 13px;
+    transition: all .5s;
+}
+.box a:hover span{
+    background-color: var(--color-pink);
+    color: black;
+}

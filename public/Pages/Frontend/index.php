@@ -53,7 +53,7 @@ $Name_Page = basename(__DIR__);
 
 <!-- Summery DATA - Data Content -->
 <dialog id="Data_Content" open>
-    <button class="close_up_btn">&#128473;</button> <!-- 🗙 -->
+    <button class="close_up_btn">X</button> <!-- 🗙 -->
     <div></div>
     <button class="close_down_btn">بازگشت</button>
 </dialog>
@@ -108,14 +108,15 @@ $Name_Page = basename(__DIR__);
                     ?>
                     DownloadBtn.attr('href', 'bin/' + name_page + "Beginner.pdf");
                     <?php endif; ?>
-                } else if (result === "Pro") {
+                } else if (result === "Professional") {
                     $('.RoadMapBeginner').fadeOut();
                     $('.RoadMap').fadeIn();
                     DownloadBtn.attr('href', 'bin/' + name_page + ".pdf");
                 } else if (result.indexOf("ext_link__") !== -1) {
                     let link = result.replace("ext_link__", "");
                     if (link.indexOf("Best-Practices") !== -1) {
-                        window.location.href = '<?=MAIN_SERVER . "public/Pages/"?>' + name_page + '/practices/performance.php';
+                        link = link.replace("Best-Practices__", "");
+                        window.location.href = '<?=MAIN_SERVER . "public/Pages/"?>' + name_page + '/practices/' + link + '.php';
                     } else {
                         window.location.href = '<?=MAIN_SERVER . "public/Pages/"?>' + link;
                     }

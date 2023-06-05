@@ -22,8 +22,33 @@
         <ul class="col-xs-12 col-md-6 links-reference right-link">
             <h4>منابع فارسی</h4>
             <li>
-                <a href="#">
-                    منابع فارسی 1
+                <a href="https://www.roxo.ir/what-is-next-js">
+                    Next.js چیست و چه کاربردی دارد؟ + پروژه عملی
+                </a>
+            </li>
+            <li>
+                <a href="https://sariasan.com/featured/what-is-next-js/">
+                    next.js چیست؟ معایب، مزایا و کاربردها
+                </a>
+            </li>
+            <li>
+                <a href="https://toplearn.com/courses/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-Nextjs-(%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C)">
+                    آموزش رایگان Next.js (مقدماتی)
+                </a>
+            </li>
+            <li>
+                <a href="https://mernfa.ir/nextjs-learning">
+                    آموزش NEXT JS 13 (نکست جی اس) به صورت رایگان
+                </a>
+            </li>
+            <li>
+                <a href="https://roocket.ir/series/learn-nextjs">
+                    آموزش Next.js (پولی :( )
+                </a>
+            </li>
+            <li>
+                <a href="https://sabzlearn.ir/product/next-js/">
+                    آموزش Next.js بصورت پروژه محور (پولی :( )
                 </a>
             </li>
         </ul>
@@ -32,11 +57,14 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
+            <li><a href="https://nuxtjs.org/">Official Website</a>
             </li>
+            <li><a href="https://nuxtjs.org/docs/get-started">Official
+                    Docs for Getting Started</a></li>
+            <li><a href="https://masteringnuxt.com/">Mastering
+                    Nuxt.js</a></li>
+            <li><a href="https://www.youtube.com/watch?v=FXpIoQ_rT_c">Vue.js for Beginners - Full Course at freeCodeCamp YouTube
+                    Channel</a></li>
         </ul>
 
     </div>
@@ -44,16 +72,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.educative.io/v2api/editorpage/6452289848475648/image/5294398307303424"
+                     class="img-responsive" alt="Next.js">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://hassancorrigan.com/static/4f9e4d81dd3f2d4c1a39d6ee27bbf002/ace28/nextjs-back-button.jpg"
+                     class="img-responsive" alt="Next.js">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://hasura.io/blog/content/images/2019/02/nextjs-serverless-now-hasura-graphql.png" class="img-responsive"
+                     alt="Next.js">
             </swiper-slide>
         </swiper-container>
     </div>

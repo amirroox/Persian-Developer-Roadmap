@@ -3,8 +3,11 @@
     <h2>ابزار ساخت</h2>
     <br>
     <p>
-        Task runner ها به طور خودکار دستورات را اجرا می کنند و فرآیندها را در پشت صحنه انجام می دهند. این به خودکارسازی گردش کار شما با انجام کارهای روزمره و تکراری کمک می کند که در غیر این صورت زمان زیادی را برای تکرار خود تلف می کنید.
-        کاربردهای متداول task runner ها شامل کارهای توسعه متعددی مانند: چرخش سرورهای توسعه، کامپایل کد (مثلاً SCSS به CSS)، اجرای لینترها، ارائه فایل ها از یک پورت محلی در رایانه شما و بسیاری موارد دیگر است!
+        Task runner ها به طور خودکار دستورات را اجرا می کنند و فرآیندها را در پشت صحنه انجام می دهند. این به خودکارسازی
+        گردش کار شما با انجام کارهای روزمره و تکراری کمک می کند که در غیر این صورت زمان زیادی را برای تکرار خود تلف می
+        کنید.
+        کاربردهای متداول task runner ها شامل کارهای توسعه متعددی مانند: چرخش سرورهای توسعه، کامپایل کد (مثلاً SCSS به
+        CSS)، اجرای لینترها، ارائه فایل ها از یک پورت محلی در رایانه شما و بسیاری موارد دیگر است!
     </p>
     <br>
 
@@ -24,11 +27,12 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://webpack.js.org/">webpack is a static
+                    module bundler for modern JavaScript applications</a></li>
+            <li><a href="https://vitejs.dev">Vite Next Generation
+                    Frontend Tooling</a></li>
+            <li><a href="https://parceljs.org/">Parcel is a zero
+                    configuration build tool for the web</a></li>
         </ul>
 
     </div>

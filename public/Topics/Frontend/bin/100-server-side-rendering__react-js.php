@@ -3,8 +3,12 @@
     <h2>ری اکت</h2>
     <br>
     <p>
-        React js یکی از کتابخانه های جاوا اسکریپت است که open source است. برنامه نویسان فرانت اند برای ساخت ui و صفحات وب اپلیکیشن های تک صفحه ای استفاده می کنند.
-        در React JS دو معماری به نام های SSR و CSR وجود که از دو عبارت Server Side Rendering و Client Side Rendering گرفته شد و شباهت ها و تفاوت هایی با هم دارند و هر کدام برای محیط خاصی مناسب است. به عنوان مثال برای یک وب سایت که سئو بخش مهمی از آن است باید از معماری SSR استفاده کرد و در مقابل برای ساخت یک وب اپلیکیشن خدماتی عادی بهترین گزینه CSR خواهد بود.
+        React js یکی از کتابخانه های جاوا اسکریپت است که open source است. برنامه نویسان فرانت اند برای ساخت ui و صفحات
+        وب اپلیکیشن های تک صفحه ای استفاده می کنند.
+        در React JS دو معماری به نام های SSR و CSR وجود که از دو عبارت Server Side Rendering و Client Side Rendering
+        گرفته شد و شباهت ها و تفاوت هایی با هم دارند و هر کدام برای محیط خاصی مناسب است. به عنوان مثال برای یک وب سایت
+        که سئو بخش مهمی از آن است باید از معماری SSR استفاده کرد و در مقابل برای ساخت یک وب اپلیکیشن خدماتی عادی بهترین
+        گزینه CSR خواهد بود.
     </p>
     <br>
 
@@ -39,11 +43,19 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="/react">Visit Dedicated React Roadmap</a></li>
+            <li><a href="https://react.dev">React Website</a></li>
+            <li><a href="https://react.dev/learn/tutorial-tic-tac-toe" 
+                 >Official Getting Started</a></li>
+            <li><a href="https://egghead.io/courses/the-beginner-s-guide-to-react" 
+                 >The Beginners Guide to React</a></li>
+            <li><a href="https://www.youtube.com/watch?v=nTeuhbP7wdE" 
+                 >React JS Course for Beginners</a></li>
+            <li><a href="https://www.youtube.com/watch?v=bMknfKXIFA8" 
+                 >React Course - Beginners Tutorial for React JavaScript Library
+                    [2022]</a></li>
+            <li><a href="https://www.youtube.com/watch?v=i793Qm6kv3U" 
+                 >Understanding Reacts UI Rendering Process</a></li>
         </ul>
 
     </div>
@@ -51,16 +63,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1282566/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png"
+                     class="img-responsive" alt="React">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.unicorn.dev/wp-content/uploads/2023/01/react.png"
+                     class="img-responsive" alt="React">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://res.cloudinary.com/proxify-io/image/upload/v1/cms/images/articles/0S2oGmon8xrcPwq6heTRyh3DayYVh6e2ftTjGuDA.jpg" class="img-responsive"
+                     alt="React">
             </swiper-slide>
         </swiper-container>
     </div>

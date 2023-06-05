@@ -1,9 +1,14 @@
 <div class="content-dialog">
-    <h1>Template</h1>
-    <h2>قالب</h2>
+    <h1>Content Security Policy</h1>
+    <h2>سیاست امنیت محتوا</h2>
     <br>
     <p>
-        پر کنید ...
+        هدر سیاست امنیت محتوا Content Security Policy یا مخفف شده اون یعنی هدر CSP ، یه لایه امنیتی اضافی است که به
+        شناسایی و کاهش انواع خاصی از حملات از جمله Cross Site Scripting یا XSS و سایر حملات تزریق داده به سایت شما کمک
+        می‌کنه.
+        برای فعال کردن Content Security Policy Header ، باید وب سرور خودتون رو ساختاربندی کنین تا سرفصل
+        Content-Security-Policy HTTP رو روی کار بذاره. اگه هم X-Content-Security- Policy را مشاهده کردین، اشکالی نداره
+        چون این نسخه قدیمیه و نیاز به تعیین اون هدر HTTP نداره.
     </p>
     <br>
 
@@ -23,11 +28,10 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP" 
+                 >MDN — Content Security Policy (CSP)</a></li>
+            <li><a href="https://developers.google.com/web/fundamentals/security/csp" 
+                 >Google Devs — Content Security Policy (CSP)</a></li>
         </ul>
 
     </div>

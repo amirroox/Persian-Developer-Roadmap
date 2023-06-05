@@ -93,16 +93,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png"
+                     class="img-responsive" alt="CSS Basics">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://images.ctfassets.net/go6kr6r0ykrq/2uzW2mf467i5qpTn76Hg0T/10aa7df78e09edab69e44a80adf0a796/le-review-mobile.gif"
+                     class="img-responsive" alt="CSS Basics">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://ultimatecourses.com/assets/course/htmlcss/basics-709914ab7359d4912d0776349e63cef9c2dfed3da31fd3c3eaa0c869266fafdc.jpg" class="img-responsive"
+                     alt="CSS Basics">
             </swiper-slide>
         </swiper-container>
     </div>

@@ -3,7 +3,8 @@
     <h2>معماری CSS</h2>
     <br>
     <p>
-        مدیریت CSS در سیستم‌های بزرگ، پیچیده و با سرعت تکرار بسیار دشوار است. روش های مختلفی برای نوشتن CSS وجود دارد که امکان نوشتن CSS با قابلیت نگهداری بیشتر را فراهم می کند.
+        مدیریت CSS در سیستم‌های بزرگ، پیچیده و با سرعت تکرار بسیار دشوار است. روش های مختلفی برای نوشتن CSS وجود دارد که
+        امکان نوشتن CSS با قابلیت نگهداری بیشتر را فراهم می کند.
     </p>
     <br>
 
@@ -23,11 +24,14 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://www.webfx.com/blog/web-design/css-methodologies/" 
+                 >A Look at Some CSS Methodologies</a></li>
+            <li><a href="https://en.bem.info">BEM Official
+                    Website</a></li>
+            <li><a href="http://oocss.org/">OOCSS Official
+                    Website</a></li>
+            <li><a href="http://smacss.com/">SMACSS Official
+                    Website</a></li>
         </ul>
 
     </div>

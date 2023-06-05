@@ -31,11 +31,19 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
+            <li><a href="https://cs.fyi/guide/writing-semantic-html" >Guide to Writing Semantic HTML</a>
             </li>
+            <li><a href="https://www.w3schools.com/html/html5_semantic_elements.asp" 
+                 >W3Schools: Semantic HTML</a></li>
+            <li><a href="https://hackernoon.com/how-to-write-semantic-html-dkq3ulo" 
+                 >How To Write Semantic HTML</a></li>
+            <li><a href="https://www.freecodecamp.org/news/html-best-practices/" 
+                 >HTML Best Practices – How to Build a Better HTML-Based Website</a>
+            </li>
+            <li><a href="https://blog.hubspot.com/website/semantic-html" 
+                 >Semantic HTML: What It Is and How It Improves Your Site</a></li>
+            <li><a href="https://html.com/semantic-markup">Semantic
+                    Markup</a></li>
         </ul>
 
     </div>

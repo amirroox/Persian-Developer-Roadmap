@@ -3,7 +3,8 @@
     <h2>تمرین و جست و جو</h2>
     <br>
     <p>
-       برای بهتر شدن در برنامه نویسی ، کد های دیگران را دنبال کنید و برای خود بررسی و تمرین کنید (یکی از بهترین روش ها برای یادگیری ، تفسیر کدهای بقیه است!)
+        برای بهتر شدن در برنامه نویسی ، کد های دیگران را دنبال کنید و برای خود بررسی و تمرین کنید (یکی از بهترین روش ها
+        برای یادگیری ، تفسیر کدهای بقیه است!)
     </p>
     <br>
 
@@ -23,11 +24,8 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://github.com/hail2u/html-best-practices" 
+                 >HTML Best Practices</a></li>
         </ul>
 
     </div>

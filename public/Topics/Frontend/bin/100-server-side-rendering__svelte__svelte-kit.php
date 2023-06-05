@@ -42,16 +42,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://blog.logrocket.com/wp-content/uploads/2021/05/Exploring-Newest-Svelte-Based-Framework-SvelteKit.png"
+                     class="img-responsive" alt="Svelte Kit">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://jenyus.web.app/static/2fb6853530bb0fe125fdd506177c1bbe/ee604/docker-sveltekit-vite.png"
+                     class="img-responsive" alt="Svelte Kit">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://s3.eu-central-1.amazonaws.com/assets.b-nova.com/img/techhub/en/build-state-of-the-art-web-applications-with-sveltekit/sveltekit_routes.png" class="img-responsive"
+                     alt="Svelte Kit">
             </swiper-slide>
         </swiper-container>
     </div>

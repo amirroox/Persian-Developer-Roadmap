@@ -3,8 +3,14 @@
     <h2>HTTPS</h2>
     <br>
     <p>
-        اگر اهل خرید کردن به صورت اینترنتی باشید، حتما توصیه هایی از جمله سبز رنگ بودن محل آدرس سایت، داشتن علامت قفل در کنار آدرس سایت و… را شنیده اید. تمام این توصیه‌ها به وجود پروتکل امنیتی Https در سایت‌ها اشاره دارند. پروتکل امن انتقال ابر متن (Hyper Text Transfer Protocol Secure) که به اختصار تحت عنوان Https شناخته می‌شود، در حقیقت نسخه امنیتی پروتکل http است.
-        به دلیل اینکه اطلاعات و داده‌ها در پروتکل HTTP رمزگذاری نمی‌شوند، به راحتی قابل هک و سو استفاده است. بر این اساس اگر کسی مانند سرویس دهنده اینترنت به مسیر تبادل اطلاعات دسترسی داشته باشد به راحتی می‌تواند اطلاعاتی که در حال رد و بدل شدن هستند را مشاهده کند. تصور کنید که شخصی قادر به مشاهده اطلاعاتی مانند حساب‌های بانکی، ایمیل ها، مشخصات شخصی و… شما باشد. قطعا اگر این چنین باشد، هیچ وقت از اینترنت برای رفع نیازهای خود استفاده نخواهید کرد.
+        اگر اهل خرید کردن به صورت اینترنتی باشید، حتما توصیه هایی از جمله سبز رنگ بودن محل آدرس سایت، داشتن علامت قفل در
+        کنار آدرس سایت و… را شنیده اید. تمام این توصیه‌ها به وجود پروتکل امنیتی Https در سایت‌ها اشاره دارند. پروتکل امن
+        انتقال ابر متن (Hyper Text Transfer Protocol Secure) که به اختصار تحت عنوان Https شناخته می‌شود، در حقیقت نسخه
+        امنیتی پروتکل http است.
+        به دلیل اینکه اطلاعات و داده‌ها در پروتکل HTTP رمزگذاری نمی‌شوند، به راحتی قابل هک و سو استفاده است. بر این اساس
+        اگر کسی مانند سرویس دهنده اینترنت به مسیر تبادل اطلاعات دسترسی داشته باشد به راحتی می‌تواند اطلاعاتی که در حال
+        رد و بدل شدن هستند را مشاهده کند. تصور کنید که شخصی قادر به مشاهده اطلاعاتی مانند حساب‌های بانکی، ایمیل ها،
+        مشخصات شخصی و… شما باشد. قطعا اگر این چنین باشد، هیچ وقت از اینترنت برای رفع نیازهای خود استفاده نخواهید کرد.
     </p>
     <br>
 
@@ -55,11 +61,14 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/">What is HTTPS?</a></li>
+            <li><a href="https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https">Why HTTPS Matters</a></li>
+            <li><a href="https://web.dev/enable-https/">Enabling
+                    HTTPS on Your Servers</a></li>
+            <li><a href="https://howhttps.works/">How HTTPS works
+                    (comic)</a></li>
+            <li><a href="https://www.youtube.com/watch?v=hExRDVZHhig">SSL, TLS, HTTP, HTTPS Explained</a></li>
+            <li><a href="https://www.youtube.com/watch?v=GoXgl9r0Kjk">HTTPS — Stories from the field</a></li>
         </ul>
 
     </div>
@@ -67,16 +76,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://www.globalsign.com/application/files/3916/0397/8810/iStock-833750208.png"
+                     class="img-responsive" alt="HTTPS">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://ahrefs.com/blog/wp-content/uploads/2020/05/fb-what-is-https.png"
+                     class="img-responsive" alt="HTTPS">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://www.aepd.es/sites/default/files/2021-04/https-3344700-1920.jpg" class="img-responsive"
+                     alt="HTTPS">
             </swiper-slide>
         </swiper-container>
     </div>

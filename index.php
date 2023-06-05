@@ -97,7 +97,7 @@
 
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/30Days/Vue/">HTML</a>
+            <a href="public/30Days/HTML/">HTML</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/30Days/React/">React</a>
@@ -157,16 +157,10 @@
     <!-- Script For Response Menu -->
 <script src="<?= MAIN_SERVER . 'assets/js/Response-Menu.js' ?>"></script>
 
+<!-- Script Helper -->
+<script src="<?= MAIN_SERVER . 'assets/js/Helper.js'?>"></script>
 <script>
-    //Scroll To Guide (Up - Down)
-             $("#Guide-Btn-Down , #Guide-Btn-Up").on("click", function (event) {
-                event.preventDefault();
-                console.log(event)
-                $("html, body").animate({
-                    scrollTop: $("#Guide").offset().top
-                }, 1000);
-                return false;
-            });
+    scroll_down('#Guide-Btn-Down , #Guide-Btn-Up' , 1000 , "#Guide");
 </script>
 </body>
 </html>

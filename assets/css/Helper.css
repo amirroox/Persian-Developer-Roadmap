@@ -45,7 +45,7 @@ body {
     overflow-x: hidden;
 }
 section.subject {
-    padding: 2rem 2rem;
+    padding: 2rem 2rem .2rem;
 }
 section.subject div.options a {
     background-color: gray;
@@ -86,4 +86,11 @@ section.Community a:before {
 section.Community a:hover {
     background-color: black;
     color: white;
+}
+
+/* Top Button */
+#top_button {
+    position: fixed;
+    bottom: 1.5%;
+    right : 7%;
 }

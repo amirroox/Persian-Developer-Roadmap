@@ -3,13 +3,7 @@
         <ul>
             <li class="col-xs-4 col-md-4"><a href="<?= MAIN_SERVER ?>">نقشه راه</a></li>
             <li class="col-xs-4 col-md-4"><a href="<?= MAIN_GITHUB ?>" target="_blank">گیت هاب</a></li>
-            <li class="col-xs-4 col-md-4"><a href="
-            <?php
-                # Redirect Guide (Main and etc)
-                if (strpos($_SERVER['PHP_SELF'], "index.php")) echo "#Guide";
-                else echo "#";
-                ?>
-            " id="Guide-Btn-Up">راهنما</a></li>
+            <li class="col-xs-4 col-md-4"><a href="<?= MAIN_SERVER . 'public/Guides/'?>" id="Guide-Btn-Up">راهنما</a></li>
         </ul>
     </div>
     <div class="container row text-footer">

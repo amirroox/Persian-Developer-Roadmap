@@ -3,7 +3,8 @@
     <h2>مانتاین</h2>
     <br>
     <p>
-        Mantine یک کتابخانه React با جزئیات بالا است. کتابخانه ی Mantine در زمان برای طراحی یا نمونه سازی رابط کاربری شما صرفه جویی می کند.
+        Mantine یک کتابخانه React با جزئیات بالا است. کتابخانه ی Mantine در زمان برای طراحی یا نمونه سازی رابط کاربری
+        شما صرفه جویی می کند.
     </p>
     <br>
 
@@ -23,11 +24,12 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
+            <li><a href="https://mantine.dev/">Mantine Website</a>
             </li>
+            <li><a href="https://mantine.dev/guides/cra/">Usage with
+                    Create React App</a></li>
+            <li><a href="https://blog.logrocket.com/5-mantine-hooks-simplifying-ui-management-react/" 
+                 >5 Mantine Hooks for UI management</a></li>
         </ul>
 
     </div>

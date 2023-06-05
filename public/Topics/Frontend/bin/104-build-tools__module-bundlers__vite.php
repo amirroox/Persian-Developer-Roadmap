@@ -3,9 +3,13 @@
     <h2>ویت</h2>
     <br>
     <p>
-        سازنده Vue.js ابزار جدیدی به نام Vite.js را ارائه کرد. او آن را نسل بعدی ابزارهای frontend می نامد. یک ابزار ساخت که از یک سرور توسعه دهنده تشکیل شده است که کد شما را برای production باندل می کند.
-        و Vite.js به توسعه دهندگان این امکان را می دهد که یک محیط توسعه برای فریمورک هایی مانند Vue و React و حتی برای برنامه Vanilla JavaScript با یک dev server راه اندازی کنند. Vite به صورت داخلی از Rollup.js برای bundling پشتیبانی می‌کند.
-        Vite.js یک ابزار توسعه سریع برای پروژه‌های وب مدرن است که با بهبود تجربه توسعه، روی سرعت و عملکرد تمرکز دارد. همچنین از importهای ES مرورگر native برای فعال کردن پشتیبانی از مرورگرهای مدرن بدون فرآیند ساخت استفاده می‌کند.
+        سازنده Vue.js ابزار جدیدی به نام Vite.js را ارائه کرد. او آن را نسل بعدی ابزارهای frontend می نامد. یک ابزار
+        ساخت که از یک سرور توسعه دهنده تشکیل شده است که کد شما را برای production باندل می کند.
+        و Vite.js به توسعه دهندگان این امکان را می دهد که یک محیط توسعه برای فریمورک هایی مانند Vue و React و حتی برای
+        برنامه Vanilla JavaScript با یک dev server راه اندازی کنند. Vite به صورت داخلی از Rollup.js برای bundling
+        پشتیبانی می‌کند.
+        Vite.js یک ابزار توسعه سریع برای پروژه‌های وب مدرن است که با بهبود تجربه توسعه، روی سرعت و عملکرد تمرکز دارد.
+        همچنین از importهای ES مرورگر native برای فعال کردن پشتیبانی از مرورگرهای مدرن بدون فرآیند ساخت استفاده می‌کند.
     </p>
     <br>
 
@@ -25,11 +29,11 @@
         <!-- English References -->
         <ul class="col-xs-12 col-md-6 links-reference left-link">
             <h4>English References</h4>
-            <li>
-                <a href="#">
-                    English References 1
-                </a>
-            </li>
+            <li><a href="https://vitejs.dev">Vite Website</a></li>
+            <li><a href="https://vitejs.dev/guide">Vite
+                    Documentation</a></li>
+            <li><a href="https://youtu.be/LQQ3CR2JTX8">Vite Crash
+                    Course</a></li>
         </ul>
 
     </div>
