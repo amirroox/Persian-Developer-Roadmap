@@ -192,7 +192,7 @@
                 duration: 500
             },
             hide: {
-                effect: "explode",
+                effect: "blind",
                 duration: 500
             }
         });
