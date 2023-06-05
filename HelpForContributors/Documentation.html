@@ -1,10 +1,12 @@
-<?php include "../Constants.php" ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="../assets/css/SeedStyle.css">
-    <?php include "../public/main/meta-main.php" ?>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=4.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="../assets/img/LogoWh.svg" rel="icon" type="image/svg" sizes="32x32">
     <title>Documentation</title>
     <style>
         body {
@@ -196,6 +198,29 @@
                 <li class="h-menu">
                     public (تمام صفحات)
                     <ul>
+                        <li class="s-menu">
+                            30Days (صفحات اصلی نقشه راه 30 روزه)
+                            <ul>
+                                <li class="s2-menu">
+                                    NameRoadMap (اسم نقشه راه)
+                                    <ul>
+                                        <li>assets (فایل های مورد نیاز هر نقشه راه - زبان کدها)</li>
+                                        <li>img (عکس های مورد نیاز)</li>
+                                        <li>index.php (صفحه اصلی نقشه راه)</li>
+                                        <li>(Day1 - Day30 .php) (صفحات روز 1 تا 30 ام)</li>
+                                    </ul>
+                                </li>
+                                <li>style.css (استایل برای تمام نقشه راه های 30 روزه)</li>
+                            </ul>
+                        </li>
+                        <li class="s-menu">
+                            Guides (صفحات راهنما)
+                            <ul>
+                                <li>bin (فایل های راهنما - نیاز به تغییر ندارد)</li>
+                                <li>index.php (صفحه اصلی راهنما)</li>
+                                <li>style.css (استایل برای تمام راهنما ها)</li>
+                            </ul>
+                        </li>
                         <li>Main (هدر ، فوتر ، متالینک ها)</li>
                         <li class="s-menu">
                             Pages (صفحات اصلی نقشه راه ها)
@@ -254,6 +279,29 @@
                 <li class="h-menu">
                     public (All Pages)
                     <ul>
+                        <li class="s-menu">
+                            30Days (main pages of the 30-day roadmap)
+                            <ul>
+                                <li class="s2-menu">
+                                    NameRoadMap
+                                    <ul>
+                                        <li>assets (Required files of each road map - code language)</li>
+                                        <li>img (Photos required)</li>
+                                        <li>index.php (The main page of the road map)</li>
+                                        <li>(Day1 - Day30 .php) (Pages from the 1st to the 30th day)</li>
+                                    </ul>
+                                </li>
+                                <li>style.css (Style for all 30 day roadmaps)</li>
+                            </ul>
+                        </li>
+                        <li class="s-menu">
+                            Guides (Help pages)
+                            <ul>
+                                <li>bin (Help files - no need to change)</li>
+                                <li>index.php (Help home page)</li>
+                                <li>style.css (Style for all guides)</li>
+                            </ul>
+                        </li>
                         <li>Main (Header , Footer , MetaLink)</li>
                         <li class="s-menu">
                             Pages (Main Road Maps)
@@ -312,11 +360,34 @@
                 <li>نیازی به تغییر استایل ها ندارید (الزامی در تغییر پوشه assets وجود ندارد)</li>
                 <li>نیازی به تغییر کلیات و فانکشن های نوشته شده نیست !</li>
                 <li>
-                    پوشه public دارای 3 بخش مجزا است
+                    پوشه public دارای 5 بخش مجزا است
                     <ul>
+                        <li>
+                            30Days (نقشه راه های 30 روزه در اینجا تعریف میشوند)
+                            <ul>
+                                <li>
+                                    پوشه ایی ایجاد کنید به نام نقشه راه مورد نظر (مثال : JavaScript)(میتونید از پوشه JavaScript یک کپی بگیرید و اسم آن را تغییر دهید)
+                                    <ul>
+                                        <li>assets (فایل های مورد نیاز هر نقشه راه 30 روزه - در نقشه راه 30 روزه از prism استفاده میشود برای انتخاب زبان کدنویسی ، فایل FileNeedIt را ویرایش کنید)</li>
+                                        <li>img (عکس های مورد نیاز هر نقشه راه)</li>
+                                        <li>index.php (صفحه اصلی هر نقشه راه 30 روزه)</li>
+                                        <li>Day1.php - Day30.php (هر روز در یک فایل جداگانه به صورت Day + عدد روز ساخته میشود)</li>
+                                    </ul>
+                                </li>
+                                <li>style.css (این استایل برای تمامی نقشه راه های 30 روزه است)</li>
+                            </ul>
+                        </li>
+                        <li>
+                            Guides (راهنمای استفاده از سایت برای بازدید کنندگان در اینجا تعریف میشود)
+                            <ul>
+                                <li>bin (هر فایل راهنما به صورت تک فایل در این قسمت قرار میگیره)</li>
+                                <li>index.php (صفحه اصلی راهنما - بعد از اضافه کردن راهنما خود این قسمت را هم ویرایش کنید)</li>
+                                <li>style.css (استایل برای تمامی راهنما ها)</li>
+                            </ul>
+                        </li>
                         <li>Main (نیازی به تغییر این بخش نیست)</li>
                         <li>
-                            pages (تمامی نقشه راه ها در اینجا تعریف میشود)
+                            pages (تمامی نقشه راه ها در اینجا تعریف میشوند)
                             <ul>
                                 <a href="#directory-road">
                                     <li>
@@ -373,8 +444,31 @@
                 <li>You don't need to change the styles (there is no need to change the assets folder)</li>
                 <li>There is no need to change the written generalities and functions!</li>
                 <li>
-                    The public folder has 3 separate sections
+                    The public folder has 5 separate sections
                     <ul>
+                        <li>
+                            30Days (30-day roadmaps are defined here)
+                            <ul>
+                                <li>
+                                    Create a folder with the name of the desired roadmap (example: JavaScript) (you can take a copy of the JavaScript folder and change its name)
+                                    <ul>
+                                        <li>assets (Required files for each 30-day roadmap - Prism is used in the 30-day roadmap, edit FileNeedIt to select the language of the file)</li>
+                                        <li>img (Photos required for each road map)</li>
+                                        <li>index.php (The main page of each 30-day roadmap)</li>
+                                        <li>Day1.php - Day30.php (Each day is created in a separate file as Day + number of days)</li>
+                                    </ul>
+                                </li>
+                                <li>style.css (این استایل برای تمامی نقشه راه های 30 روزه است)</li>
+                            </ul>
+                        </li>
+                        <li>
+                            Guides (The site usage guide for visitors is defined here)
+                            <ul>
+                                <li>bin (Each help file is placed as a single file in this section)</li>
+                                <li>index.php (Home Help Page - After adding your help, edit this section as well)</li>
+                                <li>style.css (Style for all guides)</li>
+                            </ul>
+                        </li>
                         <li>Main (no need to change this part)</li>
                         <li>
                             pages (all roadmaps are defined here)
@@ -480,7 +574,7 @@
                 <li>در فایل Constants.php ثابت CHECK_SVG را برابر 1 قرار دهید و صفحه نقشه راه خود را ریفرش کنید (به طور
                     خودکار تمامیه رنگ ها ویرایش میشوند (اگر از سایت roadmap.sh تهیه نمودید))
                 </li>
-                <li>بعد از موارد بالا ثابت ها را بر روی 0 قرار دهید تا بار سیستم افزایش پیدا نکند</li>
+                <li>بعد از موارد بالا ثابت ها را بر روی 0 قرار دهید تا بار سرور افزایش پیدا نکند</li>
             </ol>
         </div>
     </div>
@@ -524,7 +618,7 @@
                 <li>In the Constants.php file, set the CHECK_SVG constant to 1 and refresh your roadmap page (all colors
                     will be automatically edited (if you get it from the roadmap.sh site))
                 </li>
-                <li>After the above, set the constants to 0 so that the system load does not increase</li>
+                <li>After the above, set the constants to 0 so that the server load does not increase</li>
             </ol>
         </div>
     </div>

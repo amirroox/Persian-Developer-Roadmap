@@ -1,4 +1,4 @@
-//Add Attribute target and rel
+//Add Attribute target and rel - use it public/Topics
 let links_ref = document.querySelectorAll('.links-reference a');
 for (let i = 0; i < links_ref.length; i++) {
     links_ref[i].setAttribute('target', '_blank');

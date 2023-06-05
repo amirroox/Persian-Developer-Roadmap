@@ -1,4 +1,4 @@
-// Response List Menu Header
+// Response List Menu Header  - Use it All
 $("#list_btn").on('click' , function (){
     $("div#list-phone").css('top','0');
     $("#smile").css('display','block');

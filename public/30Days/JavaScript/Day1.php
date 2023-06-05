@@ -788,8 +788,13 @@ $Name_File = basename(__DIR__);
 
 <!-- Script Helper -->
 <script src="<?= MAIN_SERVER . 'assets/js/Helper.js'?>"></script>
+
 <!-- File Need It -->
-<script src="<?= MAIN_SERVER . 'public/30Days/JavaScript/assets/FileNeedIt.js'?>"></script>
+<script src="assets/FileNeedIt.js"></script>
+
+<!-- Script Code _ Pre Prism Highlighter -->
+<script src="<?= MAIN_SERVER . 'assets/js/codeprism.js'?>"></script>
+
 <script>
     scroll_down('.list30days li a' , 600);
     scroll_down('#top_button' , 1000 , '#Head-Sec');

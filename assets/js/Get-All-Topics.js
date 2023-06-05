@@ -1,3 +1,4 @@
+/* Get All Topics - Use it public/Pages */
 let pageContent = document.body.innerHTML;
 let regex = /(?<=data-group-id=")(.*?)(?=")/g;
 let matchesTopics = pageContent.match(regex);
