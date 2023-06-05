@@ -92,3 +92,4 @@ Since most friends had many problems entering the world of computers and program
 ## Contributes - Contributors
 تمام راهنما ها برای توسعه دهندگان در پوشه HelpForContributors قرار دارد. 
 برای مشاهده فقط Documentation.html را باز کنید و یا از طریق لینک زیر فایل Contributors.md را بخوانید.
+[Contributors.md](HelpForContributors/Contributors.md "Contributors.md")
