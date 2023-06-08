@@ -1,0 +1,406 @@
+<svg viewBox="263 200 1206 2520" style="font-family: lalezar">
+    <path d="M561.7488654121705 2293.2177355803096Q502.64249366077115 2293.2177355803096 443.5361219093718 2293.2177355803096" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M847.5361219093718 2039.943093394399Q847.5361219093718 2083.080414487354 847.5361219093718 2126.2177355803096" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M1230.2886071293653 2037.9766090317526Q1277.4123645193686 2037.9766090317526 1324.5361219093718 2037.9766090317526" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M1233.2886071293653 1920.9766090317526Q1280.4123645193686 1920.9766090317526 1327.5361219093718 1920.9766090317526" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M959.5361219093718 1758.5Q959.5361219093718 1793 959.5361219093718 1827.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M892.5361219093718 1758.5Q892.5361219093718 1793 892.5361219093718 1827.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M822.5361219093718 1752.5Q822.5361219093718 1787 822.5361219093718 1821.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M444.76752415733176 1837.7942452326542Q884.3046279664325 1837.7942452326542 1323.8417317755348 1837.7942452326542" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+
+
+    <path d="M442.5361219093718 1634.1207086768127Q557.2680609546858 1634.1207086768127 672 1634.1207086768127" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M563.3893878858487 1128.1207086768127Q503.6946939429244 1128.1207086768127 444 1128.1207086768127" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M445 965.4557875581764Q445 1090.6028297220073 445 1215.7498718858383" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M852 870.2460997825185Q852 916.6834042296655 852 963.1207086768126" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M1186 668.3057395621006Q1186 720.7132241194565 1186 773.1207086768126" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M852 666.9348559937681Q852 720.0277823352903 852 773.1207086768126" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M445 441.0589260765058Q445 552.0294630382529 445 663" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M447.52388935571037 662.7942452326542Q886.2619446778547 662.7942452326542 1325 662.7942452326542" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="101-css">
+        <rect x="656.35" y="640.35" width="96.3" height="46.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="688" y="669.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>CSS</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="103-javascript">
+        <rect x="991.35" y="640.35" width="143.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1016" y="669.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>JavaScript</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-html">
+        <rect x="503.35" y="640.35" width="112.3" height="46.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="536" y="669.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>HTML</tspan>
+        </text>
+    </g>
+    <text x="361" y="408.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="32px">
+        <tspan>Full Stack</tspan>
+    </text>
+    <rect x="998.35" y="245.35" width="358.3" height="147.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1013" y="281.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>اگر دنبال منابع و نقشه راه های بیشتر میگردید
+        </tspan>
+    </text>
+    <text x="1013" y="310" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>حتما لینک زیر را دنبال کنید</tspan>
+    </text>
+    <g>
+        <rect x="1014.35" y="327.35" width="326.3" height="48.3" rx="2" fill="rgb(65,53,214)" fill-opacity="1" stroke="rgb(65,53,214)" stroke-width="2.7"></rect>
+        <a href="https://road-map.ir" target="_blank">
+            <text x="1092" y="359.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="20px">
+                <tspan>https://road-map.ir</tspan>
+            </text>
+        </a>
+    </g>
+    <path d="M445 204.5Q445 280.6471226163271 445 356.7942452326543" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <g class="clickable-group" data-group-id="102-checkpoint-static-websites">
+        <rect x="598.35" y="738.35" width="299.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="635" y="769" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>ایست - صفحات وب استاتیک</tspan>
+        </text>
+    </g>
+    <path d="M444.76752415733176 1215.7942452326542Q885.3695210164376 1215.7942452326542 1325.971517875545 1215.7942452326542" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="104-checkpoint-interactivity">
+        <rect x="922.35" y="738.35" width="304.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="990" y="768.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>ایست - تعامل با صفحات</tspan>
+        </text>
+    </g>
+    <path d="M1326 664Q1326 813.1629965117395 1326 962.325993023479" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="105-npm">
+        <rect x="1277.35" y="738.35" width="96.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1309" y="766.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>npm</tspan>
+        </text>
+    </g>
+    <path d="M1095.5361219093718 858.1207086768126Q1208.5339408909576 858.1207086768126 1321.5317598725437 858.1207086768126" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <g class="clickable-group" data-group-id="106-external-packages">
+        <rect x="922.35" y="834.35" width="304.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1000" y="865" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>ایست - پکیج باندل</tspan>
+        </text>
+    </g>
+    <path d="M445.0901988726955 963.7942452326542Q885.0450994363473 963.7942452326542 1325 963.7942452326542" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="107-git">
+        <rect x="1108.35" y="938.35" width="77.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1136" y="968" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Git</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="108-github">
+        <rect x="991.35" y="938.35" width="98.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1014" y="968" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>GitHub</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="109-collaborative-work">
+        <rect x="598.35" y="834.35" width="299.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="640" y="866" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>ایست - کار مشترک و گروهی</tspan>
+        </text>
+    </g>
+    <rect x="513.35" y="923.35" width="268.3" height="146.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(255,255,255)" stroke-width="2.7"></rect>
+    <g class="clickable-group" data-group-id="112-frontend-apps">
+        <rect x="503.35" y="1104.35" width="283.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="530" y="1134.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>ایست - برنامه های سمت کاربر</tspan>
+        </text>
+    </g>
+    <text x="524" y="1019.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>میتونید بعد از مشاهده هر بخش دوباره </tspan>
+    </text>
+    <g class="clickable-group" data-group-id="111-react">
+        <rect x="525.35" y="939.35" width="117.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="560" y="968.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>React</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="110-tailwind">
+        <rect x="653.35" y="939.35" width="117.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="672" y="968.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Tailwind</tspan>
+        </text>
+    </g>
+    <text x="585" y="1049.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>بهشون سر بزنید و تمرین کنید</tspan>
+    </text>
+    <g class="clickable-group" data-group-id="113-nodejs">
+        <rect x="989.35" y="1191.35" width="117.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1019" y="1221" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Node.js</tspan>
+        </text>
+    </g>
+    <rect x="513.35" y="1188.35" width="268.3" height="51.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(255,255,255)" stroke-width="2.7"></rect>
+    <text x="533" y="1220.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>توسعه سمت سرور را شروع کنید</tspan>
+    </text>
+    <g>
+        <text x="980" y="1086.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+            <tspan>میتونید هر زبانی که دلتون خواست رو انتخاب کنید</tspan>
+        </text>
+        <text x="1285" y="1115.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px" direction="rtl">
+            <tspan>توصیه من زبان های مبتنی بر جاوا اسکریپت است مثل node.js</tspan>
+        </text>
+        <text x="930" y="1146.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+            <tspan>چون قبلا با جاوا اسکریپت آشنا شدید ، پس کارتون راحت تره </tspan>
+        </text>
+    </g>
+    <path d="M1326 1216Q1326 1360.4797043591245 1326 1504.9594087182493" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M1095.5361219093718 1297.1207086768127Q1210.2680609546858 1297.1207086768127 1325 1297.1207086768127" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <g class="clickable-group" data-group-id="114-cli-apps">
+        <rect x="918.35" y="1273.35" width="277.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="985" y="1303.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>CLI Apps - ایست</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="115-postgresql">
+        <rect x="1224.35" y="1338.35" width="132.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1244" y="1368" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>PostgreSQL</tspan>
+        </text>
+    </g>
+    <path d="M1095.5361219093718 1431.1207086768127Q1210.2680609546858 1431.1207086768127 1325 1431.1207086768127" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <g class="clickable-group" data-group-id="116-crud">
+        <rect x="918.35" y="1407.35" width="273.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="996" y="1437.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>CRUD - ایست</tspan>
+        </text>
+    </g>
+    <path d="M444.76752415733176 1505.7942452326542Q885.3695210164376 1505.7942452326542 1325.971517875545 1505.7942452326542" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M852 1084.2769850029135Q852 1209.515449089424 852 1334.7539131759347" fill="none" stroke="rgb(51,51,51)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <text x="567" y="1319.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>توسعه سمت سرور از اینجا شروع میشه</tspan>
+    </text>
+    <path d="M847 1287.0130755790528Q847 1311.169534301266 847 1335.325993023479" fill="none" stroke="rgb(51,51,51)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M849 1287.0130755790528Q849 1311.169534301266 849 1335.325993023479" fill="none" stroke="rgb(51,51,51)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M853 1287.0130755790528Q853 1311.169534301266 853 1335.325993023479" fill="none" stroke="rgb(51,51,51)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="117-restful-apis">
+        <rect x="741.35" y="1482.35" width="142.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="762" y="1512" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>RESTful APIs</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="118-jwt-auth">
+        <rect x="605.35" y="1482.35" width="108.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="623" y="1512" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>JWT Auth</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="120-complete-app">
+        <rect x="485.35" y="1608.35" width="274.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="544" y="1638.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>ایست - برنامه کامل</tspan>
+        </text>
+    </g>
+    <path d="M444 1507.4557875581763Q444 1672.977893779088 444 1838.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="119-redis">
+        <rect x="487.35" y="1482.35" width="86.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="508" y="1511.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Redis</tspan>
+        </text>
+    </g>
+
+
+
+
+
+    <path d="M665.8491796319084 1723.7539131759347Q508.4245898159543 1723.7539131759347 351 1723.7539131759347" fill="none" stroke="rgb(51,51,51)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M664 1727Q626.6563350221927 1726.7764647156214 590 1727" fill="none" stroke="rgb(51,51,51)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M664 1731Q626.6563350221927 1730.7764647156214 590 1731" fill="none" stroke="rgb(51,51,51)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <text x="679" y="1763.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+        <tspan>کمی دانش DevOps یاد بگیرید</tspan>
+    </text>
+    <g class="clickable-group" data-group-id="121-linux-basics">
+        <rect x="372.35" y="1815.35" width="142.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="380" y="1844.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>مقدمات لینوکس</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="122-basic-aws-services">
+        <rect x="793.35" y="1811.35" width="195.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="806" y="1841" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>AWS سرویس های پایه</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-basic-aws-services:ec2">
+        <rect x="793.35" y="1731.35" width="61.3" height="47.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="806" y="1761.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+            <tspan>EC2</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="101-basic-aws-services:vpc">
+        <rect x="863.35" y="1731.35" width="58.3" height="47.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="875" y="1762" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+            <tspan>VPC</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="103-basic-aws-services:route53">
+        <rect x="794.35" y="1677.35" width="104.3" height="47.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="811" y="1707.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+            <tspan>Route53</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="104-basic-aws-services:ses">
+        <rect x="907.35" y="1677.35" width="82.3" height="47.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="934" y="1707.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+            <tspan>SES</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="102-basic-aws-services:s3">
+        <rect x="929.35" y="1731.35" width="59.3" height="47.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="948" y="1761.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+            <tspan>S3</tspan>
+        </text>
+    </g>
+    <path d="M1326 1838Q1326 1982.4797043591245 1326 2126.9594087182495" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="127-ci-cd">
+        <rect x="738.35" y="2016.35" width="220.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="787" y="2047" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>CI / CD - ایست</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="124-monit">
+        <rect x="1283.35" y="1957.35" width="84.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1304" y="1986.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Monit</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="125-monitoring">
+        <rect x="990.35" y="2015.35" width="248.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1053" y="2045.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>ایست - نظارت</tspan>
+        </text>
+    </g>
+    <path d="M443.899453087939 2126.7942452326542Q884.370592431736 2126.7942452326542 1324.8417317755348 2126.7942452326542" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="126-github-actions">
+        <rect x="1044.35" y="2104.35" width="154.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1060" y="2134" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>GitHub Actions</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="123-deployment">
+        <rect x="988.35" y="1898.35" width="253.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1021" y="1928.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Deployment - ایست</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="128-ansible">
+        <rect x="662.35" y="2103.35" width="99.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="676" y="2133" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Ansible</tspan>
+        </text>
+    </g>
+    <path d="M565.5361219093718 2039.943093394399Q565.5361219093718 2083.080414487354 565.5361219093718 2126.2177355803096" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <g class="clickable-group" data-group-id="129-automation">
+        <rect x="445.35" y="2016.35" width="242.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="486" y="2046.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>ایست - اتوماسیون</tspan>
+        </text>
+    </g>
+    <path d="M443 2127.4557875581763Q443 2264.4824615715365 443 2401.5091355848967" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="130-terraform">
+        <rect x="389.35" y="2182.35" width="106.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="396" y="2211.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Terraform</tspan>
+        </text>
+    </g>
+    <rect x="1046.35" y="1586.35" width="367.3" height="152.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1070" y="1622.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>یادتون نره از نقاط پیشنهادی (ایست ها) استفاده کنید</tspan>
+    </text>
+    <text x="1096" y="1652.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>و چیز هایی که یاد میگیرد رو تمرین کنید.ایده های</tspan>
+    </text>
+    <text x="1100" y="1682.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>پروژه در هر نقظه پیشنهادی وجود داره که میتونید</tspan>
+    </text>
+    <text x="1066" y="1712.5" fill="rgb(76,17,48)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>برای تقویت دانش و مهارت خودتون ازش استفاده کنید</tspan>
+    </text>
+    <g class="clickable-group" data-group-id="131-infrastructure">
+        <rect x="512.35" y="2269.35" width="262.3" height="47.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="569" y="2299.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>ایست - زیر ساخت</tspan>
+        </text>
+    </g>
+    <path d="M442.899453087939 2400.7942452326542Q694.8115327129658 2400.7942452326542 946.7236123379937 2400.7942452326542" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M949 2401Q949 2545.4797043591248 949 2689.9594087182495" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <rect x="631.35" y="2477.35" width="632.3" height="109.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="765" y="2511.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+        <tspan>با بخش های زیر میتونید یادگیریتون رو پیشرفته تر کنید</tspan>
+    </text>
+    <g class="clickable-group" data-group-id="ext_link:Devops">
+        <rect x="1053.35" y="2531.35" width="195.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="1070" y="2557.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>DevOps Roadmap</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="ext_link:Backend">
+        <rect x="847.35" y="2531.35" width="195.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="860" y="2557.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Backend Roadmap</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="ext_link:Frontend">
+        <rect x="641.35" y="2531.35" width="195.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="654" y="2557.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Frontend Roadmap</tspan>
+        </text>
+    </g>
+    <rect x="595.35" y="245.35" width="378.3" height="299.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="640" y="324.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>اگر در حال حاضر یک توسعه دهند فول استک هستید</tspan>
+    </text>
+    <text x="680" y="354.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>باید به جای این نقشه از نقشه زیر کمک بگیرید</tspan>
+    </text>
+    <g class="clickable-group" data-group-id="ext_link:Frontend">
+        <rect x="615.35" y="375.35" width="103.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="632" y="401.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Frontend</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="ext_link:Backend">
+        <rect x="732.35" y="375.35" width="110.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="754" y="401.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>Backend</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="ext_link:Devops">
+        <rect x="857.35" y="375.35" width="98.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="876" y="401.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+            <tspan>DevOps</tspan>
+        </text>
+    </g>
+    <text x="640" y="452.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+        <tspan>حواستون باشه مخاطبین هدف این نقشه راه</tspan>
+    </text>
+    <text x="625" y="482.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+        <tspan>مبتدیانی هستند که از صفر میخوان شروع کنن</tspan>
+    </text>
+    <text x="700" y="512.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+        <tspan>و یک توسعه دهنده فول استک بشن</tspan>
+    </text>
+    <text x="613" y="285.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>حواستون باشه</tspan>
+    </text>
+    <rect x="998.35" y="411.35" width="360.3" height="133.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <rect x="1014.35" y="427.35" width="23.3" height="23.3" rx="2" fill="rgb(51,51,51)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1051" y="446" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>ایده ها و پیشنهادات پروژه</tspan>
+    </text>
+    <rect x="1014.35" y="462.35" width="23.3" height="23.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1051" y="480.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>موضوعات کلیدی برای یادگیری</tspan>
+    </text>
+    <path d="M1024 502.075265886989Q1024 511.91458953146184 1024 521.7539131759347" fill="none" stroke="rgb(51,51,51)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <text x="1051" y="518.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px">
+        <tspan>تغییر مسیر</tspan>
+    </text>
+    <path d="M1027 502.075265886989Q1027 511.91458953146184 1027 521.7539131759347" fill="none" stroke="rgb(51,51,51)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M1192.5361219093718 603.1207086768126Q1327.8597737978243 603.1207086768126 1463.1834256862771 603.1207086768126" fill="none" stroke="rgb(255,255,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M268.4977084629428 737.1207086768126Q382.5147341677432 737.1207086768126 496.5317598725437 737.1207086768126" fill="none" stroke="rgb(255,255,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M919 2714.1207086768127Q949 2714.1207086768127 979 2714.1207086768127" fill="none" stroke="rgb(255,255,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+</svg>

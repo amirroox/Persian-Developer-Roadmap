@@ -6,7 +6,7 @@ function CheckLoadSVG($color, $Name_Page, $name = null): void  # Method For Chan
     # $color['TURN'] ==> 1 (Test)   |   0 (No Test)
     if ($color['TURN']) {
         $change = file_get_contents($check);
-        if (strpos($change, $color['COPY']['Alternative']) !== (false)) { #Change Color Copy To MAIN
+        if (strpos($change, $color['COPY']['Main']) !== (false)) { #Change Color Copy To MAIN
             #chcek Color MAINCopy
             $change = str_replace($color['COPY']['Recommend'], $color['MAIN']['Recommend'], $change);
             $change = str_replace($color['COPY']['Alternative'], $color['MAIN']['Alternative'], $change);
@@ -21,6 +21,7 @@ function CheckLoadSVG($color, $Name_Page, $name = null): void  # Method For Chan
             $change = str_replace('font-size="17px"', 'font-size="21px"', $change);
 
             $change = str_replace('font-family: balsamic' , 'font-family: lalezar', $change);
+            $change = str_replace("font-family: balsamic" , "font-family: lalezar", $change);
         }
         else if(!empty(array_diff_assoc($color['MAIN'] , $color['CUSTOM']))) {
 
