@@ -20,7 +20,7 @@ Since most friends had many problems entering the world of computers and program
 ###### Role based Roadmaps
 - [x] Frontend (completing)
 - [x] Backend (completing)
-- [ ] Devops
+- [x] Devops
 - [ ] Full Stack
 - [ ] Android
 - [ ] PostgreSQL
