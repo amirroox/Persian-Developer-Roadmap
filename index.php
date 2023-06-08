@@ -43,7 +43,7 @@
             <a href="public/Pages/DevOps/" class="cover">DevOps (توسعه عملیات)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/FullStack/" class="cover">Full Stack (سمت کاربر و سمت سرور) </a>
+            <a href="public/Pages/FullStack/">Full Stack (سمت کاربر و سمت سرور) </a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/Pages/Android/" class="cover">Android (اندروید)</a>
