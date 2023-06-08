@@ -6,7 +6,7 @@
       <Languages>
         <language minSize="34" name="HTML" />
         <language minSize="54" name="JavaScript" />
-        <language minSize="162" name="PHP" />
+        <language minSize="186" name="PHP" />
       </Languages>
     </inspection_tool>
     <inspection_tool class="HtmlUnknownAnchorTarget" enabled="false" level="WARNING" enabled_by_default="false" />
