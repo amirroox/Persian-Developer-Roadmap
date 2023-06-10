@@ -76,7 +76,7 @@ dialog::-webkit-scrollbar-thumb:hover {
 }
 
 dialog {
-    max-width: 85%;
+    width: 90%;
     max-height: 90%;
     position: fixed;
     top: 5%;
