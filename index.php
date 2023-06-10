@@ -40,10 +40,10 @@
             <a href="public/Pages/Backend/">Backend (سمت سرور)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/DevOps/" class="cover">DevOps (توسعه عملیات)</a>
+            <a href="public/Pages/FullStack/">Full Stack (سمت کاربر و سمت سرور) </a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/FullStack/">Full Stack (سمت کاربر و سمت سرور) </a>
+            <a href="public/Pages/DevOps/" class="cover">DevOps (توسعه عملیات)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/Pages/Android/" class="cover">Android (اندروید)</a>
@@ -69,13 +69,13 @@
 
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="public/Pages/JavaScript/">JavaScript</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/Pages/Vue/" class="cover">Vue</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/Pages/React/" class="cover">React</a>
-        </div>
-        <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/JavaScript/" class="cover">JavaScript</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/Pages/Python/" class="cover">Python</a>
@@ -107,10 +107,10 @@
             <a href="public/30Days/HTML/" class="cover">HTML</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/30Days/React/" class="cover">React</a>
+            <a href="public/30Days/JavaScript/">JavaScript</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/30Days/JavaScript/">JavaScript</a>
+            <a href="public/30Days/React/" class="cover">React</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/30Days/Python/" class="cover">Python</a>
