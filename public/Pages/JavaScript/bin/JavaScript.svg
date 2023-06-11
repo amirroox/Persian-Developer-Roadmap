@@ -297,7 +297,7 @@
     <g class="clickable-group" data-group-id="101-javascript-introduction:history-of-javascript">
         <rect x="186.35" y="423.35" width="235.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="226" y="450.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>تاریخچه جاوا ساکریپت</tspan>
+            <tspan>تاریخچه جاوا اسکریپت</tspan>
         </text>
         <g>
             <circle cx="185" cy="441" r="10" fill="rgb(255,255,255)"></circle>
