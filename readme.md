@@ -20,8 +20,8 @@ Since most friends had many problems entering the world of computers and program
 ###### Role based Roadmaps
 - [x] Frontend (completing)
 - [x] Backend (completing)
-- [x] Devops
-- [ ] Full Stack
+- [x] Full Stack (completing)
+- [ ] Devops
 - [ ] Android
 - [ ] PostgreSQL
 - [ ] Blockchain
@@ -34,11 +34,11 @@ Since most friends had many problems entering the world of computers and program
 - [ ] Ux Design
 
 ###### Skill based Roadmaps
+- [x] JavaScript (completing)
 - [ ] Computer Science
 - [ ] React
 - [ ] Angular
 - [ ] Vue
-- [ ] JavaScript
 - [ ] Node.js
 - [ ] TypeScript
 - [ ] Python
