@@ -198,9 +198,9 @@ $test = [$test - 1, $test + 1, $test]; // 0 -> Pre  , 1 -> Nex , 2 -> Current
                     </p>
                     <pre>
                         <code>
-                            let names = "amir , ali , hamid , zahra , yeganeh" ;
+                            let names = "amir , ali , hamid , zahra karami , yeganeh" ;
                             const arrayName = names.split(' , ')
-                            console.log(arrayName) // Print ['amir' , 'ali' , 'hamid' , 'zahra' , 'yeganeh']
+                            console.log(arrayName) // Print ['amir' , 'ali' , 'hamid' , 'zahra karami' , 'yeganeh']
 
                             let text = "I Love Computer and Programming" ;
                             const arrayText = text.split(' ');
