@@ -1,0 +1,422 @@
+<svg viewBox="17 160 1054 1271" style="font-family: balsamiq">
+    <path d="M832 973Q784.0597659637103 993.5492392588543 744 993.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M397 165Q393.38943775670685 203.13150445916227 425 221" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M533.5459059031913 1160.215037506284Q500.2219665743103 1234.5546027487915 369.511116715468 1238.448064824198" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M615 1147.5Q613.1844530160325 1230.9498965016396 615 1300.1297521840781" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M617 1080.5Q616.262503467409 1114.3983291859224 617 1142.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M791.5459059031913 1148.215037506284Q736.3843185762892 1147.0149347176575 690.6554344138702 1148.215037506284" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M538.6092309017948 1150.3465263405656Q418.5358417777044 1150.1591675630525 348.5 1050" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M336 1049Q321.36775763975135 1147.0499687269917 234 1146" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M323 1045.5Q306.769620460812 1102.968449071711 234 1102" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M352 1051.5Q326.3910112359551 1008.7998358793081 347 962.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M829 1028Q778.1731036498451 1004.8388021477194 735 1001.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M637 930.5Q636.262503467409 964.3983291859225 637 992.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <g class="clickable-group" data-group-id="100-java-logging-frameworks:log4j2">
+        <rect x="581.35" y="918.35" width="113.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="612" y="944" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Log4j2</tspan>
+        </text>
+    </g>
+    <path d="M519.5 998.5Q407.99811450606956 1020.3672774798132 370 965.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M245 1050Q264.59704852863115 977.3229719289319 316 959" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M235 1006Q262.1622269915415 959.0595631864663 307 961" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M229 952.5Q269.48903388854427 952.0133696846278 303 950" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M332 885.5Q331.262503467409 919.3983291859225 332 947.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M399 954.5Q568.5094079794594 962.328676933457 567 816.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M753 895.5Q729.2181433767914 839.7557894588718 684 805.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M758 856.5Q728.1421598219458 820.1624655535933 687 804.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M762 809.5Q722.079568589771 803.6346915862397 675 801.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M759 759.5Q723.2110521711916 798.23616672953 684 792.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M525 804.5Q459.9979118589514 804.2034839710991 383 805.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M258 815Q207.2055322219073 842.1114612589863 186.5 897.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M259 808Q208.78374970186658 817.1760449742578 181.5 854.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M267 799Q220.05473806130192 803.9388290399359 175 802.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M522 670.5Q441.69153188840767 740.4949488207839 341 801.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M403 654.5Q335.06282756047324 652.494894184134 289 613.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M405 673.5Q326.2642230077861 701.3876553639847 287 756.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M407 669.5Q335.534099325709 675.9126133098738 287 708.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M410 663.5Q337.7950344175026 663.5869358106673 271 662.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M649 600.5Q647.5012167240893 669.3901528617134 649 726.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M756 708.5Q716.4282067006769 675.0211420204024 651.5 668.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M755 617.5Q713.7962738348534 654.7343498400464 641 665" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M767.5 665Q707.7700502963085 666.0210973634024 652.5 666" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M712 548.5Q657.2259175941527 499.557089792753 609 478.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M441 475.5Q439.56111985273793 516.4941482647032 440 550.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M384 476.5Q316.92624454468535 517.8119683387613 284 569.5" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M471 293Q487.4300444700198 324.8436300699338 467 356" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M489 477Q633.1769821008272 544.8748894804725 538 654" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <path d="M708.5 415.5Q658.6644842744512 449.96923670577416 611 462" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M727 519Q660.2630724722475 483.9356900603471 607 475" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M393 466Q331.2354962001743 451.07363719386046 286 415" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M394 472Q327.9360225457389 484.68987917373784 286 516" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M399 468Q339.0675569994615 475.8862139459812 284 467" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <path d="M709.5 467.5Q641.7196715659876 471.5978354232341 587 469" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <text x="425" y="387" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="28px">
+        <tspan>جاوا</tspan>
+    </text>
+    <path d="M442 404Q428.99112142011836 437.0814977514792 461 455" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"></path>
+    <g class="clickable-group" data-group-id="100-java-fundamentals">
+        <rect x="365.35" y="448.35" width="259.3" height="40.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="406" y="474" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>اصول اولیه را یاد بگیرید</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-java-fundamentals:basic-syntax">
+        <rect x="80.35" y="403.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="143" y="429" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>سینتکس اولیه</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="101-java-fundamentals:data-types-variables">
+        <rect x="80.35" y="449.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="115" y="475" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>انواع داده ها و متغیر ها</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="105-java-fundamentals:oop">
+        <rect x="699.35" y="441.35" width="277.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="720" y="467.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>شی گرایی ، اینترفیس ها و کلاس ها</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="102-java-fundamentals:conditionals">
+        <rect x="80.35" y="495.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="170" y="521" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>شرط ها</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="104-java-fundamentals:datastructures">
+        <rect x="699.35" y="395.35" width="277.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="783" y="421" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>ساختار های داده</tspan>
+        </text>
+    </g>
+    <rect x="717.35" y="182.35" width="347.3" height="138.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="730" y="216.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+        <tspan>برای استفاده از بقیه نقشه راه ها و تجربه بیشتر</tspan>
+    </text>
+    <text x="880" y="244.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
+        <tspan>حتما حتما مارو دنبال کنید</tspan>
+    </text>
+    <g>
+        <rect x="732.35" y="263.35" width="317.3" height="42.3" rx="2" fill="rgb(65,53,214)" fill-opacity="1" stroke="rgb(65,53,214)" stroke-width="2.7"></rect>
+        <a href="https://road-map.ir" target="_blank">
+            <text x="800" y="291.5" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="20px">
+                <tspan>https://road-map.ir</tspan>
+            </text>
+        </a>
+    </g>
+    <g class="clickable-group" data-group-id="103-java-fundamentals:functions">
+        <rect x="80.35" y="540.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="175" y="566" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>توابع</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="106-java-fundamentals:packages">
+        <rect x="699.35" y="487.35" width="277.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="770" y="513.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Packages مفهوم</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="106-java-fundamentals:files-and-apis">
+        <rect x="699.35" y="533.35" width="277.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="900" y="559.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px" direction="rtl">
+            <tspan>کار با فایل ها و API ها</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="107-java-fundamentals:loops">
+        <rect x="349.35" y="522.35" width="183.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="418" y="548" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>حلقه ها</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="101-java-advanced-topics">
+        <rect x="394.35" y="645.35" width="281.3" height="40.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="478" y="672" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>عمیق تر یاد بگیرید</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="106-java-advanced-topics:how-jvm-works">
+        <rect x="750.35" y="599.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="780" y="625" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>چگونه کار میکند؟ JVM</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="107-java-advanced-topics:garbage-collection">
+        <rect x="750.35" y="645.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="789" y="671" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Garbage Collection</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="108-java-advanced-topics:basics-of-threads">
+        <rect x="750.35" y="691.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="795" y="717" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Threads مفاهیم</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="108-java-fundamentals:exception-handling">
+        <rect x="349.35" y="568.35" width="183.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="370" y="594" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>مدیریت استثناها</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="101-java-advanced-topics:memory-management">
+        <rect x="80.35" y="596.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="140" y="622" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>مدیریت حافظه</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="102-java-advanced-topics:collection-framework">
+        <rect x="80.35" y="641.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="100" y="667" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Collection Framework</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-java-advanced-topics:generics">
+        <rect x="594.35" y="586.35" width="114.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="619" y="612" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Generics</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="105-java-advanced-topics:streams">
+        <rect x="594.35" y="706.35" width="114.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="622" y="732" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Streams</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="103-java-advanced-topics:serialization">
+        <rect x="80.35" y="686.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="110" y="712" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Serialization مفهوم </tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="104-java-advanced-topics:networking-sockets">
+        <rect x="80.35" y="731.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="100" y="757" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Networking و Sockets</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="102-java-build-tools">
+        <rect x="250.35" y="785.35" width="166.3" height="40.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="295" y="812" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>ابزار ساخت</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-java-build-tools:gradle">
+        <rect x="80.35" y="784.35" width="113.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="112" y="810" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Gradle</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="101-java-build-tools:maven">
+        <rect x="80.35" y="830.35" width="113.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="112" y="856" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Maven</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="102-java-build-tools:ant">
+        <rect x="82.35" y="877.35" width="113.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="127" y="903" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Ant</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="103-java-web-frameworks">
+        <rect x="481.35" y="783.35" width="215.3" height="40.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="526" y="810" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>فریمورکهای وب</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-java-web-frameworks:spring">
+        <rect x="751.35" y="744.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="837" y="770" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Spring</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="101-java-web-frameworks:spring-boot">
+        <rect x="751.35" y="790.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="818" y="816" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Spring Boot</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="102-java-web-frameworks:play-framework">
+        <rect x="751.35" y="836.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="804" y="862.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Play Framework</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="103-java-web-frameworks:spark">
+        <rect x="751.35" y="883.35" width="219.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="840" y="909" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Spark</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="104-java-orm">
+        <rect x="290.35" y="933.35" width="126.3" height="40.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="335" y="960" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>ORM</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-java-orm:jpa">
+        <rect x="289.35" y="866.35" width="89.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="320" y="892.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>JPA</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="102-java-orm:hibernate">
+        <rect x="85.35" y="978.35" width="166.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="132" y="1004" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Hibernate</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="101-java-orm:spring-data-jpa">
+        <rect x="85.35" y="932.35" width="166.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="100" y="958.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Spring Data JPA</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="103-java-orm:ebean">
+        <rect x="85.35" y="1024.35" width="166.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="144" y="1050" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>EBean</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="105-java-logging-frameworks">
+        <rect x="512.35" y="978.35" width="236.3" height="40.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="530" y="1005" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>(Logging) فریمروک های ثبت</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="101-java-logging-frameworks:logback">
+        <rect x="582.35" y="872.35" width="113.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="608" y="898" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Logback</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="103-java-logging-frameworks:tinylog">
+        <rect x="805.35" y="1002.35" width="165.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="859" y="1028" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>TinyLog</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="106-java-jdbc">
+        <rect x="290.35" y="1024.35" width="126.3" height="40.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="332" y="1051" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>JDBC</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-java-jdbc:jdbi3">
+        <rect x="85.35" y="1084.35" width="166.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="145" y="1110" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>JDBI3</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="101-java-jdbc:jdbc-template">
+        <rect x="85.35" y="1130.35" width="166.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="112" y="1156" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>JDBC Template</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="107-testing-java-apps">
+        <rect x="512.35" y="1128.35" width="198.3" height="40.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="555" y="1154" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>تست نویسی</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="100-testing-java-apps:mocking">
+        <rect x="533" y="1063.35" width="180" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="540" y="1089" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Mocking</tspan>
+        </text>
+        <text x="637" y="1089" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Mockito</tspan>
+        </text>
+        <text x="620" y="1089" fill="rgb(0,0,0)" font-style="normal" font-weight="bold" font-size="20px">
+            <tspan>&gt;</tspan>
+        </text>
+    </g>
+    <rect x="769.35" y="1063.35" width="220" height="170" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="800" y="1088" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>Behavior Testing</tspan>
+    </text>
+    <text x="850" y="1215" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>تست رفتار</tspan>
+    </text><g class="clickable-group" data-group-id="101-testing-java-apps:cucumber-jvm">
+    <rect x="785" y="1100.35" width="190" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="807" y="1126" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>Cucumber-JVM</tspan>
+    </text>
+</g>
+    <g class="clickable-group" data-group-id="102-testing-java-apps:cukes">
+        <rect x="785" y="1146.35" width="85" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="800" y="1172" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>Cukes</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="103-testing-java-apps:jbehave">
+        <rect x="880" y="1146.35" width="95" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="900" y="1172" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>JBehave</tspan>
+        </text>
+    </g>
+    <rect x="250.35" y="1199.35" width="170" height="160" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="255" y="1225" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>Integration Testing</tspan>
+    </text>
+    <text x="265" y="1345" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>تست یکپارچه سازی</tspan>
+    </text><g class="clickable-group" data-group-id="106-testing-java-apps:rest-assured">
+    <rect x="260.35" y="1236.35" width="145.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="288" y="1262" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>REST Assured</tspan>
+    </text>
+</g>
+    <g class="clickable-group" data-group-id="107-testing-java-apps:jmeter">
+        <rect x="260.35" y="1282.35" width="145.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="307" y="1308" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>JMeter</tspan>
+        </text>
+    </g>
+    <rect x="100.35" y="1199.35" width="151.3" height="160" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="130" y="1224" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>Unit Testing</tspan>
+    </text>
+    <text x="145" y="1345" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>تست واحد</tspan>
+    </text><g class="clickable-group" data-group-id="104-testing-java-apps:junit">
+    <rect x="114.35" y="1235.35" width="122.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="156" y="1261" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+        <tspan>JUnit</tspan>
+    </text>
+</g>
+    <g class="clickable-group" data-group-id="105-testing-java-apps:testng">
+        <rect x="114.35" y="1281.35" width="122.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="148" y="1307" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>TestNG</tspan>
+        </text>
+    </g>
+    <path d="M742.5 1327.5Q742.5 1378.7777777777778 742.5 1425" fill="none" stroke="rgb(254,0,38)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+    <g class="clickable-group" data-group-id="ext_link:SpringBoot">
+        <rect x="511.35" y="1274.35" width="465.3" height="81.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="540" y="1310.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>در ادامه میتونید یک فریمورک برای خودتون انتخاب کنید</tspan>
+        </text>
+        <text x="667" y="1335" fill="rgb(254,0,38)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>پیشنهاد ما اسپرینگه</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="ext_link:Backend">
+        <rect x="23.35" y="214.35" width="554.3" height="87.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="109" y="253.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>نقشه راه برنامه نویس سمت سرور برای انتخاب زبان</tspan>
+        </text>
+        <text x="224" y="279" fill="rgb(254,0,38)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>BackEnd</tspan>
+        </text>
+    </g>
+    <g class="clickable-group" data-group-id="102-java-logging-frameworks:slf4j">
+        <rect x="807.35" y="955.35" width="163.3" height="39.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+        <text x="865" y="981" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
+            <tspan>SLF4J</tspan>
+        </text>
+    </g>
+</svg>

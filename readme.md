@@ -35,6 +35,7 @@ Since most friends had many problems entering the world of computers and program
 
 ###### Skill based Roadmaps
 - [x] JavaScript (completing)
+- [x] Java (completing)
 - [ ] Computer Science
 - [ ] React
 - [ ] Angular
@@ -43,7 +44,6 @@ Since most friends had many problems entering the world of computers and program
 - [ ] TypeScript
 - [ ] Python
 - [ ] System Design
-- [ ] Java
 - [ ] Go
 - [ ] Docker
 

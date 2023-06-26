@@ -69,7 +69,10 @@
 
     <div id="role" class="row container">
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/JavaScript/">JavaScript</a>
+            <a href="public/Pages/JavaScript/">JavaScript (جاوا اسکریپت)</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="public/Pages/Java/">Java (جاوا)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/Pages/Vue/" class="cover">Vue</a>
@@ -79,9 +82,6 @@
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/Pages/Python/" class="cover">Python</a>
-        </div>
-        <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/Java/" class="cover">Java</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/Pages/Nodejs/" class="cover">Node.js</a>
