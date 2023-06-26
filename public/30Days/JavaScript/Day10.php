@@ -296,7 +296,6 @@ $test = [$test - 1, $test + 1, $test]; // 0 -> Pre  , 1 -> Nex , 2 -> Current
                             let b = [3, 4, 5, 6]
                             // فعلا دوتا آرایه تعریف کردیم
 
-                            let A = new Set(a)
                             let B = new Set(b)
                             // حالا هرکدوم رو تبدیل به سِت میکنیم
 
@@ -313,16 +312,239 @@ $test = [$test - 1, $test + 1, $test]; // 0 -> Pre  , 1 -> Nex , 2 -> Current
                     </pre>
                 </div>
             <h2 id="difference-of-sets">تفاوت بین ست ها (Difference of sets)</h2>
+                <div>
+                    <p>
+                        حالا اگه بخوایم تفاوت بین دوتا آرایه رو بدست بیاریم فقط یه تغییر کوچولو به کد بالمون میدیم (برای پیدا کردن تفاوت دو تا آرایه باید چک کنیم کدوم عضو از آرایه اول توی آرایه دوم نیست!)
+                    </p>
+                    <pre>
+                        <code>
+                            let a = [1, 2, 3, 4, 5]
+                            let b = [3, 4, 5, 6]
+                            // فعلا دوتا آرایه تعریف کردیم
+
+                            let B = new Set(b)
+                            // حالا هرکدوم رو تبدیل به سِت میکنیم
+
+                            let c = a.filter((num) => !B.has(num))
+                            /*
+                             برای اینکه بتونیم تفاوت دوتا آرایه رو بدست بیاریم باید یه آرایه رو با اون یکی مقایسه کنیم
+                             پس از فیلتر استفاده میکنیم تا اعضای آرایه رو با دومین آرایه که تبدیل به سِت شده مقایسه کنیم
+                            و اگر وجود نداشت اونو داخل یه آرایه دیگه میریزیم و در آخر تبدیل به سِت میکنیم
+                            */
+                            let C = new Set(c)
+
+                            console.log(C)  // Print : Set(3) {1, 2}
+                        </code>
+                    </pre>
+                </div>
         <h1 id="map">آبجکت Map</h1>
+            <div>
+                <p>
+                    حالا که در مورد Set اطلاعات کافی پیدا کردیم بیاین در مورد Map صحبت کنیم و ببینیم این چیه؟!
+                    این ساختار هم یه نوع ساختار جدیده که دارای Key و Value عه دقیقا یه ساختار شبیه به آبجکت ها داره ولی یه سودی نسبت به اون برای ما
+                    ایجاد میکنه که این زیر میخوایم بررسی کنیم :
+                </p>
+                <pre>
+                    <code>
+                        // این روش توی آبجکته
+                        const myObj = {}
+                        const obj1 = {}
+                        const obj2 = {}
+
+                        myObj[obj1] = 'a'
+                        myObj[obj2] = 'b'
+
+                        console.log(myObj) // Print : {[object Object]: 'b'}
+                        /*
+                        ما انتظار داشتیم هر دوتا آبجکت جدیدمون رو بتونیم به آبجکت اولیه اضافه کنیم
+                        ینی میخواستیم آبجکت زیر رو بسازیم
+                        {obj1:'a' , obj2:'b'}
+                        اما نتونستیم همچین چیزی رو بسازیم ، چون توی آبجکت ها فقط آخرین
+                        key Object
+                        هارو میشه وارد کرد و قبلیا از بین میرن
+                        */
+                        // توجه کنید که اینجا میخواستیم دوتا آبجکت رو داخل یه آبجکت قرار بدیم ، یعنی این مشکل برای آبجکت های چند بعدیه
+                    </code>
+                </pre>
+                <b>
+                    اما توی ساختار Map ما همچین مشکلی نداریم و میتونیم پشت هم Key Value اضافه کنیم. پس به طور کلی با Map میتونیم چندین Object رو به عنوان Key ذخیره کنیم
+                    کاری که توی خود آبجکت ها نمیشه انجام داد!
+                </b>
+            </div>
             <h2 id="creating-an-empty-map">ایجاد یک Map خالی</h2>
+                <div>
+                    <p>
+                        حالا برسیم ببینیم چجوری میتونیم یه Map خالی برای دست گرمی ایجاد کنیم تا بعدا بریم سراغ چیزای دیگه!
+                    </p>
+                    <pre>
+                        <code>
+                            const map = new Map()
+                            console.log(map) // Print : Map(0) {}
+                            // به همین راحتی ، مث آب خوردن یه مَپ ساختیم
+                        </code>
+                    </pre>
+                </div>
             <h2 id="creating-an-map-from-array">ایجاد یک آرایه کلید دار با Map</h2>
+                <div>
+                    <p>
+                        حالا بیاید این Map ون رو پرش کنیم تا نحوه ایجادش یاد بگیریمممم!
+                    </p>
+                    <pre>
+                        <code>
+                            countries = [
+                                ['Finland', 'Helsinki'],
+                                ['Sweden', 'Stockholm'],
+                                ['Norway', 'Oslo'],
+                                ['Iran', 'Tehran']
+                            ]
+                            // بالا یه متغیر جهانی ایجاد کردیم ، حواستون باشه
+
+                            const map = new Map(countries)
+                            // به همین راحتی آرایه مون رو به یه مَپ تبدیل کردیم
+                            console.log(map)
+                            /*
+                            Map(3) {"Finland" => "Helsinki", "Sweden" => "Stockholm", "Norway" => "Oslo", "Iran" => "Tehran"}
+                            */
+                            console.log(map.size) // Print : 3
+                        </code>
+                    </pre>
+                    <p>
+                        توجه کنید که توی مثال بالا ما یه آرایه 2 بعدی ایجاد کردیم که هر عضوش دارای دوتا خونه است ، اولی کلید (Key) حساب میشه و دومی
+                        مقدار (Value) و حتما تست کنید اگه آرایه دوبعدیتون 3 تا عضو داشت چی میشد!!!
+                    </p>
+                    <pre>
+                        <code>
+                            //حالا همون مثال آبجکت رو با مَپ مینزیم
+                            const obj1 = {};
+                            const obj2 = {};
+
+                            const myMap = new Map([ [ obj1, 'a'], [obj2, 'b'] ]);
+                            console.log(myMap); // Map { {} => 'a', {} => 'b' }
+                            // حالا همونی که میخواستیم شد
+
+                            // ایندفعه به جای تبدیل مستقیم آرایه 2 بعدی به مَپ از روش کیلد و مقدار استفاده کردیم
+                            // این روشو میتونید این پایین ببینید چطوریاس
+                            const yourMap = new Map([ [key,value] , ... , [key,value] ])
+                            // به همین راحتی داخل براکت ، دوباره براکت باز میکنید و کلید و مقدار رو بهش میدید
+                        </code>
+                    </pre>
+                </div>
             <h2 id="adding-values-to-the-map">اضافه کردن عضو در Map</h2>
+                <div>
+                    <p>
+                        حالا که اصول اولیه رو یاد گرفتیم بریم با چنتا از متود های این ساختار هم آشنا بشیم! اولین متود ، برای اضافه کردن عضو استفاده میشه
+                        و خیلی هم راحتهه استفادش!
+                    </p>
+                    <pre>
+                        <code>
+                            const person = new Map();
+                            console.log(person.size) // Print : 0
+                            person.set('amir','roox')
+                            person.set('zahra','karami')
+                            person.set('sepideh','akbari')
+                            console.log(person.size) // Print : 3
+
+                            // توی این تابع اولین پارامتر کلید و دومین پارامتر مقداره
+                        </code>
+                    </pre>
+                </div>
             <h2 id="getting-a-value-from-map">گرفتن یک مقدار در Map</h2>
+                <div>
+                    <p>
+                        برای گرفتن مقادیر Map هم از تابع get استفاده میکنیم و اگر کلید مرتبط وجود داشت ، مقدار برمیگرده :
+                    </p>
+                    <pre>
+                        <code>
+                        const myArray = [
+                            ['amir','roox'],
+                            ['zahra','karami'],
+                            ['sepideh','akbari']
+                        ]
+                        const myMap = new Map(myArray)
+
+                        console.log(myMap.get('amir')) // Print : 'roox'
+                        console.log(myMap.get('ali')) // Print : undefined
+                        </code>
+                    </pre>
+                </div>
             <h2 id="checking-key-in-map">بررسی وجود کلید در Map</h2>
-        <h1 id="exercises"></h1>
+                <div>
+                    <p>
+                        برای چک کردن اینکه یک کلید در Map موجود هست یا نه هم از تابع has استفاده میکنیم :
+                    </p>
+                    <pre>
+                        <code>
+                        const myArray = [
+                            ['amir','roox'],
+                            ['zahra','karami'],
+                            ['sepideh','akbari']
+                        ]
+                        const myMap = new Map(myArray)
+
+                        console.log(myMap.has('amir')) // Print : true
+                        console.log(myMap.has('ali')) // Print : false
+                        </code>
+                    </pre>
+                    <b>
+                        امروزم بلخره تموم شد و یه چیزایی جدید باهم یاد گرفتیم که کمتر بررسی میشن اما کاربردی هستن. حتما حتما امروز رو خوب تمرین کنید تا
+                        جلوتر به مشکل نخورید!
+                    </b>
+                </div>
+        <h1 id="exercises">تمرینات</h1>
             <h2 id="exerciseslevel-1">تمرینات:سطح 1</h2>
+                <div>
+                    <ol>
+                        <li>یه ساختار Set خالی ایجاد کنید و عشق کنید.</li>
+                        <li>با استفاده از حلقه اعداد 0 تا 10 رو توش قرار بدید.</li>
+                        <li>همه اعضارو پاک کنید (یکم کِرم داریم ، با استفاده از حلقه و تابع delete)</li>
+                        <li>دوباره چنتا عضو اضافه کنید و ایندفعه با تابع clear اعضا رو پاک کنید.</li>
+                        <li>یه Map ایجاد کنید و هر کلید رو یه شاعر و مقدارش رو برابر با کتابش قرار بدید.</li>
+                    </ol>
+                </div>
             <h2 id="exerciseslevel-2">تمرینات:سطح 2</h2>
+                <div>
+                    <ol>
+                        <li>دوتا Set عددی ایجاد کنید.</li>
+                        <li>بدون اینکه از بالا کمک بگیرید اشتراک ، اجتماع و تفاوتشون رو پیدا کنید.</li>
+                    </ol>
+                </div>
             <h2 id="exerciseslevel-3">تمرینات:سطح 3</h2>
+                <div>
+                    <ol>
+                        <li>
+                            کد زیر رو در نظر بگیرید :
+                            <pre>
+                                <code>
+                                    [
+                                        { English: 91 },
+                                        { French: 45 },
+                                        { Arabic: 25 },
+                                        { Spanish: 24 },
+                                        { Russian: 9 },
+                                        { Portuguese: 9 },
+                                        { Dutch: 8 },
+                                        { German: 7 },
+                                        { Chinese: 5 },
+                                        { Swahili: 4 },
+                                        { Serbian: 4 }
+                                    ]
+                                </code>
+                            </pre>
+                        </li>
+                        <li>ساختار map با این کلید و مقادیر بسازید.</li>
+                        <li>یه تابع بسازید که پارامتر اول یه Map و پارامتر دوم یه کلید بگیره و در آخر اگه اون کلید وجود داشت ، مقدار رو برگردونه (کاری مشابه با تابع get)
+                            <pre>
+                                <code>
+                                    // تابع به صورت زیر باید باشه
+                                    function myFunction(Map , Key) { ... }
+
+                                    myFunction(myMap , 'Amir') // available : 'example'
+                                    myFunction(myMap , 'Ali') // Not available :  False
+                                </code>
+                            </pre>
+                        </li>
+                    </ol>
+                </div>
 </article>
 <!-- End Article -->
 
