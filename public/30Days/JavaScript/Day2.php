@@ -51,7 +51,7 @@ $test = [$test-1 , $test+1 , $test]; // 0 -> Pre  , 1 -> Nex , 2 -> Current
     <section class="between">
         <hr class="between">
         <h2><a href="<?= MAIN_SITE ?>" target="_blank">Subscribe</a></h2>
-        <h2><?= $Name_File ?></h2>
+        <h2><a href="index.php"><?= $Name_File ?></a></h2>
         <h2>Day <?= $test[2] ?></h2>
     </section>
 </section>
@@ -1377,7 +1377,8 @@ $test = [$test-1 , $test+1 , $test]; // 0 -> Pre  , 1 -> Nex , 2 -> Current
 
 <!-- Up Button -->
 <?php include MAIN_DIR . 'public/Main/Top_Button.php'?>
-
+<!-- Down Button -->
+<?php include MAIN_DIR . 'public/Main/To_Button.php'?>
 <!-- Community -->
 <?php require MAIN_DIR . "public/Main/Community.php" ?>
 <!-- End Community -->
@@ -1401,10 +1402,8 @@ $test = [$test-1 , $test+1 , $test]; // 0 -> Pre  , 1 -> Nex , 2 -> Current
 <!-- File Need It -->
 <script src="assets/FileNeedIt.js"></script>
 
-<script>
-    scroll_down('.list30days li a' , 600);
-    scroll_down('#top_button' , 1000 , '#Head-Sec');
-</script>
+<!-- Scroll Function -->
+<script src="assets/script.js"></script>
 <!-- END MAIN SCRIPT-->
 </body>
 </html>

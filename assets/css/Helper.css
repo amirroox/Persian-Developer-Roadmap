@@ -94,3 +94,9 @@ section.Community a:hover {
     bottom: 1.5%;
     right : 7%;
 }
+/* Bottom Button */
+#to_button {
+    position: fixed;
+    bottom: 1.5%;
+    left : 7%;
+}
