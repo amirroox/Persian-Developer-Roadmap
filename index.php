@@ -176,6 +176,11 @@
 
 <!-- Script Helper -->
 <script src="<?= MAIN_SERVER . 'assets/js/Helper.js'?>"></script>
+<script src="<?= MAIN_SERVER . 'assets/vendor/popup-js@1.4.0_popup.min.js'?>"></script>
+<?php
+//echo 'REQUEST_URI '.($_SERVER['REQUEST_URI']) . '<hr>';
+//echo 'HTTP_REFERER '.($_SERVER['HTTP_REFERER']);
+//?>
 <script>
     scroll_down('#Guide-Btn-Down , #Guide-Btn-Up' , 1000 , "#Guide");
     let cover_pointer = document.querySelectorAll(".cover");
@@ -197,6 +202,31 @@
             }
         });
     });
+
+    /* PopUp For Beginner (Just Direct Main) */
+    <?php if (!isset($_SERVER['HTTP_REFERER']) and ($_SERVER['REQUEST_URI']=="/")) : ?>
+    let colorMain = "rgb(20, 15, 42)";
+    const myPopup = new Popup({
+        id: "my-popup-Begin",
+        title: "هنوز تکمیل نیستیم :(",
+        content: `
+        متاسفانه خیلی سرمون شلوغه و نمیتونیم خیلی سریع به سایت و محتوا
+         برسیم ، اما تمام سعیمونو میکنیم که با قدرت بیشتر ، همه چیز
+         رو تکمیل کنیم. از همراهی شما ممنونیم :)
+        `,
+        titleColor: '#000',
+        textColor: colorMain,
+        closeColor: colorMain,
+        borderColor: colorMain,
+        linkColor: colorMain,
+        backgroundColor: "#fb4e6d" ,
+        fadeTime: ".5s" ,
+    });
+    setTimeout(
+        () => {myPopup.show();}
+        ,500);
+    myPopup.show();
+    <?php endif; ?>
 </script>
 </body>
 </html>
