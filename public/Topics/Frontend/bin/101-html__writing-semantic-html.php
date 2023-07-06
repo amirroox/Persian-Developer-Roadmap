@@ -21,10 +21,31 @@
         <ul class="col-xs-12 col-md-6 links-reference right-link">
             <h4>منابع فارسی</h4>
             <li>
-                <a href="#">
-                    منابع فارسی 1
+                <a href="https://www.roxo.ir/html5-semantic#:~:text=HTML%20%D9%85%D8%B9%D9%86%D8%A7%2D%D9%85%D8%AD%D9%88%D8%B1%20(HTML5%20Semantic,%D8%AF%D8%B1%20%D9%85%D8%B1%DA%A9%D8%B2%20%D8%AA%D9%88%D8%AC%D9%87%20%D9%82%D8%B1%D8%A7%D8%B1%20%DA%AF%D8%B1%D9%81%D8%AA.">
+                    HTML5 Semantic یا HTML معنا-محور چیست؟
                 </a>
             </li>
+            <li>
+                <a href="https://webgoo.ir/166/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D9%85%D9%81%D9%87%D9%88%D9%85-semantic-%D8%AF%D8%B1-html">
+                    آشنایی با مفهوم Semantic در HTML
+                </a>
+            </li>
+            <li>
+                <a href="https://roocket.ir/articles/what-are-semantic-html-tags">
+                    HTML معنادار چیست و چگونه از آن استفاده کنیم؟
+                </a>
+            </li>
+            <li>
+                <a href="https://www.roxo.ir/html5-semantic-elements">
+                    عناصر معنایی (Semantic) در HTML5
+                </a>
+            </li>
+            <li>
+                <a href="https://free-learn.ir/%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D9%85%D8%B9%D9%86%D8%A7%DB%8C%DB%8C-%DB%8C%D8%A7-semantic-elements-%D8%AF%D8%B1-html/">
+                    عناصر معنایی یا Semantic Elements در HTML
+                </a>
+            </li>
+
         </ul>
 
 
@@ -51,16 +72,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://static.semrush.com/blog/uploads/media/cc/85/cc85d452a743e27f68d426df35e4da7d/original.png"
+                     class="img-responsive" alt="Semantic HTML">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://dotnettutorials.net/wp-content/uploads/2021/12/word-image-167.png"
+                     class="img-responsive" alt="Semantic HTML">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://www.scaler.com/topics/images/semantic-tags-in-html_thumbnail.webp" class="img-responsive"
+                     alt="Semantic HTML">
             </swiper-slide>
         </swiper-container>
     </div>

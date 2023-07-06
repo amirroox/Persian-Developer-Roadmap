@@ -140,7 +140,7 @@ $Name_Page = basename(__DIR__);
             }
         })
     });
-    $("#Data_Content button").on('click', function () {
+    $("#Data_Content button , #Overlay-dark").on('click', function () {
         $('#Data_Content').fadeOut();
         $('#Overlay-dark').fadeOut();
     });

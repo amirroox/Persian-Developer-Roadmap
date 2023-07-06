@@ -18,10 +18,16 @@
         <ul class="col-xs-12 col-md-6 links-reference right-link">
             <h4>منابع فارسی</h4>
             <li>
-                <a href="#">
-                    منابع فارسی 1
+                <a href="https://nabfollower.com/blog/rust-tauri-inspired-by-electron-13-getting-started-to-build-apps-582/">
+                    Rust Tauri (الهام گرفته از Electron)
                 </a>
             </li>
+            <li>
+                <a href="https://codingcogs.org/free-courses/js-mania-tauri">
+                    جی اس مانیا: توسعه ی اپ موبایل و دسکتاپ با تائوری
+                </a>
+            </li>
+
         </ul>
 
 
@@ -40,16 +46,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://tauri.app/assets/images/header-35662a534ae509ca079ac165b1ed28fc.png"
+                     class="img-responsive" alt="Tauri">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://cdn.thenewstack.io/media/2022/07/7036ae6f-tauri-e1659645529238.png"
+                     class="img-responsive" alt="Tauri">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://blog.spyglass.fyi/images/2023/launcher-new-start.png" class="img-responsive"
+                     alt="Tauri">
             </swiper-slide>
         </swiper-container>
     </div>

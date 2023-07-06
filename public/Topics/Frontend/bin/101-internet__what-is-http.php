@@ -20,10 +20,26 @@
         <ul class="col-xs-12 col-md-6 links-reference right-link">
             <h4>منابع فارسی</h4>
             <li>
-                <a href="#">
-                    منابع فارسی 1
+                <a href="https://7learn.com/blog/http">
+                    پروتکل HTTP چیست؟
                 </a>
             </li>
+            <li>
+                <a href="https://blog.faradars.org/%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D9%84-http/">
+                    پروتکل HTTP چیست؟ — به زبان ساده
+                </a>
+            </li>
+            <li>
+                <a href="https://www.mongard.ir/one_part/175/what-http/">
+                    پروتکل http چیست؟
+                </a>
+            </li>
+            <li>
+                <a href="https://www.konkurcomputer.ir/what-is-http.html">
+                    HTTP چگونه کار می کند؟
+                </a>
+            </li>
+
         </ul>
 
 
@@ -49,16 +65,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Internet1.svg/2000px-Internet1.svg.png"
+                     class="img-responsive" alt="HTTP">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230521175108/ImageOfHTTPRequestResponse-1024x580-660.webp"
+                     class="img-responsive" alt="HTTP">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/12/how-http-works.png" class="img-responsive"
+                     alt="HTTP">
             </swiper-slide>
         </swiper-container>
     </div>

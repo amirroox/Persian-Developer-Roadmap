@@ -1,6 +1,6 @@
 <?php include "../Constants.php" ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fa">
 <head>
     <?php include MAIN_DIR . "public/Main/meta-main.php" ?>
     <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/css/FullStyle.css' ?>">  <!-- Style Main seed -->

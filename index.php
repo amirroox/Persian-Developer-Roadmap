@@ -28,6 +28,17 @@
         <h1>Developer Roadmap</h1>
         <p>نقشه راه شما آماده است</p>
     </div>
+
+    <section class="between">
+        <hr class="between">
+        <h2>یادگیری لینوکس</h2>
+    </section>
+    <div id="role" class="row container">
+        <div class="col-xs-12 col-s-12">
+            <a style="background-color: rgb(0 23 67)" href="https://linuxlearning.ro-ox.com" target="_blank">Linux Learning</a>
+        </div>
+    </div>
+
     <section class="between">
         <hr class="between">
         <h2>نقشه راه بر اساس نقش</h2>
@@ -204,7 +215,7 @@
     });
 
     /* PopUp For Beginner (Just Direct Main) */
-    <?php if (!isset($_SERVER['HTTP_REFERER']) and ($_SERVER['REQUEST_URI']=="/")) : ?>
+    <?php if (empty($_SERVER['HTTP_REFERER']) and ($_SERVER['REQUEST_URI']=="/")) : ?>
     let colorMain = "rgb(20, 15, 42)";
     const myPopup = new Popup({
         id: "my-popup-Begin",

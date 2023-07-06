@@ -19,10 +19,36 @@
         <ul class="col-xs-12 col-md-6 links-reference right-link">
             <h4>منابع فارسی</h4>
             <li>
-                <a href="#">
-                    منابع فارسی 1
+                <a href="https://fing.ir/blog/yarn-%DA%86%DB%8C%D8%B3%D8%AA%D8%9F">
+                    yarn چیست؟
                 </a>
             </li>
+            <li>
+                <a href="https://www.roxo.ir/npm-vs-yarn">
+                    Yarn چیست و آیا از npm بهتر است؟
+                </a>
+            </li>
+            <li>
+                <a href="https://www.roxo.ir/npm-vs-yarn">
+                    آشنایی با Yarn
+                </a>
+            </li>
+            <li>
+                <a href="https://danup.ir/courses/yarn-package-manager-training/">
+                    آموزش پکیج منیجر Yarn (پولی)
+                </a>
+            </li>
+            <li>
+                <a href="https://khoshamoz.ir/index.php/post12650">
+                    نحوه نصب Yarn در ویندوز
+                </a>
+            </li>
+            <li>
+                <a href="https://codefriend.ir/courses/%D8%AF%D9%88%D8%B1%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-yarn-%D9%BE%DA%A9%DB%8C%D8%AC-%D9%85%D9%86%DB%8C%D8%AC%D8%B1/">
+                    دوره آموزش Yarn (پولی)
+                </a>
+            </li>
+
         </ul>
 
 
@@ -42,16 +68,16 @@
     <div class="row" id="image-slide">
         <swiper-container loop="true" pagination="true" scrollbar="true">
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png"
+                     class="img-responsive" alt="yarn">
             </swiper-slide>
             <swiper-slide>
-                <img src="#"
-                     class="img-responsive" alt="Prettier">
+                <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_cLLJEcf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g5w52z4592cw11wm3jdz.png"
+                     class="img-responsive" alt="yarn">
             </swiper-slide>
             <swiper-slide>
-                <img src="#" class="img-responsive"
-                     alt="Prettier">
+                <img src="https://cdn-media-1.freecodecamp.org/images/1*t_kMxpLVVL3_hgcDM6cgeQ.gif" class="img-responsive"
+                     alt="yarn">
             </swiper-slide>
         </swiper-container>
     </div>

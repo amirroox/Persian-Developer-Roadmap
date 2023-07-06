@@ -17,9 +17,9 @@
         <ul class="col-xs-12 col-md-6 links-reference right-link">
             <h4>منابع فارسی</h4>
             <li>
-                <p>
-                    منابع مناسبی در وب فارس پیدا نکردیم :(
-                </p>
+                <a href="https://lwvworc.org/why-do-we-need-module-bundler">
+                    چرا به ماژول باندلر نیاز داریم؟
+                </a>
             </li>
         </ul>
 
