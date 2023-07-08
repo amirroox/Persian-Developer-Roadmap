@@ -91,7 +91,7 @@
         <circle cx="1692" cy="3824" r="10" fill="rgb(254,0,38)"></circle>
         <path d="M1686.5 3824L1690.5 3828 1697 3821.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
         <text x="1490" y="3914.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>که میتوانند به اشکال زدایی</tspan>
+            <tspan>که می‌توانند به اشکال زدایی</tspan>
         </text>
     </g>
     <path d="M931 3508.5Q833.341030276678 3507.8080711026764 769 3508.5" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
@@ -104,7 +104,7 @@
     <g class="clickable-group" data-group-id="100-architectural-patterns:monolithic-apps">
         <rect x="1460.35" y="2878.35" width="240.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1519" y="2903" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>برنامه های یکپارچه</tspan>
+            <tspan>برنامه‌های یکپارچه</tspan>
         </text>
         <circle cx="1698" cy="2895" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1698" cy="2895" r="10" fill="rgb(254,0,38)"></circle>
@@ -113,7 +113,7 @@
     <g class="clickable-group" data-group-id="101-architectural-patterns:microservices">
         <rect x="1460.35" y="2924.35" width="241.3" height="34.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1525" y="2947.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>میکروسرویس ها</tspan>
+            <tspan>میکروسرویس‌ها</tspan>
         </text>
         <circle cx="1698" cy="2940" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1698" cy="2940" r="10" fill="rgb(254,0,38)"></circle>
@@ -145,7 +145,7 @@
     <g class="clickable-group" data-group-id="122-web-servers">
         <rect x="931.35" y="3474.35" width="194.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="980" y="3505" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>وب سرور ها</tspan>
+            <tspan>وب سرورها</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-web-servers:nginx">
@@ -462,7 +462,7 @@
     <g class="clickable-group" data-group-id="101-scaling-databases:data-replication">
         <rect x="1523.35" y="2068.35" width="204.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1564" y="2092.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>تکرار داده ها</tspan>
+            <tspan>تکرار داده‌ها</tspan>
         </text>
         <circle cx="1723" cy="2085" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1723" cy="2085" r="10" fill="rgb(153,153,153)"></circle>
@@ -578,7 +578,7 @@
         </text>
     </g>
     <text x="1508" y="2609" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-        <tspan>الگوریتم های هشینگ</tspan>
+        <tspan>الگوریتم‌های هشینگ</tspan>
     </text>
     <g class="clickable-group" data-group-id="100-apis:authentication:cookie-based">
         <rect x="680.35" y="2320.35" width="178.3" height="29.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
@@ -630,7 +630,7 @@
     <path d="M1181.1355873564 674.8731736257455Q1182.8031366607893 709.4186932053838 1211.0885073817608 746.4180672042344" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
     <rect x="1448.35" y="643.35" width="347.3" height="138.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
     <text x="1460" y="677.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-        <tspan>اگر دنبال منابع و نقشه راه های بیشتر میگردید</tspan>
+        <tspan>اگر دنبال منابع و نقشه راه‌های بیشتر می‌گردید</tspan>
     </text>
     <text x="1595" y="705.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
         <tspan>حتما لینک زیر را دنبال کنید</tspan>
@@ -651,7 +651,7 @@
         <tspan>توصیه شده</tspan>
     </text>
     <text x="694" y="764" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
-        <tspan>توضیه نمیکنیم وقت بزارید برای یادگیری</tspan>
+        <tspan>توضیه نمی‌کنیم وقت بذارید برای یادگیری</tspan>
     </text>
     <circle cx="668" cy="760" r="10" fill="rgb(153,153,153)"></circle>
     <text x="695" y="732" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
@@ -763,7 +763,7 @@
     <g class="clickable-group" data-group-id="100-internet:how-does-the-internet-work">
         <rect x="695.35" y="857.35" width="296.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="750" y="883.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>اینترنت چگونه کار میکند</tspan>
+            <tspan>اینترنت چگونه کار می‌کند؟</tspan>
         </text>
         <circle cx="697" cy="875" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="697" cy="875" r="10" fill="rgb(254,0,38)"></circle>
@@ -781,7 +781,7 @@
     <g class="clickable-group" data-group-id="102-internet:browsers-and-how-they-work">
         <rect x="695.35" y="951.35" width="296.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="728" y="976.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>مرورگر ها چگونه کار میکنند ؟ </tspan>
+            <tspan>مرورگرها چگونه کار می‌کنند ؟ </tspan>
         </text>
         <circle cx="696" cy="966" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="696" cy="966" r="10" fill="rgb(254,0,38)"></circle>
@@ -790,7 +790,7 @@
     <g class="clickable-group" data-group-id="103-internet:dns-and-how-it-works">
         <rect x="1484.35" y="856.35" width="277.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1730" y="882" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
-            <tspan>DNS چیست و چگونه کار میکند ؟</tspan>
+            <tspan>DNS چیست و چگونه کار می‌کند ؟</tspan>
         </text>
         <circle cx="1759" cy="856" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1759" cy="856" r="10" fill="rgb(254,0,38)"></circle>
@@ -799,7 +799,7 @@
     <g class="clickable-group" data-group-id="104-internet:what-is-domain-name">
         <rect x="1483.35" y="902.35" width="277.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1550" y="928" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>دامین چیست ؟</tspan>
+            <tspan>دامنه چیست ؟</tspan>
         </text>
         <circle cx="1758" cy="906" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1758" cy="906" r="10" fill="rgb(254,0,38)"></circle>
@@ -886,7 +886,7 @@
     <g class="clickable-group" data-group-id="103-os-general-knowledge:threads-and-concurrency">
         <rect x="1431.35" y="1851.35" width="266.3" height="40.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1464" y="1877.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>موضوعات(رشته ها) و همزمانی</tspan>
+            <tspan>موضوعات(رشته‌ها) و همزمانی</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="101-os-general-knowledge:how-oss-work-in-general">
@@ -916,7 +916,7 @@
     <g class="clickable-group" data-group-id="105-repo-hosting-services">
         <rect x="1186.35" y="1159.35" width="283.3" height="47.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1200" y="1188.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>سرویس های آنلاین استفاده از گیت</tspan>
+            <tspan>سرویس‌های آنلاین استفاده از گیت</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="104-version-control-systems">
@@ -1484,7 +1484,7 @@
     <g class="clickable-group" data-group-id="ext_link:Best-Practices:api-security">
         <rect x="1469.35" y="2789.35" width="239.3" height="44.3" rx="2" fill="rgb(65,53,214)" fill-opacity="1" stroke="rgb(65,53,214)" stroke-width="2.7"></rect>
         <text x="1690" y="2818" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px" direction="rtl">
-            <tspan>بهترین روش های امنیتی API</tspan>
+            <tspan>بهترین روش‌های امنیتی API</tspan>
         </text>
     </g>
 </svg>
