@@ -23,13 +23,13 @@ $Name_Page = basename(__DIR__);
 <section class="container subject">
     <h1> موضوعات بک اند <?= "($Name_Page Topic)" ?> </h1>
     <p>
-        موضوعاتی که در مورد بک اند (توسعه دهنده سمت سرور) نیاز دارید و در نقشه راه ها
-        آورده شده است و میخواهید به صورت جدا آن ها را مشاهده و مطالعه کنید.
+        موضوعاتی که در مورد بک اند (توسعه دهنده سمت سرور) نیاز دارید و در نقشه راه‌ها
+        آورده شده است و می‌خواهید به صورت جدا آن‌ها را مشاهده و مطالعه کنید.
     </p>
     <br>
     <div class="row options">
         <div class="col-xs-12 col-s-12 col-l-6">
-            <a href="<?= MAIN_SERVER ?>">تمامی نقشه راه ها</a>
+            <a href="<?= MAIN_SERVER ?>">تمامی نقشه راه‌ها</a>
         </div>
         <div class="col-xs-12 col-s-12 col-l-6" style="text-align: left">
             <a href='<?= MAIN_GITHUB . "/issues/new?title=[Suggestion] $Name_Page Developer" ?>' target="_blank">پیشنهاد
@@ -46,7 +46,7 @@ $Name_Page = basename(__DIR__);
         <hr class="between">
         <form id="search_topic">
             <label>
-                <input id="search_input" type="text" onkeyup="showResult(this.value)" placeholder="دنبال چی میگردی ؟">
+                <input id="search_input" type="text" onkeyup="showResult(this.value)" placeholder="دنبال چی می‌گردی؟">
             </label>
             <div id="live_search"><p> انگلیسی سرچ کن لطفا :) </p></div>
         </form>

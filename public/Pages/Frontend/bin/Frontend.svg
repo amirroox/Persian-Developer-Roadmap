@@ -329,7 +329,7 @@
         <rect x="181.35" y="673.35" width="293.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1"
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="260" y="699" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>فرم ها و اعتبار سنجی</tspan>
+            <tspan>فرم‌ها و اعتبار سنجی</tspan>
         </text>
         <circle cx="182" cy="677" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="182" cy="677" r="10" fill="rgb(254,0,38)"></circle>
@@ -522,7 +522,7 @@
         <rect x="181.35" y="421.35" width="296.3" height="41.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1"
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="240" y="448.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>اینترنت چگونه کار میکند ؟</tspan>
+            <tspan>اینترنت چگونه کار می‌کند ؟</tspan>
         </text>
         <circle cx="183" cy="421" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="183" cy="421" r="10" fill="rgb(254,0,38)"></circle>
@@ -545,7 +545,7 @@
         <rect x="181.35" y="517.35" width="296.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1"
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="230" y="542.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>مرورگر ها چگونه کار میکنند ؟</tspan>
+            <tspan>مرورگرها چگونه کار می‌کنند ؟</tspan>
         </text>
         <circle cx="182" cy="518" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="182" cy="518" r="10" fill="rgb(254,0,38)"></circle>
@@ -557,7 +557,7 @@
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1150" y="444" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px"
               direction="rtl">
-            <tspan>DNS چیست و چگونه کار میکند ؟</tspan>
+            <tspan>DNS چیست و چگونه کار می‌کند ؟</tspan>
         </text>
         <circle cx="1170" cy="418" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1170" cy="418" r="10" fill="rgb(254,0,38)"></circle>
@@ -568,7 +568,7 @@
         <rect x="895.35" y="464.35" width="277.3" height="37.3" rx="2" fill="rgb(122,255,101)" fill-opacity="1"
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="980" y="490" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>دامین چیست ؟</tspan>
+            <tspan>دامنه چیست ؟</tspan>
         </text>
         <circle cx="1169" cy="468" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="1169" cy="468" r="10" fill="rgb(254,0,38)"></circle>
@@ -636,10 +636,10 @@
         <rect x="906.35" y="903.35" width="349.3" height="75.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1"
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="960" y="935.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>سرویس های آنلاین استفاده از گیت</tspan>
+            <tspan>سرویس‌های آنلاین استفاده از گیت</tspan>
         </text>
         <text x="955" y="960" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px">
-            <tspan>در یکی از سرویس ها اکانت بسازید و شروع کنید</tspan>
+            <tspan>در یکی از سرویس‌ها اکانت بسازید و شروع کنید</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="104-version-control-systems">
@@ -716,7 +716,7 @@
             <tspan>توصیه شده</tspan>
         </text>
         <text x="231" y="305" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
-            <tspan>توصیه نمیکنیم وقت بزارید برای یادگیری</tspan>
+            <tspan>توصیه نمی‌کنیم وقت بذارید برای یادگیری</tspan>
         </text>
         <circle cx="205" cy="299" r="10" fill="rgb(153,153,153)"></circle>
         <text x="232" y="273" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="20px">
@@ -790,7 +790,7 @@
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="629" y="1385" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px"
               direction="rtl">
-            <tspan>پیش پردازنده های CSS</tspan>
+            <tspan>پیش پردازنده‌های CSS</tspan>
         </text>
     </g>
     <path d="M1166 2800Q1076.7916385741682 2770.4368061216014 1058.8627362385523 2706.7758734670156" fill="none"
@@ -1103,16 +1103,16 @@
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="470" y="2096" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="16px"
               direction="rtl">
-            <tspan>اولین فریمورک های CSS</tspan>
+            <tspan>اولین فریمورک‌های CSS</tspan>
         </text>
         <text x="350" y="2123" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="16px">
             <tspan>که به طور پیشفرض از</tspan>
         </text>
         <text x="330" y="2150" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="16px">
-            <tspan>فریمورک های جاوا اسکریپت</tspan>
+            <tspan>فریمورک‌های جاوا اسکریپت</tspan>
         </text>
         <text x="357" y="2177" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="16px">
-            <tspan>استفاده نمی کنند</tspan>
+            <tspan>استفاده نمی‌کنند</tspan>
         </text>
     </g>
     <g class="clickable-group" data-group-id="100-css-frameworks:css-first:bootstrap">
@@ -1133,7 +1133,7 @@
         <rect x="1089.35" y="1883.35" width="229.3" height="273.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1"
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="1120" y="2108" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="19px">
-            <tspan>برای تست نویسی های خود</tspan>
+            <tspan>برای تست نویسی‌های خود</tspan>
         </text>
         <text x="1120" y="2130" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="19px">
             <tspan>همین موارد کافی میباشد</tspan>
@@ -1176,7 +1176,7 @@
         <rect x="630.35" y="2001.35" width="402.3" height="155.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1"
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="720" y="2038.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="23px">
-            <tspan>تست نویسی برای برنامه ها</tspan>
+            <tspan>تست نویسی برای برنامه‌ها</tspan>
         </text>
         <text x="940" y="2104.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px"
               direction="rtl">
@@ -1186,7 +1186,7 @@
         </text>
         <text x="890" y="2133.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px"
               direction="rtl">
-            <tspan>میتوانید کار کنید</tspan>
+            <tspan>می‌توانید کار کنید</tspan>
         </text>
         <text x="950" y="2074.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px"
               direction="rtl">
@@ -1226,7 +1226,7 @@
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="742" y="2388" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px"
               direction="rtl">
-            <tspan>برنامه های وب پیشرو (PWA)</tspan>
+            <tspan>برنامه‌های وب پیشرو (PWA)</tspan>
         </text>
         <circle cx="526" cy="2355" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="526" cy="2355" r="10" fill="rgb(153,153,153)"></circle>
@@ -1768,7 +1768,7 @@
         <rect x="167.35" y="2226.35" width="398.3" height="84.3" rx="2" fill="rgb(0,255,225)" fill-opacity="1"
               stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
         <text x="265" y="2262.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>استراتژی های احراز هویت</tspan>
+            <tspan>استراتژی‌های احراز هویت</tspan>
         </text>
         <circle cx="166" cy="2269" r="10" fill="rgb(255,255,255)"></circle>
         <circle cx="166" cy="2269" r="10" fill="rgb(254,0,38)"></circle>
@@ -1865,7 +1865,7 @@
     <rect x="372.35" y="3384.35" width="435.3" height="115.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1"
           stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
     <text x="450" y="3420.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="21px">
-        <tspan>با قسمت های زیر به یادگیری ادامه دهید</tspan>
+        <tspan>با قسمت‌های زیر به یادگیری ادامه دهید</tspan>
     </text>
     <g class="clickable-group" data-group-id="ext_link:Nodejs">
         <a>
@@ -1892,7 +1892,7 @@
         <rect x="416.35" y="2721.35" width="259.3" height="44.3" rx="2" fill="rgb(65,53,214)" fill-opacity="1"
               stroke="rgb(65,53,214)" stroke-width="2.7"></rect>
         <text x="480" y="2750" fill="rgb(255,255,255)" font-style="normal" font-weight="normal" font-size="21px">
-            <tspan>بهترین عملکرد ها</tspan>
+            <tspan>بهترین عملکردها</tspan>
         </text>
     </g>
 </svg>
