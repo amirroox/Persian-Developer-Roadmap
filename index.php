@@ -57,7 +57,7 @@
             <a href="public/Pages/DevOps/" class="cover">DevOps (توسعه عملیات)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
-            <a href="public/Pages/Android/" class="cover">Android (اندروید)</a>
+            <a href="public/Pages/CPP/">CPP (سی پلاس پلاس)</a>
         </div>
         <div class="col-xs-12 col-s-6 col-l-4">
             <a href="public/Pages/PostgreSQL/" class="cover">PostgreSQL (پستگرس کیوال)</a>

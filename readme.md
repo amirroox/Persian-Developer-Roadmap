@@ -21,6 +21,7 @@ Since most friends had many problems entering the world of computers and program
 - [x] Frontend (completing)
 - [x] Backend (completing)
 - [x] Full Stack (completing)
+- [x] CPP (completing)
 - [ ] Devops
 - [ ] Android
 - [ ] PostgreSQL
