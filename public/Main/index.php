@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="<?= MAIN_SERVER . 'assets/img/LogoWh.svg'?>" rel="icon" type="image/svg" sizes="32x32">
+    <title>Developer RoadMap</title>
+    <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/css/FullStyle.css'?>">
+    <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/css/Style.css'?>">
+    <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/vendor/jquery-ui.min.css'?>">
+    <style>
+        .cover {
+            background-color: rgb(34, 26, 58) !important;
+            filter: blur(.05rem);
+        }
+    </style>
+</head>
+<body>
+<!-- HEADER -->
+<?php view('Main.Header'); ?>
+
+<!-- TOP SECTION HEAD -->
+<section id="Top-Sec">
+    <div class="Header">
+        <h1>Developer Roadmap</h1>
+        <p>نقشه راه شما آماده است</p>
+    </div>
+
+    <section class="between">
+        <hr class="between">
+        <h2>یادگیری لینوکس</h2>
+    </section>
+    <div id="role" class="row container">
+        <div class="col-xs-12 col-s-12">
+            <a style="background-color: rgb(0 23 67)" href="https://linuxlearning.ro-ox.com" target="_blank">Linux Learning</a>
+        </div>
+    </div>
+
+    <section class="between">
+        <hr class="between">
+        <h2>نقشه راه بر اساس نقش</h2>
+    </section>
+    <div id="role" class="row container">
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/Frontend">Frontend (سمت کاربر) </a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/Backend">Backend (سمت سرور)</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/FullStack">Full Stack (سمت کاربر و سمت سرور) </a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/DevOps" class="cover">DevOps (توسعه عملیات)</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/CPP">CPP (سی پلاس پلاس)</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/PostgreSQL" class="cover">PostgreSQL (پستگرس کیوال)</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/Blockchain" class="cover">Blockchain (بلاکچین) </a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/QA" class="cover">QA Engineer (مدیر تضمین کیفیت)</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/SoftwareArchitect" class="cover">Software Architect (معماری نرم افزار)</a>
+        </div>
+    </div>
+
+    <section class="between">
+        <hr class="between">
+        <h2>نقشه راه بر اساس مهارت</h2>
+    </section>
+
+    <div id="role" class="row container">
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/JavaScript">JavaScript (جاوا اسکریپت)</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/Java">Java (جاوا)</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/Vue" class="cover">Vue</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/React" class="cover">React</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/Python" class="cover">Python</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/Nodejs" class="cover">Node.js</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/GO" class="cover">GO</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/TypeScript" class="cover">TypeScript</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="road/Docker" class="cover">Docker</a>
+        </div>
+    </div>
+
+    <section class="between">
+        <hr class="between">
+        <h2>نقشه راه 30 روزه</h2>
+    </section>
+
+    <div id="role" class="row container">
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="HTML" class="cover">HTML</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="JavaScript">JavaScript</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="React" class="cover">React</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="Python" class="cover">Python</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="Java" class="cover">Java</a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="Nodejs" class="cover">Node.js</a>
+        </div>
+    </div>
+
+    <section class="between">
+        <hr class="between">
+        <h2>تمرین و پیشرفت</h2>
+    </section>
+
+    <div id="role" class="row container">
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="#" class="cover"></a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="#" class="cover"></a>
+        </div>
+        <div class="col-xs-12 col-s-6 col-l-4">
+            <a href="#" class="cover"></a>
+        </div>
+    </div>
+
+</section>
+
+<!-- DOWN SECTION  -->
+<section class="Down-Sec">
+    <div id="Guide" class="container">
+        <h3> راهنما </h3>
+        <div>
+            <a href="<?= MAIN_SERVER . 'public/Guides/bin/WhereToStart.php' ?>">از کجا شروع کنیم ؟</a>
+            <a href="<?= MAIN_SERVER . 'public/Guides/bin/ImportantPoints.php' ?>">نکات مهم قبل از استفاده (حتما بخونید)</a>
+        </div>
+    </div>
+</section>
+
+<!-- Box Dialog -->
+<div id="dialog-alert" style="display: none">
+    <p style="text-align: center">
+        متاسفانه این بخش در حال ساخت است.
+    </p>
+</div>
+<!-- Box Dialog -->
+
+<!-- Community -->
+<?php view('Main.Community'); ?>
+
+<!-- FOOTER -->
+<?php view('Main.Footer'); ?>
+
+
+<!-- MAIN SCRIPT -->
+<script src="<?= MAIN_SERVER . 'assets/vendor/jquery-3.7.0.min.js' ?>"></script>
+<script src="<?= MAIN_SERVER . 'assets/vendor/jquery-ui.min.js' ?>"></script>
+    <!-- Script For Response Menu -->
+<script src="<?= MAIN_SERVER . 'assets/js/Response-Menu.js' ?>"></script>
+
+<!-- Script Helper -->
+<script src="<?= MAIN_SERVER . 'assets/js/Helper.js'?>"></script>
+<script src="<?= MAIN_SERVER . 'assets/vendor/popup-js@1.4.0_popup.min.js'?>"></script>
+<?php
+//echo 'REQUEST_URI '.($_SERVER['REQUEST_URI']) . '<hr>';
+//echo 'HTTP_REFERER '.($_SERVER['HTTP_REFERER']);
+//?>
+<script>
+    scroll_down('#Guide-Btn-Down , #Guide-Btn-Up' , 1000 , "#Guide");
+    let cover_pointer = document.querySelectorAll(".cover");
+    for(let i = 0 ; i < cover_pointer.length ; i++ ) {
+        cover_pointer[i].setAttribute('href' , 'javascript:void(1)');
+    }
+    $(".cover").on("click", function () {
+        $('#dialog-alert').dialog({
+            title: "در حال ساخت" ,
+            resizable: false ,
+            closeText: "بستن" ,
+            show: {
+                effect: "blind",
+                duration: 500
+            },
+            hide: {
+                effect: "blind",
+                duration: 500
+            }
+        });
+    });
+
+    /* PopUp For Beginner (Just Direct Main) */
+    <?php if (empty($_SERVER['HTTP_REFERER']) and ($_SERVER['REQUEST_URI']=="/")) : ?>
+    let colorMain = "rgb(20, 15, 42)";
+    const myPopup = new Popup({
+        id: "my-popup-Begin",
+        title: "هنوز تکمیل نیستیم :(",
+        content: `
+        متاسفانه خیلی سرمون شلوغه و نمیتونیم خیلی سریع به سایت و محتوا
+         برسیم ، اما تمام سعیمونو میکنیم که با قدرت بیشتر ، همه چیز
+         رو تکمیل کنیم. از همراهی شما ممنونیم :)
+        `,
+        titleColor: '#000',
+        textColor: colorMain,
+        closeColor: colorMain,
+        borderColor: colorMain,
+        linkColor: colorMain,
+        backgroundColor: "#fb4e6d" ,
+        fadeTime: ".5s" ,
+    });
+    setTimeout(
+        () => {myPopup.show();}
+        ,500);
+    myPopup.show();
+    <?php endif; ?>
+</script>
+</body>
+</html>
+
