@@ -1,0 +1,148 @@
+<?php
+$Name_Page = basename(__DIR__);
+?>
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+    <?php include MAIN_DIR . "public/Main/meta-main.php" ?>
+    <link rel="stylesheet" href="<?= MAIN_SERVER . 'assets/css/FullStyle.css' ?>">  <!-- Style Main seed -->
+    <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Road/style.css' ?>">    <!-- Style Page Clickable -->
+    <link rel="stylesheet" href="<?= MAIN_SERVER . 'public/Topics/style.css' ?>">   <!-- Style Topic popup -->
+    <script src="<?= MAIN_SERVER . 'assets/vendor/swiper-element-bundle.min.js' ?>"></script> <!-- Script Slider -->
+    <title> <?= $Name_Page ?> Road Map </title>
+</head>
+<body>
+
+<!-- HEADER -->
+<?php require MAIN_DIR . "public/Main/Header.php" ?>
+<!-- END HEADER -->
+
+
+<!-- MAIN -->
+
+<!-- Subject -->
+<section class="container subject">
+    <h1><?= "$Name_Page Developer" ?> (جاوا اسکریپت) </h1>
+    <p>راهنمای قدم به قدم برای تبدیل شدن به برنامه نویس جاوا اسکریپت در سال <?= NOW_YEAR['solar'] ?></p>
+    <br>
+    <div class="row options">
+        <div class="col-xs-12 col-s-12 col-l-6">
+            <a href="<?= MAIN_SERVER ?>">تمامی نقشه راه ها</a>
+            <a id="DownloadFile" href="bin/<?= $Name_Page . '.pdf' ?>">دانلود به صورت PDF</a>
+        </div>
+        <div class="col-xs-12 col-s-12 col-l-6" style="text-align: left">
+            <a href='<?= MAIN_GITHUB . "/issues/new?title=[Suggestion] $Name_Page Developer" ?>' target="_blank">پیشنهاد
+                تغییر - نقشه راه بهتر</a>
+        </div>
+    </div>
+    <section class="between">
+        <hr class="between">
+        <h2><a href="<?= MAIN_SITE ?>" target="_blank">Subscribe</a></h2>
+        <h2><?= $Name_Page ?></h2>
+        <h2><a href="<?= site_url('Topic/' . $Name_Page) ?>">Topics</a></h2>
+    </section>
+</section>
+
+
+<!-- Start Overlay Dialog -->
+<div id="Overlay-dark">
+
+</div>
+<!-- End Overlay Dialog -->
+
+<!-- Summery DATA - Data Content -->
+<dialog id="Data_Content" open>
+    <button class="close_up_btn">X</button> <!-- 🗙 -->
+    <div></div>
+    <button class="close_down_btn">بازگشت</button>
+</dialog>
+
+<!-- Main RoadMap -->
+<section class="container RoadMap" style="direction: ltr">
+    <?php
+    //    include "bin/$Name_Page.svg";   #Direct Load
+    CheckLoadSVG(COLOR_SVG, $Name_Page);   #Function Load
+    ?>
+</section>
+
+<!-- END MAIN -->
+
+<!-- Community -->
+<?php require MAIN_DIR . "public/Main/Community.php"?>
+<!-- End Community -->
+<!-- FOOTER -->
+<?php require MAIN_DIR . "public/Main/Footer.php" ?>
+<!-- END FOOTER -->
+
+
+<!-- MAIN SCRIPT -->
+<script src="<?= MAIN_SERVER . 'assets/vendor/jquery-3.7.0.min.js' ?>"></script>
+<!-- Script For Click -->
+<script>
+    $('.clickable-group').on('click', function () {
+        let this_btn = $(this);
+        let data = this_btn.attr('data-group-id');
+        let name_page = "<?=$Name_Page?>";
+        $.ajax({
+            method: "POST",
+            url: "<?=MAIN_SERVER . 'public/AjaxHandler.php' ?>",
+            data: {name: name_page, data_result: data},
+            success: function (result) {
+                if (result.indexOf("ext_link__") !== -1) {
+                    let link = result.replace("ext_link__", "");
+                    if (link.indexOf("Best-Practices") !== -1) {
+                        link = link.replace("Best-Practices__", "");
+                        window.location.href = '<?=MAIN_SERVER . "public/Pages/"?>' + name_page + '/practices/' + link + '.php';
+                    } else if (link.indexOf("30Days__") !== -1) {
+                        link = link.replace("30Days__", "");
+                        window.open('<?=MAIN_SERVER . "public/30Days/"?>' + `${link}` , '_blank');
+                    } else {
+                        window.location.href = '<?=site_url("road/")?>' + link;
+                    }
+                } else {
+                    $('#Data_Content').fadeIn();
+                    $('#Data_Content div').html(result);
+                    $('#Overlay-dark').fadeIn();
+                    /* Blank Link */
+                    let links_ref = document.querySelectorAll('.links-reference a');
+                    for (let i = 0; i < links_ref.length; i++) {
+                        links_ref[i].setAttribute('rel', 'noopener noreferrer nofollow');
+                        links_ref[i].setAttribute('target', '_blank');
+                    }
+                    let NoPic = document.querySelectorAll('#image-slide img') ;
+                    for (let i = 0; i < NoPic.length; i++) {
+                        if(NoPic[i].getAttribute("src").indexOf("#") !== -1) {
+                            NoPic[i].setAttribute("src" , "<?=MAIN_SERVER.'assets/img/Empty-img.jpg'?>");
+                        }
+                    }
+                }
+            }
+        })
+    });
+    $("#Data_Content button , #Overlay-dark").on('click', function () {
+        $('#Data_Content').fadeOut();
+        $('#Overlay-dark').fadeOut();
+    });
+</script>
+
+<!-- Script For Response Menu -->
+<script src="<?= MAIN_SERVER . 'assets/js/Response-Menu.js' ?>"></script>
+
+<?php if (GET_ALL_TOPICS) : ?>
+    <!-- Script For matchesTopics (Get All Topics data-group-id) -->
+    <script src="<?= MAIN_SERVER . 'assets/js/Get-All-Topics.js' ?>"></script>
+    <script>
+        $.ajax({
+            method: "POST",
+            url: "<?=MAIN_SERVER . 'public/Topics/MakeTopics.php' ?>",
+            data: {data: results_topics, name_page: "<?=$Name_Page?>"},
+            success: function (result) {
+                console.log(result);
+            }
+        });
+    </script>
+<?php endif; ?>
+
+<!-- END MAIN SCRIPT-->
+</body>
+</html>
